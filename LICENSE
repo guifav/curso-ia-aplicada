@@ -1,3 +1,12 @@
+# Licença
+
+Este repositório contém materiais sob duas licenças diferentes.
+
+## Exemplos Práticos (Notebooks e Código Fonte)
+
+Todos os arquivos `.ipynb` e códigos de exemplo estão disponibilizados sob a Licença MIT:
+
+```
 MIT License
 
 Copyright (c) 2025 Guilherme Favaron
@@ -19,3 +28,17 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
+
+## Material Didático e Documentação
+
+Todos os documentos `.pdf`, slides, materiais de aula, e qualquer outro conteúdo didático ou teórico presente neste repositório são de **propriedade intelectual exclusiva** de Guilherme Favaron.
+
+**Direitos de uso:**
+- É permitido o uso pessoal para fins de estudo.
+- Não é permitida a reprodução, distribuição, modificação ou utilização comercial sem autorização explícita do autor.
+- Qualquer uso, referência ou citação deve incluir a devida atribuição ao autor e referência ao site www.guilhermefavaron.com.br.
+
+Copyright (c) 2025 Guilherme Favaron. Todos os direitos reservados.
+
+Para solicitações de uso, entre em contato através do e-mail: guifaverao@gmail.com
