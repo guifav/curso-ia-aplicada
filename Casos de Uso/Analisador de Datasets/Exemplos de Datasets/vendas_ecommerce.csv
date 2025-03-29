@@ -1,0 +1,501 @@
+ID_Pedido,Data,ID_Cliente,Produto,Categoria,Preco_Unitario,Quantidade,Desconto_Percentual,Valor_Total,Metodo_Pagamento,Estado,Status_Pedido
+PED-10000,2023-01-01,CLI-7499,Headphone Bluetooth,Periféricos,231.32,1,5,219.75,PIX,GO,Entregue
+PED-10001,2023-01-02,CLI-6347,Smartphone Galaxy X,Periféricos,1480.33,4,20,4737.06,Cartão de Débito,SC,Entregue
+PED-10002,2023-01-03,CLI-1485,Caixa de Som Wireless,Armazenamento,509.17,2,0,1018.34,PIX,RS,Entregue
+PED-10003,2023-01-04,CLI-5478,Smartwatch,Computadores,347.51,1,15,295.38,Boleto,DF,Em Processamento
+PED-10004,2023-01-05,CLI-8381,Smartwatch,Armazenamento,337.82,1,0,337.82,PIX,PR,Entregue
+PED-10005,2023-01-06,CLI-9038,Tablet Ultra,Smartphones,192.93,1,0,192.93,Cartão de Crédito,PR,Entregue
+PED-10006,2023-01-07,CLI-4737,Headphone Bluetooth,TVs e Áudio,243.83,1,0,243.83,Boleto,MG,Cancelado
+PED-10007,2023-01-08,CLI-6829,SSD 1TB,Fotografia,653.26,3,20,1567.82,PayPal,PE,Em Processamento
+PED-10008,2023-01-09,CLI-7150,"Smart TV 50""",Armazenamento,3736.74,2,0,7473.48,PIX,MG,Cancelado
+PED-10009,2023-01-10,CLI-8075,HDD Externo 4TB,Armazenamento,587.34,2,0,1174.68,Boleto,PE,Entregue
+PED-10010,2023-01-11,CLI-4043,Hub USB-C,Fotografia,656.48,1,10,590.83,Cartão de Crédito,AM,Entregue
+PED-10011,2023-01-12,CLI-7227,Notebook Pro 15,TVs e Áudio,2947.67,4,15,10022.08,Cartão de Crédito,DF,Entregue
+PED-10012,2023-01-13,CLI-2404,Smartphone Galaxy X,Smartphones,1439.91,2,0,2879.82,PIX,RS,Cancelado
+PED-10013,2023-01-14,CLI-5839,"Smart TV 50""",Periféricos,3554.02,1,10,3198.62,Boleto,BA,Enviado
+PED-10014,2023-01-15,CLI-5037,Câmera DSLR,Periféricos,1959.63,1,10,1763.67,PayPal,AM,Entregue
+PED-10015,2023-01-16,CLI-2204,Smartwatch,Computadores,336.51,1,0,336.51,Cartão de Débito,CE,Entregue
+PED-10016,2023-01-17,CLI-2344,Power Bank,Armazenamento,451.72,1,20,361.38,Cartão de Crédito,PE,Entregue
+PED-10017,2023-01-18,CLI-5390,Roteador WiFi 6,TVs e Áudio,100.87,1,0,100.87,Cartão de Débito,PA,Em Processamento
+PED-10018,2023-01-19,CLI-3526,Smartphone Galaxy X,Computadores,1560.07,1,0,1560.07,PayPal,CE,Devolvido
+PED-10019,2023-01-20,CLI-7225,SSD 1TB,Periféricos,645.28,1,15,548.49,PIX,PA,Entregue
+PED-10020,2023-01-21,CLI-3527,Câmera DSLR,Computadores,2085.01,2,20,3336.02,Cartão de Crédito,GO,Entregue
+PED-10021,2023-01-22,CLI-7383,SSD 1TB,Computadores,672.46,1,15,571.59,Cartão de Débito,PR,Entregue
+PED-10022,2023-01-23,CLI-6188,Hub USB-C,Smartphones,668.2,1,20,534.56,Cartão de Crédito,PA,Cancelado
+PED-10023,2023-01-24,CLI-6909,Smartwatch,Smartphones,337.17,1,0,337.17,Cartão de Débito,PR,Em Processamento
+PED-10024,2023-01-25,CLI-2745,Carregador Rápido,Computadores,311.34,1,0,311.34,Boleto,GO,Em Processamento
+PED-10025,2023-01-26,CLI-2499,HDD Externo 4TB,Acessórios,602.36,2,0,1204.72,Boleto,PA,Entregue
+PED-10026,2023-01-27,CLI-1085,Caixa de Som Wireless,Fotografia,495.33,1,0,495.33,PIX,DF,Entregue
+PED-10027,2023-01-28,CLI-6050,Smartphone Galaxy X,Periféricos,1532.23,1,0,1532.23,PayPal,PA,Entregue
+PED-10028,2023-01-29,CLI-8286,Console GameStation 5,Periféricos,2085.12,1,0,2085.12,Cartão de Crédito,RJ,Entregue
+PED-10029,2023-01-30,CLI-6896,Hub USB-C,Smartphones,635.96,1,0,635.96,PayPal,CE,Enviado
+PED-10030,2023-01-31,CLI-5419,Teclado Mecânico,Acessórios,566.88,2,10,1020.38,Cartão de Débito,PE,Em Processamento
+PED-10031,2023-02-01,CLI-2674,Caixa de Som Wireless,Acessórios,503.5,1,0,503.5,PIX,CE,Devolvido
+PED-10032,2023-02-02,CLI-3170,Tablet Ultra,Armazenamento,200.29,1,20,160.23,Boleto,AM,Devolvido
+PED-10033,2023-02-03,CLI-2430,Câmera DSLR,Fotografia,1913.53,3,20,4592.47,Boleto,RS,Entregue
+PED-10034,2023-02-04,CLI-4070,Teclado Mecânico,Computadores,553.54,4,15,1882.04,PIX,RJ,Em Processamento
+PED-10035,2023-02-05,CLI-8061,Headphone Bluetooth,Armazenamento,235.33,2,0,470.66,Cartão de Crédito,DF,Cancelado
+PED-10036,2023-02-06,CLI-8353,"Smart TV 50""",Armazenamento,3639.22,1,0,3639.22,PayPal,RJ,Em Processamento
+PED-10037,2023-02-07,CLI-9395,Fone de Ouvido TWS,Acessórios,496.93,1,20,397.54,Cartão de Débito,SP,Entregue
+PED-10038,2023-02-08,CLI-7685,Headphone Bluetooth,Acessórios,235.25,2,15,399.93,PayPal,CE,Entregue
+PED-10039,2023-02-09,CLI-2692,Mouse Gamer,Acessórios,465.12,1,5,441.86,Boleto,CE,Entregue
+PED-10040,2023-02-10,CLI-1430,Mouse Gamer,Computadores,446.62,1,5,424.29,PIX,PR,Cancelado
+PED-10041,2023-02-11,CLI-2468,Roteador WiFi 6,Computadores,100.71,1,20,80.57,Boleto,DF,Entregue
+PED-10042,2023-02-12,CLI-6798,Caixa de Som Wireless,Armazenamento,512.38,1,10,461.14,Boleto,CE,Entregue
+PED-10043,2023-02-13,CLI-2524,Notebook Pro 15,Armazenamento,3092.18,3,20,7421.23,Cartão de Débito,MG,Entregue
+PED-10044,2023-02-14,CLI-6315,Carregador Rápido,Smartphones,324.87,1,10,292.38,Cartão de Crédito,MG,Entregue
+PED-10045,2023-02-15,CLI-7311,SSD 1TB,Periféricos,628.59,2,5,1194.32,Cartão de Crédito,RS,Entregue
+PED-10046,2023-02-16,CLI-1202,Headphone Bluetooth,Periféricos,235.09,1,15,199.83,Cartão de Débito,CE,Entregue
+PED-10047,2023-02-17,CLI-5781,Fone de Ouvido TWS,Periféricos,502.33,1,10,452.1,PIX,PE,Entregue
+PED-10048,2023-02-18,CLI-7779,"Smart TV 50""",Smartphones,3544.05,1,15,3012.44,PayPal,RJ,Entregue
+PED-10049,2023-02-19,CLI-7353,SSD 1TB,Periféricos,641.4,1,15,545.19,PIX,GO,Em Processamento
+PED-10050,2023-02-20,CLI-2387,"Monitor 27""",Acessórios,682.3,4,10,2456.28,PayPal,PR,Entregue
+PED-10051,2023-02-21,CLI-4977,Roteador WiFi 6,Computadores,97.94,2,0,195.88,Cartão de Crédito,AM,Enviado
+PED-10052,2023-02-22,CLI-9537,Mouse Gamer,Computadores,458.23,3,20,1099.75,Boleto,DF,Entregue
+PED-10053,2023-02-23,CLI-3778,HDD Externo 4TB,Periféricos,582.22,3,15,1484.66,Boleto,PE,Entregue
+PED-10054,2023-02-24,CLI-7237,Câmera DSLR,Armazenamento,1932.75,1,0,1932.75,PIX,RJ,Enviado
+PED-10055,2023-02-25,CLI-3777,"Smart TV 50""",Fotografia,3528.88,3,0,10586.64,Cartão de Débito,CE,Entregue
+PED-10056,2023-02-26,CLI-3274,Notebook Pro 15,Acessórios,3155.66,1,5,2997.88,PayPal,PE,Entregue
+PED-10057,2023-02-27,CLI-5405,Smartwatch,Smartphones,349.45,1,0,349.45,Boleto,PA,Entregue
+PED-10058,2023-02-28,CLI-5933,"Monitor 27""",Fotografia,667.46,1,5,634.09,PIX,SP,Em Processamento
+PED-10059,2023-03-01,CLI-5397,"Smart TV 50""",Computadores,3472.26,1,5,3298.65,Cartão de Débito,PE,Entregue
+PED-10060,2023-03-02,CLI-9079,Smartwatch,Periféricos,346.82,1,15,294.8,Cartão de Crédito,MG,Entregue
+PED-10061,2023-03-03,CLI-3390,Headphone Bluetooth,Smartphones,249.55,1,0,249.55,Cartão de Débito,CE,Entregue
+PED-10062,2023-03-04,CLI-2036,Fone de Ouvido TWS,Acessórios,476.8,2,20,762.88,Cartão de Crédito,BA,Entregue
+PED-10063,2023-03-05,CLI-3739,Caixa de Som Wireless,Computadores,506.65,1,0,506.65,PIX,PE,Entregue
+PED-10064,2023-03-06,CLI-8121,Carregador Rápido,Periféricos,313.99,1,10,282.59,Cartão de Débito,DF,Entregue
+PED-10065,2023-03-07,CLI-5521,Mouse Gamer,Acessórios,477.88,1,0,477.88,PIX,SP,Entregue
+PED-10066,2023-03-08,CLI-7899,Console GameStation 5,Armazenamento,2023.62,1,0,2023.62,Cartão de Crédito,CE,Entregue
+PED-10067,2023-03-09,CLI-5911,Mouse Gamer,Fotografia,444.39,2,10,799.9,Boleto,PE,Entregue
+PED-10068,2023-03-10,CLI-8933,Mouse Gamer,Fotografia,440.7,1,0,440.7,Boleto,GO,Cancelado
+PED-10069,2023-03-11,CLI-2260,Câmera DSLR,Fotografia,2005.22,5,0,10026.1,Cartão de Crédito,PA,Entregue
+PED-10070,2023-03-12,CLI-6916,Caixa de Som Wireless,TVs e Áudio,499.4,2,5,948.86,PayPal,SC,Entregue
+PED-10071,2023-03-13,CLI-5123,"Smart TV 50""",Periféricos,3432.78,1,5,3261.14,PayPal,AM,Em Processamento
+PED-10072,2023-03-14,CLI-5040,Roteador WiFi 6,Acessórios,101.16,1,0,101.16,Boleto,SP,Entregue
+PED-10073,2023-03-15,CLI-9123,Console GameStation 5,Fotografia,2084.49,2,0,4168.98,Boleto,BA,Entregue
+PED-10074,2023-03-16,CLI-4203,SSD 1TB,Periféricos,638.0,2,0,1276.0,Cartão de Débito,SC,Enviado
+PED-10075,2023-03-17,CLI-8501,Smartwatch,Armazenamento,331.92,2,20,531.07,Cartão de Débito,SP,Cancelado
+PED-10076,2023-03-18,CLI-2752,Console GameStation 5,Fotografia,2068.31,2,0,4136.62,Boleto,AM,Entregue
+PED-10077,2023-03-19,CLI-3219,Carregador Rápido,Acessórios,326.29,1,0,326.29,PayPal,PR,Cancelado
+PED-10078,2023-03-20,CLI-5991,Fone de Ouvido TWS,Periféricos,490.16,1,15,416.64,Cartão de Débito,DF,Entregue
+PED-10079,2023-03-21,CLI-1110,Caixa de Som Wireless,Fotografia,497.24,1,20,397.79,Cartão de Crédito,RJ,Entregue
+PED-10080,2023-03-22,CLI-7483,SSD 1TB,Acessórios,625.96,3,20,1502.3,Cartão de Débito,SP,Entregue
+PED-10081,2023-03-23,CLI-6443,Smartwatch,Computadores,356.67,2,0,713.34,Cartão de Débito,BA,Devolvido
+PED-10082,2023-03-24,CLI-7224,Teclado Mecânico,Armazenamento,589.08,1,10,530.17,Cartão de Débito,RS,Entregue
+PED-10083,2023-03-25,CLI-6399,Notebook Pro 15,Periféricos,2997.92,1,10,2698.13,PIX,AM,Entregue
+PED-10084,2023-03-26,CLI-8212,Smartwatch,Acessórios,346.89,1,10,312.2,Cartão de Crédito,RJ,Entregue
+PED-10085,2023-03-27,CLI-6484,Notebook Pro 15,Acessórios,3040.95,1,5,2888.9,Boleto,CE,Entregue
+PED-10086,2023-03-28,CLI-8055,Teclado Mecânico,TVs e Áudio,585.8,2,5,1113.02,PayPal,SP,Entregue
+PED-10087,2023-03-29,CLI-3230,Fone de Ouvido TWS,Periféricos,480.16,2,10,864.29,PayPal,RJ,Entregue
+PED-10088,2023-03-30,CLI-5922,Caixa de Som Wireless,Computadores,515.65,3,10,1392.25,Boleto,PE,Entregue
+PED-10089,2023-03-31,CLI-6253,"Smart TV 50""",Periféricos,3708.6,1,20,2966.88,PIX,SP,Entregue
+PED-10090,2023-04-01,CLI-4290,Câmera DSLR,Armazenamento,1950.44,1,15,1657.87,PayPal,SC,Entregue
+PED-10091,2023-04-02,CLI-8848,HDD Externo 4TB,TVs e Áudio,604.34,2,0,1208.68,Cartão de Débito,BA,Entregue
+PED-10092,2023-04-03,CLI-6147,Teclado Mecânico,Periféricos,557.31,2,5,1058.89,PayPal,MG,Entregue
+PED-10093,2023-04-04,CLI-3910,Câmera DSLR,Periféricos,2081.71,1,20,1665.37,Cartão de Crédito,PA,Entregue
+PED-10094,2023-04-05,CLI-7524,Tripé para Câmera,Fotografia,1727.09,2,10,3108.76,Cartão de Crédito,MG,Enviado
+PED-10095,2023-04-06,CLI-6228,Fone de Ouvido TWS,Acessórios,495.15,1,15,420.88,Boleto,PA,Entregue
+PED-10096,2023-04-07,CLI-5775,Carregador Rápido,Armazenamento,319.25,1,0,319.25,PIX,GO,Entregue
+PED-10097,2023-04-08,CLI-9044,Tablet Ultra,Computadores,196.42,1,0,196.42,PIX,AM,Entregue
+PED-10098,2023-04-09,CLI-4971,Caixa de Som Wireless,TVs e Áudio,501.12,1,10,451.01,PayPal,GO,Entregue
+PED-10099,2023-04-10,CLI-6339,Tablet Ultra,Acessórios,210.46,1,5,199.94,PIX,BA,Entregue
+PED-10100,2023-04-11,CLI-7161,Smartwatch,Smartphones,344.76,1,10,310.28,PIX,RS,Entregue
+PED-10101,2023-04-12,CLI-5592,SSD 1TB,Armazenamento,617.96,2,0,1235.92,PayPal,BA,Entregue
+PED-10102,2023-04-13,CLI-7437,SSD 1TB,TVs e Áudio,642.94,1,0,642.94,Cartão de Crédito,PE,Entregue
+PED-10103,2023-04-14,CLI-6980,Caixa de Som Wireless,Computadores,489.11,1,5,464.65,Cartão de Débito,BA,Entregue
+PED-10104,2023-04-15,CLI-2865,HDD Externo 4TB,TVs e Áudio,590.36,3,0,1771.08,Boleto,BA,Entregue
+PED-10105,2023-04-16,CLI-4273,Hub USB-C,TVs e Áudio,659.74,1,20,527.79,Cartão de Crédito,RJ,Entregue
+PED-10106,2023-04-17,CLI-9939,HDD Externo 4TB,TVs e Áudio,584.69,1,20,467.75,PIX,GO,Entregue
+PED-10107,2023-04-18,CLI-3947,Fone de Ouvido TWS,Fotografia,471.22,2,0,942.44,PIX,GO,Entregue
+PED-10108,2023-04-19,CLI-1440,Mouse Gamer,Smartphones,442.08,1,15,375.77,PayPal,CE,Entregue
+PED-10109,2023-04-20,CLI-8563,Smartwatch,Computadores,351.94,1,0,351.94,Boleto,MG,Entregue
+PED-10110,2023-04-21,CLI-4434,Tablet Ultra,Computadores,201.9,1,10,181.71,Cartão de Débito,GO,Entregue
+PED-10111,2023-04-22,CLI-8183,Power Bank,Computadores,458.41,1,15,389.65,PayPal,RS,Em Processamento
+PED-10112,2023-04-23,CLI-5773,Tripé para Câmera,Acessórios,1773.31,3,0,5319.93,PayPal,RJ,Entregue
+PED-10113,2023-04-24,CLI-2133,"Smart TV 50""",Armazenamento,3415.04,2,0,6830.08,Cartão de Débito,MG,Entregue
+PED-10114,2023-04-25,CLI-7703,Notebook Pro 15,Computadores,3152.05,2,0,6304.1,Cartão de Débito,CE,Enviado
+PED-10115,2023-04-26,CLI-9180,Headphone Bluetooth,Armazenamento,244.23,3,15,622.79,PIX,BA,Cancelado
+PED-10116,2023-04-27,CLI-3280,Tablet Ultra,Computadores,206.7,2,5,392.73,PayPal,CE,Entregue
+PED-10117,2023-04-28,CLI-5961,Console GameStation 5,Smartphones,1979.02,1,5,1880.07,Cartão de Crédito,MG,Entregue
+PED-10118,2023-04-29,CLI-4965,Hub USB-C,Acessórios,667.64,3,10,1802.63,Cartão de Crédito,AM,Em Processamento
+PED-10119,2023-04-30,CLI-5139,Roteador WiFi 6,Acessórios,99.51,1,10,89.56,PayPal,PR,Entregue
+PED-10120,2023-05-01,CLI-3525,"Smart TV 50""",TVs e Áudio,3750.39,2,10,6750.7,Cartão de Débito,SP,Entregue
+PED-10121,2023-05-02,CLI-7932,Fone de Ouvido TWS,Fotografia,479.54,3,0,1438.62,Boleto,PA,Entregue
+PED-10122,2023-05-03,CLI-7176,Fone de Ouvido TWS,Acessórios,457.56,1,0,457.56,Cartão de Débito,SP,Entregue
+PED-10123,2023-05-04,CLI-2211,Roteador WiFi 6,Acessórios,96.44,1,0,96.44,Cartão de Débito,SC,Entregue
+PED-10124,2023-05-05,CLI-8357,Carregador Rápido,Smartphones,329.28,1,0,329.28,Boleto,PE,Entregue
+PED-10125,2023-05-06,CLI-8851,Power Bank,Computadores,488.37,1,5,463.95,Cartão de Débito,GO,Entregue
+PED-10126,2023-05-07,CLI-7566,Caixa de Som Wireless,Periféricos,515.39,2,5,979.24,Boleto,AM,Entregue
+PED-10127,2023-05-08,CLI-9755,SSD 1TB,Acessórios,636.64,3,20,1527.94,PayPal,CE,Entregue
+PED-10128,2023-05-09,CLI-9300,Smartphone Galaxy X,Acessórios,1513.28,1,0,1513.28,Boleto,BA,Entregue
+PED-10129,2023-05-10,CLI-7853,Headphone Bluetooth,Periféricos,238.29,1,15,202.55,Cartão de Crédito,CE,Entregue
+PED-10130,2023-05-11,CLI-9907,SSD 1TB,Fotografia,654.71,1,10,589.24,Boleto,BA,Entregue
+PED-10131,2023-05-12,CLI-1602,Caixa de Som Wireless,Armazenamento,492.33,1,0,492.33,Cartão de Débito,PR,Enviado
+PED-10132,2023-05-13,CLI-6890,Teclado Mecânico,Smartphones,570.79,1,20,456.63,PayPal,PR,Entregue
+PED-10133,2023-05-14,CLI-9796,Headphone Bluetooth,Periféricos,231.05,1,15,196.39,Boleto,PE,Entregue
+PED-10134,2023-05-15,CLI-2392,"Monitor 27""",Periféricos,648.56,3,15,1653.83,Cartão de Débito,RS,Entregue
+PED-10135,2023-05-16,CLI-2791,Hub USB-C,Fotografia,687.71,1,0,687.71,Boleto,MG,Entregue
+PED-10136,2023-05-17,CLI-5067,Console GameStation 5,Acessórios,1969.51,1,0,1969.51,PayPal,SC,Entregue
+PED-10137,2023-05-18,CLI-6816,Carregador Rápido,Acessórios,332.63,2,0,665.26,PayPal,PR,Entregue
+PED-10138,2023-05-19,CLI-3725,Smartphone Galaxy X,Smartphones,1531.98,1,0,1531.98,Cartão de Crédito,AM,Entregue
+PED-10139,2023-05-20,CLI-1725,Caixa de Som Wireless,TVs e Áudio,514.28,4,10,1851.41,PayPal,PA,Entregue
+PED-10140,2023-05-21,CLI-7547,Power Bank,TVs e Áudio,487.56,4,15,1657.7,Cartão de Débito,RJ,Entregue
+PED-10141,2023-05-22,CLI-6432,Console GameStation 5,Periféricos,2073.76,1,5,1970.07,PayPal,SP,Entregue
+PED-10142,2023-05-23,CLI-8052,Power Bank,Acessórios,465.31,1,0,465.31,PayPal,PA,Entregue
+PED-10143,2023-05-24,CLI-2735,Headphone Bluetooth,Periféricos,234.93,1,0,234.93,Cartão de Débito,GO,Entregue
+PED-10144,2023-05-25,CLI-1172,"Monitor 27""",Periféricos,664.77,1,15,565.05,Cartão de Débito,BA,Entregue
+PED-10145,2023-05-26,CLI-2615,Power Bank,Acessórios,483.18,1,20,386.54,PayPal,DF,Enviado
+PED-10146,2023-05-27,CLI-5239,Roteador WiFi 6,Fotografia,100.01,2,15,170.02,PayPal,PA,Entregue
+PED-10147,2023-05-28,CLI-4637,Câmera DSLR,Armazenamento,1902.49,1,10,1712.24,Boleto,SP,Entregue
+PED-10148,2023-05-29,CLI-9366,Tablet Ultra,Armazenamento,191.81,1,20,153.45,PayPal,PR,Em Processamento
+PED-10149,2023-05-30,CLI-9499,Mouse Gamer,Fotografia,462.27,1,0,462.27,Cartão de Crédito,PR,Entregue
+PED-10150,2023-05-31,CLI-4621,Console GameStation 5,Periféricos,2086.09,3,0,6258.27,Cartão de Crédito,RJ,Entregue
+PED-10151,2023-06-01,CLI-8303,SSD 1TB,Fotografia,672.33,1,0,672.33,Cartão de Crédito,RJ,Entregue
+PED-10152,2023-06-02,CLI-7129,Power Bank,Computadores,482.58,1,10,434.32,Cartão de Crédito,DF,Entregue
+PED-10153,2023-06-03,CLI-7408,Smartphone Galaxy X,Acessórios,1499.4,1,15,1274.49,PayPal,SP,Entregue
+PED-10154,2023-06-04,CLI-8586,Roteador WiFi 6,Computadores,92.54,5,0,462.7,Boleto,PE,Entregue
+PED-10155,2023-06-05,CLI-9199,Teclado Mecânico,TVs e Áudio,569.61,1,0,569.61,Cartão de Débito,DF,Entregue
+PED-10156,2023-06-06,CLI-3469,Tripé para Câmera,Acessórios,1790.05,2,0,3580.1,PayPal,GO,Entregue
+PED-10157,2023-06-07,CLI-6651,Smartphone Galaxy X,Acessórios,1500.86,2,15,2551.46,PIX,AM,Entregue
+PED-10158,2023-06-08,CLI-1402,Headphone Bluetooth,Smartphones,243.96,1,15,207.37,PayPal,SP,Entregue
+PED-10159,2023-06-09,CLI-8909,Mouse Gamer,Acessórios,474.7,2,15,806.99,Cartão de Crédito,PR,Entregue
+PED-10160,2023-06-10,CLI-2712,"Monitor 27""",TVs e Áudio,621.01,1,5,589.96,PIX,AM,Entregue
+PED-10161,2023-06-11,CLI-5840,Smartwatch,Armazenamento,355.34,2,0,710.68,PayPal,SP,Devolvido
+PED-10162,2023-06-12,CLI-7815,Notebook Pro 15,Armazenamento,3013.19,2,10,5423.74,Boleto,BA,Entregue
+PED-10163,2023-06-13,CLI-2406,Smartwatch,Periféricos,340.8,1,15,289.68,Boleto,PE,Entregue
+PED-10164,2023-06-14,CLI-2901,HDD Externo 4TB,Acessórios,566.49,1,0,566.49,PIX,PR,Entregue
+PED-10165,2023-06-15,CLI-3321,"Smart TV 50""",Armazenamento,3589.49,2,0,7178.98,Cartão de Débito,CE,Entregue
+PED-10166,2023-06-16,CLI-6707,"Smart TV 50""",Computadores,3601.93,1,10,3241.74,PIX,PR,Entregue
+PED-10167,2023-06-17,CLI-6110,Tripé para Câmera,Periféricos,1776.24,1,5,1687.43,Boleto,PA,Entregue
+PED-10168,2023-06-18,CLI-6620,"Smart TV 50""",Acessórios,3460.25,1,15,2941.21,PIX,PA,Entregue
+PED-10169,2023-06-19,CLI-8460,SSD 1TB,Computadores,613.5,1,20,490.8,Cartão de Crédito,SP,Entregue
+PED-10170,2023-06-20,CLI-4389,Tablet Ultra,Fotografia,207.89,2,0,415.78,Cartão de Crédito,MG,Entregue
+PED-10171,2023-06-21,CLI-9537,Tablet Ultra,Fotografia,202.86,1,20,162.29,Cartão de Débito,CE,Enviado
+PED-10172,2023-06-22,CLI-8912,Tripé para Câmera,Smartphones,1681.03,1,0,1681.03,PIX,SC,Entregue
+PED-10173,2023-06-23,CLI-6706,SSD 1TB,Acessórios,666.91,1,15,566.87,PIX,PR,Entregue
+PED-10174,2023-06-24,CLI-8801,Console GameStation 5,Fotografia,1930.38,2,15,3281.65,PIX,AM,Entregue
+PED-10175,2023-06-25,CLI-2599,Caixa de Som Wireless,Fotografia,494.87,1,20,395.9,PIX,DF,Devolvido
+PED-10176,2023-06-26,CLI-8178,Power Bank,Armazenamento,459.38,2,15,780.95,Cartão de Débito,RS,Entregue
+PED-10177,2023-06-27,CLI-8412,Roteador WiFi 6,Smartphones,94.06,1,15,79.95,Boleto,DF,Entregue
+PED-10178,2023-06-28,CLI-6225,Hub USB-C,Smartphones,624.66,3,10,1686.58,PayPal,DF,Cancelado
+PED-10179,2023-06-29,CLI-2100,Câmera DSLR,Armazenamento,2055.86,1,0,2055.86,Cartão de Débito,PA,Enviado
+PED-10180,2023-06-30,CLI-5919,SSD 1TB,Acessórios,666.16,1,15,566.24,Boleto,GO,Em Processamento
+PED-10181,2023-07-01,CLI-1732,Câmera DSLR,Computadores,2030.51,1,15,1725.93,Boleto,RS,Entregue
+PED-10182,2023-07-02,CLI-2885,"Monitor 27""",Periféricos,628.29,3,5,1790.63,Boleto,PR,Entregue
+PED-10183,2023-07-03,CLI-1370,Fone de Ouvido TWS,Acessórios,476.97,3,10,1287.82,PIX,SC,Entregue
+PED-10184,2023-07-04,CLI-6620,Mouse Gamer,Computadores,449.24,1,0,449.24,Cartão de Débito,MG,Cancelado
+PED-10185,2023-07-05,CLI-2791,Carregador Rápido,Smartphones,329.2,2,0,658.4,Boleto,GO,Entregue
+PED-10186,2023-07-06,CLI-3692,Power Bank,TVs e Áudio,477.51,2,0,955.02,PayPal,CE,Entregue
+PED-10187,2023-07-07,CLI-4996,Carregador Rápido,Acessórios,323.87,1,0,323.87,PayPal,PR,Entregue
+PED-10188,2023-07-08,CLI-9454,Headphone Bluetooth,TVs e Áudio,233.34,1,0,233.34,Cartão de Crédito,BA,Em Processamento
+PED-10189,2023-07-09,CLI-3858,Smartwatch,Computadores,357.04,1,0,357.04,Boleto,SC,Entregue
+PED-10190,2023-07-10,CLI-3623,Smartwatch,Acessórios,334.74,1,0,334.74,Cartão de Débito,SC,Entregue
+PED-10191,2023-07-11,CLI-6422,"Smart TV 50""",TVs e Áudio,3537.08,3,20,8488.99,PIX,SP,Entregue
+PED-10192,2023-07-12,CLI-7985,Teclado Mecânico,TVs e Áudio,561.14,3,5,1599.25,Cartão de Crédito,CE,Entregue
+PED-10193,2023-07-13,CLI-8570,Smartphone Galaxy X,Periféricos,1469.7,2,0,2939.4,Boleto,DF,Entregue
+PED-10194,2023-07-14,CLI-4798,HDD Externo 4TB,Acessórios,591.53,1,0,591.53,PIX,AM,Entregue
+PED-10195,2023-07-15,CLI-7636,SSD 1TB,TVs e Áudio,645.26,1,0,645.26,Cartão de Débito,MG,Entregue
+PED-10196,2023-07-16,CLI-4022,Smartwatch,Periféricos,362.12,2,0,724.24,Cartão de Débito,GO,Entregue
+PED-10197,2023-07-17,CLI-4053,HDD Externo 4TB,Periféricos,575.28,3,0,1725.84,Cartão de Crédito,GO,Entregue
+PED-10198,2023-07-18,CLI-8080,Smartwatch,Acessórios,361.62,3,0,1084.86,Cartão de Crédito,BA,Entregue
+PED-10199,2023-07-19,CLI-7481,Smartphone Galaxy X,TVs e Áudio,1533.25,2,20,2453.2,Boleto,CE,Entregue
+PED-10200,2023-07-20,CLI-1478,"Smart TV 50""",Periféricos,3497.64,2,20,5596.22,PIX,PE,Entregue
+PED-10201,2023-07-21,CLI-4232,Notebook Pro 15,Smartphones,3097.05,1,0,3097.05,PayPal,SP,Entregue
+PED-10202,2023-07-22,CLI-8365,Smartwatch,Acessórios,351.53,1,10,316.38,PIX,RS,Entregue
+PED-10203,2023-07-23,CLI-8037,"Smart TV 50""",Smartphones,3665.89,3,20,8798.14,Cartão de Débito,GO,Entregue
+PED-10204,2023-07-24,CLI-7370,Notebook Pro 15,Armazenamento,2938.01,2,10,5288.42,Cartão de Débito,GO,Entregue
+PED-10205,2023-07-25,CLI-1072,Teclado Mecânico,Fotografia,568.07,1,20,454.46,Boleto,BA,Devolvido
+PED-10206,2023-07-26,CLI-4519,"Smart TV 50""",Smartphones,3577.17,1,15,3040.59,PayPal,PA,Entregue
+PED-10207,2023-07-27,CLI-4371,Power Bank,TVs e Áudio,490.0,2,10,882.0,Boleto,CE,Em Processamento
+PED-10208,2023-07-28,CLI-5560,Smartwatch,Computadores,337.74,1,0,337.74,Cartão de Débito,RS,Entregue
+PED-10209,2023-07-29,CLI-2025,Caixa de Som Wireless,Armazenamento,511.65,1,15,434.9,Cartão de Débito,AM,Entregue
+PED-10210,2023-07-30,CLI-2667,Tripé para Câmera,Smartphones,1744.23,1,0,1744.23,PIX,BA,Em Processamento
+PED-10211,2023-07-31,CLI-9796,Câmera DSLR,Periféricos,1965.62,2,20,3144.99,PayPal,BA,Entregue
+PED-10212,2023-08-01,CLI-4063,SSD 1TB,Armazenamento,649.22,2,10,1168.6,PIX,MG,Entregue
+PED-10213,2023-08-02,CLI-6993,Tablet Ultra,Smartphones,202.88,1,0,202.88,PIX,SC,Entregue
+PED-10214,2023-08-03,CLI-6340,HDD Externo 4TB,Periféricos,597.75,2,10,1075.95,Boleto,BA,Entregue
+PED-10215,2023-08-04,CLI-4228,HDD Externo 4TB,Smartphones,600.29,1,5,570.28,PIX,MG,Cancelado
+PED-10216,2023-08-05,CLI-8496,Tripé para Câmera,Computadores,1753.23,1,0,1753.23,Cartão de Crédito,PA,Em Processamento
+PED-10217,2023-08-06,CLI-2867,Smartwatch,Computadores,356.8,2,0,713.6,Cartão de Crédito,CE,Cancelado
+PED-10218,2023-08-07,CLI-5298,Tripé para Câmera,Periféricos,1747.89,2,0,3495.78,PIX,PE,Entregue
+PED-10219,2023-08-08,CLI-9019,Hub USB-C,Smartphones,683.38,2,20,1093.41,PayPal,PR,Entregue
+PED-10220,2023-08-09,CLI-9646,Câmera DSLR,Fotografia,2024.27,2,15,3441.26,PIX,PR,Cancelado
+PED-10221,2023-08-10,CLI-6134,Headphone Bluetooth,Computadores,234.75,1,20,187.8,Cartão de Débito,SC,Entregue
+PED-10222,2023-08-11,CLI-7367,Headphone Bluetooth,Computadores,237.9,1,10,214.11,Cartão de Débito,AM,Entregue
+PED-10223,2023-08-12,CLI-7431,Hub USB-C,Computadores,662.11,1,20,529.69,PayPal,MG,Entregue
+PED-10224,2023-08-13,CLI-2871,Mouse Gamer,Acessórios,466.89,1,0,466.89,Boleto,PA,Entregue
+PED-10225,2023-08-14,CLI-6700,Hub USB-C,Armazenamento,629.96,1,15,535.47,Cartão de Crédito,PE,Em Processamento
+PED-10226,2023-08-15,CLI-6766,Hub USB-C,Smartphones,643.43,4,5,2445.03,Cartão de Crédito,SP,Entregue
+PED-10227,2023-08-16,CLI-8501,Carregador Rápido,Fotografia,334.42,1,0,334.42,Boleto,CE,Em Processamento
+PED-10228,2023-08-17,CLI-3826,Notebook Pro 15,Computadores,2976.97,3,5,8484.36,PIX,BA,Entregue
+PED-10229,2023-08-18,CLI-5873,Headphone Bluetooth,Acessórios,230.52,2,0,461.04,PayPal,BA,Entregue
+PED-10230,2023-08-19,CLI-2388,Notebook Pro 15,Armazenamento,3088.89,2,15,5251.11,PIX,CE,Entregue
+PED-10231,2023-08-20,CLI-3194,Fone de Ouvido TWS,TVs e Áudio,502.39,1,15,427.03,Boleto,CE,Em Processamento
+PED-10232,2023-08-21,CLI-6131,Teclado Mecânico,Periféricos,563.82,1,0,563.82,PayPal,MG,Entregue
+PED-10233,2023-08-22,CLI-2931,Headphone Bluetooth,TVs e Áudio,249.21,1,5,236.75,Cartão de Crédito,BA,Entregue
+PED-10234,2023-08-23,CLI-4908,Smartwatch,Computadores,356.53,1,10,320.88,Cartão de Crédito,PR,Entregue
+PED-10235,2023-08-24,CLI-6003,Câmera DSLR,Fotografia,1946.59,2,0,3893.18,PIX,SC,Enviado
+PED-10236,2023-08-25,CLI-2916,Câmera DSLR,Fotografia,2059.86,1,20,1647.89,Cartão de Débito,PR,Entregue
+PED-10237,2023-08-26,CLI-3999,SSD 1TB,Armazenamento,639.3,1,15,543.4,Boleto,RS,Em Processamento
+PED-10238,2023-08-27,CLI-7116,Carregador Rápido,Armazenamento,336.34,2,20,538.14,Boleto,GO,Entregue
+PED-10239,2023-08-28,CLI-3316,Tablet Ultra,Smartphones,205.4,1,5,195.13,PIX,RJ,Entregue
+PED-10240,2023-08-29,CLI-9369,Hub USB-C,Periféricos,646.29,3,0,1938.87,Boleto,PE,Entregue
+PED-10241,2023-08-30,CLI-7364,Console GameStation 5,Periféricos,1924.79,4,10,6929.24,Cartão de Crédito,RS,Entregue
+PED-10242,2023-08-31,CLI-7852,Caixa de Som Wireless,Computadores,519.8,3,0,1559.4,PIX,RJ,Entregue
+PED-10243,2023-09-01,CLI-3258,Carregador Rápido,TVs e Áudio,314.62,1,0,314.62,Cartão de Crédito,CE,Entregue
+PED-10244,2023-09-02,CLI-7286,Smartwatch,Smartphones,361.22,1,20,288.98,PayPal,AM,Entregue
+PED-10245,2023-09-03,CLI-7931,"Smart TV 50""",Fotografia,3707.21,3,20,8897.3,PayPal,PR,Enviado
+PED-10246,2023-09-04,CLI-4043,Carregador Rápido,Smartphones,333.66,1,5,316.98,Cartão de Débito,SP,Entregue
+PED-10247,2023-09-05,CLI-8973,SSD 1TB,TVs e Áudio,671.21,4,20,2147.87,Boleto,SC,Entregue
+PED-10248,2023-09-06,CLI-9804,Headphone Bluetooth,Fotografia,250.5,4,0,1002.0,PayPal,BA,Cancelado
+PED-10249,2023-09-07,CLI-3838,Notebook Pro 15,Armazenamento,3170.48,3,0,9511.44,Boleto,GO,Entregue
+PED-10250,2023-09-08,CLI-3733,SSD 1TB,Acessórios,631.87,1,15,537.09,Cartão de Crédito,DF,Entregue
+PED-10251,2023-09-09,CLI-9022,Smartphone Galaxy X,Acessórios,1553.24,1,10,1397.92,PIX,DF,Cancelado
+PED-10252,2023-09-10,CLI-5732,"Smart TV 50""",Armazenamento,3404.4,3,5,9702.54,PayPal,SP,Entregue
+PED-10253,2023-09-11,CLI-3298,Smartwatch,Computadores,346.38,1,5,329.06,PIX,RJ,Entregue
+PED-10254,2023-09-12,CLI-4065,Console GameStation 5,Smartphones,1992.77,1,20,1594.22,PayPal,PR,Entregue
+PED-10255,2023-09-13,CLI-6154,Hub USB-C,Fotografia,668.24,1,0,668.24,Boleto,PA,Em Processamento
+PED-10256,2023-09-14,CLI-8389,Tripé para Câmera,Armazenamento,1755.5,3,20,4213.2,PayPal,PA,Entregue
+PED-10257,2023-09-15,CLI-1878,Tripé para Câmera,Periféricos,1740.35,2,5,3306.66,PayPal,DF,Entregue
+PED-10258,2023-09-16,CLI-6882,Câmera DSLR,Armazenamento,2059.4,1,10,1853.46,Cartão de Crédito,AM,Enviado
+PED-10259,2023-09-17,CLI-1157,Fone de Ouvido TWS,Computadores,500.89,1,10,450.8,Cartão de Débito,GO,Em Processamento
+PED-10260,2023-09-18,CLI-8939,Notebook Pro 15,Smartphones,2956.26,2,5,5616.89,Cartão de Crédito,CE,Entregue
+PED-10261,2023-09-19,CLI-3236,Console GameStation 5,Armazenamento,1948.54,5,0,9742.7,PIX,PR,Entregue
+PED-10262,2023-09-20,CLI-4196,Fone de Ouvido TWS,Periféricos,456.98,1,20,365.58,Boleto,PE,Entregue
+PED-10263,2023-09-21,CLI-7290,Smartphone Galaxy X,TVs e Áudio,1567.36,1,0,1567.36,Boleto,PR,Entregue
+PED-10264,2023-09-22,CLI-9281,Fone de Ouvido TWS,Periféricos,482.72,3,20,1158.53,PayPal,RS,Entregue
+PED-10265,2023-09-23,CLI-9109,Caixa de Som Wireless,Armazenamento,517.43,2,10,931.37,Boleto,SC,Entregue
+PED-10266,2023-09-24,CLI-7703,Carregador Rápido,Fotografia,317.25,2,0,634.5,Cartão de Débito,SP,Em Processamento
+PED-10267,2023-09-25,CLI-9056,"Monitor 27""",Periféricos,622.13,2,20,995.41,Cartão de Débito,PR,Enviado
+PED-10268,2023-09-26,CLI-7809,Hub USB-C,Smartphones,678.16,1,0,678.16,PayPal,PR,Entregue
+PED-10269,2023-09-27,CLI-8272,SSD 1TB,Periféricos,666.69,1,0,666.69,PayPal,AM,Em Processamento
+PED-10270,2023-09-28,CLI-9006,Tripé para Câmera,Fotografia,1691.62,2,15,2875.75,PIX,RJ,Entregue
+PED-10271,2023-09-29,CLI-3740,Tablet Ultra,Periféricos,198.62,2,5,377.38,PayPal,AM,Em Processamento
+PED-10272,2023-09-30,CLI-2354,Câmera DSLR,Smartphones,1923.21,3,20,4615.7,Cartão de Crédito,PA,Entregue
+PED-10273,2023-10-01,CLI-1505,"Monitor 27""",TVs e Áudio,679.57,3,0,2038.71,Cartão de Crédito,PE,Entregue
+PED-10274,2023-10-02,CLI-4613,Câmera DSLR,Fotografia,1956.05,1,10,1760.44,Cartão de Crédito,PR,Em Processamento
+PED-10275,2023-10-03,CLI-5785,Notebook Pro 15,Acessórios,3074.49,1,0,3074.49,Cartão de Débito,AM,Entregue
+PED-10276,2023-10-04,CLI-1535,HDD Externo 4TB,Armazenamento,563.65,2,15,958.2,Boleto,DF,Entregue
+PED-10277,2023-10-05,CLI-5503,SSD 1TB,TVs e Áudio,665.27,2,20,1064.43,PIX,AM,Entregue
+PED-10278,2023-10-06,CLI-4683,Notebook Pro 15,Smartphones,2964.67,2,10,5336.41,PayPal,PR,Entregue
+PED-10279,2023-10-07,CLI-9808,Teclado Mecânico,Fotografia,559.48,2,20,895.17,PIX,BA,Entregue
+PED-10280,2023-10-08,CLI-5729,Notebook Pro 15,Armazenamento,3129.22,3,0,9387.66,Cartão de Débito,PR,Entregue
+PED-10281,2023-10-09,CLI-3755,Notebook Pro 15,TVs e Áudio,3151.57,1,0,3151.57,PayPal,CE,Entregue
+PED-10282,2023-10-10,CLI-8492,HDD Externo 4TB,Smartphones,613.5,1,0,613.5,PayPal,RS,Entregue
+PED-10283,2023-10-11,CLI-9115,Tripé para Câmera,Periféricos,1711.8,1,20,1369.44,Cartão de Débito,PA,Entregue
+PED-10284,2023-10-12,CLI-9369,Power Bank,Acessórios,482.37,1,0,482.37,Boleto,SC,Entregue
+PED-10285,2023-10-13,CLI-2854,Power Bank,Periféricos,454.69,1,0,454.69,PayPal,BA,Cancelado
+PED-10286,2023-10-14,CLI-2871,Console GameStation 5,Acessórios,1984.79,1,5,1885.55,Boleto,PE,Entregue
+PED-10287,2023-10-15,CLI-5389,Notebook Pro 15,Smartphones,2953.39,1,10,2658.05,Cartão de Débito,CE,Entregue
+PED-10288,2023-10-16,CLI-9898,Power Bank,Acessórios,470.46,1,0,470.46,PIX,GO,Entregue
+PED-10289,2023-10-17,CLI-7010,"Smart TV 50""",TVs e Áudio,3545.46,1,20,2836.37,PayPal,RS,Cancelado
+PED-10290,2023-10-18,CLI-9880,Console GameStation 5,Armazenamento,2092.21,1,5,1987.6,Boleto,SC,Entregue
+PED-10291,2023-10-19,CLI-1681,"Smart TV 50""",Periféricos,3411.13,1,0,3411.13,PayPal,SC,Entregue
+PED-10292,2023-10-20,CLI-8231,Roteador WiFi 6,Acessórios,95.17,2,0,190.34,Boleto,RS,Entregue
+PED-10293,2023-10-21,CLI-9951,"Smart TV 50""",Armazenamento,3558.08,1,20,2846.46,PayPal,CE,Entregue
+PED-10294,2023-10-22,CLI-4580,Smartwatch,Computadores,360.67,1,5,342.64,PayPal,PE,Entregue
+PED-10295,2023-10-23,CLI-7965,Fone de Ouvido TWS,Acessórios,496.82,1,0,496.82,PayPal,PE,Enviado
+PED-10296,2023-10-24,CLI-2677,Headphone Bluetooth,Computadores,229.73,2,0,459.46,PIX,RJ,Cancelado
+PED-10297,2023-10-25,CLI-5055,HDD Externo 4TB,Armazenamento,598.22,1,5,568.31,PayPal,PA,Entregue
+PED-10298,2023-10-26,CLI-5877,Smartwatch,Fotografia,346.65,2,0,693.3,Boleto,AM,Entregue
+PED-10299,2023-10-27,CLI-1528,HDD Externo 4TB,Armazenamento,615.37,1,5,584.6,PIX,PE,Cancelado
+PED-10300,2023-10-28,CLI-8368,Roteador WiFi 6,TVs e Áudio,95.05,1,10,85.55,Cartão de Crédito,PA,Entregue
+PED-10301,2023-10-29,CLI-5305,Notebook Pro 15,Fotografia,3045.42,1,0,3045.42,Boleto,RS,Entregue
+PED-10302,2023-10-30,CLI-6711,Roteador WiFi 6,Periféricos,93.43,1,0,93.43,Boleto,PR,Entregue
+PED-10303,2023-10-31,CLI-2425,"Smart TV 50""",Fotografia,3443.14,2,5,6541.97,Cartão de Crédito,RS,Entregue
+PED-10304,2023-11-01,CLI-8193,Hub USB-C,Periféricos,679.75,2,0,1359.5,PIX,RS,Entregue
+PED-10305,2023-11-02,CLI-2923,HDD Externo 4TB,Acessórios,584.65,4,0,2338.6,PayPal,BA,Entregue
+PED-10306,2023-11-03,CLI-4882,HDD Externo 4TB,Acessórios,596.87,1,0,596.87,Boleto,SP,Cancelado
+PED-10307,2023-11-04,CLI-4438,Power Bank,Acessórios,477.64,1,0,477.64,Cartão de Crédito,DF,Cancelado
+PED-10308,2023-11-05,CLI-6744,Teclado Mecânico,Periféricos,567.55,2,0,1135.1,PayPal,PR,Entregue
+PED-10309,2023-11-06,CLI-8015,Caixa de Som Wireless,Armazenamento,473.02,1,0,473.02,PIX,AM,Entregue
+PED-10310,2023-11-07,CLI-3719,Câmera DSLR,Fotografia,2052.3,1,20,1641.84,Boleto,MG,Devolvido
+PED-10311,2023-11-08,CLI-3281,Teclado Mecânico,TVs e Áudio,547.67,1,15,465.52,PayPal,SP,Em Processamento
+PED-10312,2023-11-09,CLI-4385,Smartwatch,TVs e Áudio,332.21,1,15,282.38,PayPal,SC,Entregue
+PED-10313,2023-11-10,CLI-4390,Caixa de Som Wireless,Periféricos,500.01,4,0,2000.04,Cartão de Débito,CE,Cancelado
+PED-10314,2023-11-11,CLI-1972,Fone de Ouvido TWS,Computadores,459.07,2,20,734.51,Cartão de Crédito,DF,Enviado
+PED-10315,2023-11-12,CLI-6747,Tablet Ultra,Periféricos,205.77,2,0,411.54,PayPal,DF,Entregue
+PED-10316,2023-11-13,CLI-9720,"Monitor 27""",Smartphones,631.49,1,0,631.49,PIX,AM,Entregue
+PED-10317,2023-11-14,CLI-5605,Carregador Rápido,TVs e Áudio,317.07,1,0,317.07,Cartão de Débito,BA,Entregue
+PED-10318,2023-11-15,CLI-9827,Teclado Mecânico,Acessórios,582.87,1,0,582.87,PayPal,SC,Entregue
+PED-10319,2023-11-16,CLI-3758,"Smart TV 50""",Computadores,3516.99,1,20,2813.59,PayPal,MG,Entregue
+PED-10320,2023-11-17,CLI-6302,Smartphone Galaxy X,Periféricos,1456.17,1,5,1383.36,PIX,PR,Em Processamento
+PED-10321,2023-11-18,CLI-5794,Carregador Rápido,Acessórios,339.41,2,15,577.0,Cartão de Débito,RS,Entregue
+PED-10322,2023-11-19,CLI-5740,Roteador WiFi 6,Fotografia,91.62,2,20,146.59,Cartão de Débito,PR,Entregue
+PED-10323,2023-11-20,CLI-5380,HDD Externo 4TB,Fotografia,608.36,1,0,608.36,Cartão de Crédito,BA,Entregue
+PED-10324,2023-11-21,CLI-9428,Headphone Bluetooth,Armazenamento,230.82,4,20,738.62,PayPal,DF,Entregue
+PED-10325,2023-11-22,CLI-2560,"Smart TV 50""",Acessórios,3445.94,2,15,5858.1,Cartão de Crédito,PR,Cancelado
+PED-10326,2023-11-23,CLI-3221,SSD 1TB,TVs e Áudio,624.5,1,5,593.27,Cartão de Débito,PE,Entregue
+PED-10327,2023-11-24,CLI-7743,Câmera DSLR,Smartphones,1930.14,2,5,3667.27,Cartão de Crédito,CE,Entregue
+PED-10328,2023-11-25,CLI-1971,Power Bank,Acessórios,478.55,1,10,430.69,PIX,GO,Entregue
+PED-10329,2023-11-26,CLI-5543,Caixa de Som Wireless,Periféricos,473.24,1,0,473.24,Boleto,GO,Entregue
+PED-10330,2023-11-27,CLI-3078,Tablet Ultra,TVs e Áudio,190.73,1,0,190.73,PIX,RS,Entregue
+PED-10331,2023-11-28,CLI-3174,Mouse Gamer,Computadores,469.52,2,0,939.04,Cartão de Débito,SC,Entregue
+PED-10332,2023-11-29,CLI-5090,"Smart TV 50""",Acessórios,3484.56,1,0,3484.56,PIX,PA,Entregue
+PED-10333,2023-11-30,CLI-3396,Smartwatch,Computadores,339.04,1,0,339.04,Cartão de Débito,PE,Entregue
+PED-10334,2023-12-01,CLI-6277,Mouse Gamer,TVs e Áudio,441.42,1,20,353.14,PIX,AM,Entregue
+PED-10335,2023-12-02,CLI-5055,"Monitor 27""",Periféricos,621.42,1,0,621.42,PayPal,GO,Entregue
+PED-10336,2023-12-03,CLI-7434,Console GameStation 5,TVs e Áudio,2050.21,3,10,5535.57,PayPal,AM,Cancelado
+PED-10337,2023-12-04,CLI-9019,Carregador Rápido,TVs e Áudio,327.19,2,15,556.22,PIX,PE,Entregue
+PED-10338,2023-12-05,CLI-3329,SSD 1TB,TVs e Áudio,656.2,1,10,590.58,Cartão de Crédito,PE,Entregue
+PED-10339,2023-12-06,CLI-5402,"Monitor 27""",Fotografia,649.0,1,10,584.1,Cartão de Débito,MG,Entregue
+PED-10340,2023-12-07,CLI-7786,Roteador WiFi 6,Armazenamento,99.1,1,5,94.14,PayPal,AM,Entregue
+PED-10341,2023-12-08,CLI-7146,Power Bank,TVs e Áudio,471.59,1,0,471.59,Cartão de Débito,PA,Entregue
+PED-10342,2023-12-09,CLI-8405,Smartphone Galaxy X,Fotografia,1450.36,1,20,1160.29,PayPal,RS,Entregue
+PED-10343,2023-12-10,CLI-2237,SSD 1TB,Smartphones,640.71,1,0,640.71,Boleto,MG,Cancelado
+PED-10344,2023-12-11,CLI-2525,"Monitor 27""",Fotografia,679.52,1,0,679.52,PIX,MG,Entregue
+PED-10345,2023-12-12,CLI-7600,Headphone Bluetooth,Computadores,228.39,2,0,456.78,PayPal,AM,Entregue
+PED-10346,2023-12-13,CLI-9447,Tablet Ultra,Smartphones,206.14,2,0,412.28,PIX,CE,Entregue
+PED-10347,2023-12-14,CLI-5558,Caixa de Som Wireless,Computadores,515.03,1,0,515.03,Boleto,PE,Devolvido
+PED-10348,2023-12-15,CLI-7046,Headphone Bluetooth,Armazenamento,239.83,1,0,239.83,Cartão de Débito,MG,Entregue
+PED-10349,2023-12-16,CLI-8449,Headphone Bluetooth,Acessórios,238.31,2,5,452.79,PIX,CE,Entregue
+PED-10350,2023-12-17,CLI-8996,SSD 1TB,Acessórios,670.19,1,15,569.66,PayPal,GO,Entregue
+PED-10351,2023-12-18,CLI-6362,Tablet Ultra,Fotografia,191.66,3,20,459.98,Boleto,SP,Entregue
+PED-10352,2023-12-19,CLI-1040,Caixa de Som Wireless,Periféricos,495.76,2,10,892.37,PayPal,CE,Entregue
+PED-10353,2023-12-20,CLI-2526,"Monitor 27""",Computadores,644.14,1,5,611.93,Boleto,SP,Enviado
+PED-10354,2023-12-21,CLI-8511,Roteador WiFi 6,Armazenamento,98.21,1,0,98.21,Boleto,RJ,Entregue
+PED-10355,2023-12-22,CLI-6869,Câmera DSLR,Acessórios,1993.14,2,0,3986.28,PayPal,GO,Entregue
+PED-10356,2023-12-23,CLI-2037,Teclado Mecânico,Armazenamento,585.12,1,20,468.1,PIX,SP,Entregue
+PED-10357,2023-12-24,CLI-9756,Câmera DSLR,Armazenamento,1909.99,1,5,1814.49,Cartão de Débito,PA,Entregue
+PED-10358,2023-12-25,CLI-7516,Caixa de Som Wireless,Acessórios,475.97,3,10,1285.12,Cartão de Débito,SP,Entregue
+PED-10359,2023-12-26,CLI-4568,Power Bank,Acessórios,476.06,1,10,428.45,Boleto,BA,Entregue
+PED-10360,2023-12-27,CLI-8039,Tripé para Câmera,Periféricos,1650.8,1,0,1650.8,PayPal,MG,Em Processamento
+PED-10361,2023-12-28,CLI-4470,Caixa de Som Wireless,Smartphones,485.62,2,15,825.55,Boleto,GO,Entregue
+PED-10362,2023-12-29,CLI-9105,Notebook Pro 15,Smartphones,3117.71,1,10,2805.94,Cartão de Débito,PR,Entregue
+PED-10363,2023-12-30,CLI-5399,"Smart TV 50""",TVs e Áudio,3595.64,1,10,3236.08,Boleto,RJ,Entregue
+PED-10364,2023-12-31,CLI-6289,Hub USB-C,Computadores,645.4,3,0,1936.2,Boleto,AM,Entregue
+PED-10365,2024-01-01,CLI-5646,Caixa de Som Wireless,Acessórios,521.37,1,15,443.16,Cartão de Débito,MG,Entregue
+PED-10366,2024-01-02,CLI-6533,Notebook Pro 15,Armazenamento,3086.16,4,0,12344.64,PIX,SP,Entregue
+PED-10367,2024-01-03,CLI-9967,Smartphone Galaxy X,Computadores,1502.38,3,0,4507.14,Boleto,PR,Entregue
+PED-10368,2024-01-04,CLI-3139,Teclado Mecânico,TVs e Áudio,568.01,1,5,539.61,PIX,CE,Enviado
+PED-10369,2024-01-05,CLI-8951,Tablet Ultra,Armazenamento,192.42,1,0,192.42,Boleto,PE,Cancelado
+PED-10370,2024-01-06,CLI-6631,Caixa de Som Wireless,Fotografia,506.82,1,10,456.14,PayPal,RS,Entregue
+PED-10371,2024-01-07,CLI-1793,Console GameStation 5,TVs e Áudio,2072.45,1,0,2072.45,Boleto,SP,Entregue
+PED-10372,2024-01-08,CLI-1752,Carregador Rápido,Acessórios,331.27,1,0,331.27,Boleto,DF,Entregue
+PED-10373,2024-01-09,CLI-2631,SSD 1TB,Fotografia,657.69,2,10,1183.84,Cartão de Crédito,GO,Entregue
+PED-10374,2024-01-10,CLI-8529,Hub USB-C,Fotografia,671.39,1,5,637.82,PayPal,GO,Entregue
+PED-10375,2024-01-11,CLI-1266,SSD 1TB,TVs e Áudio,622.22,1,0,622.22,PayPal,DF,Entregue
+PED-10376,2024-01-12,CLI-3035,Smartphone Galaxy X,Acessórios,1502.05,2,15,2553.48,PIX,PE,Entregue
+PED-10377,2024-01-13,CLI-3588,Headphone Bluetooth,Armazenamento,232.82,1,15,197.9,PIX,GO,Entregue
+PED-10378,2024-01-14,CLI-8230,"Smart TV 50""",Fotografia,3520.7,2,0,7041.4,Boleto,PE,Entregue
+PED-10379,2024-01-15,CLI-8479,Tablet Ultra,TVs e Áudio,199.53,1,10,179.58,Cartão de Débito,SP,Entregue
+PED-10380,2024-01-16,CLI-1011,SSD 1TB,TVs e Áudio,635.09,1,0,635.09,Boleto,SP,Entregue
+PED-10381,2024-01-17,CLI-8009,Notebook Pro 15,Armazenamento,2952.18,2,0,5904.36,Cartão de Crédito,CE,Entregue
+PED-10382,2024-01-18,CLI-4314,Mouse Gamer,Acessórios,452.95,2,10,815.31,Boleto,CE,Entregue
+PED-10383,2024-01-19,CLI-3161,HDD Externo 4TB,TVs e Áudio,597.01,3,10,1611.93,Cartão de Crédito,BA,Entregue
+PED-10384,2024-01-20,CLI-5945,SSD 1TB,TVs e Áudio,632.42,2,10,1138.36,Boleto,SP,Em Processamento
+PED-10385,2024-01-21,CLI-3604,Tablet Ultra,TVs e Áudio,193.5,2,20,309.6,PIX,SP,Entregue
+PED-10386,2024-01-22,CLI-5489,Hub USB-C,Computadores,684.67,1,10,616.2,Boleto,CE,Entregue
+PED-10387,2024-01-23,CLI-2529,Tablet Ultra,Smartphones,191.78,1,10,172.6,PIX,AM,Entregue
+PED-10388,2024-01-24,CLI-6905,Notebook Pro 15,Armazenamento,3178.84,2,0,6357.68,Cartão de Débito,SC,Entregue
+PED-10389,2024-01-25,CLI-5102,"Monitor 27""",Computadores,624.08,2,5,1185.75,Cartão de Débito,CE,Entregue
+PED-10390,2024-01-26,CLI-2350,Mouse Gamer,TVs e Áudio,437.88,5,20,1751.52,PayPal,SC,Entregue
+PED-10391,2024-01-27,CLI-7092,Notebook Pro 15,Smartphones,3150.23,1,5,2992.72,Boleto,SP,Enviado
+PED-10392,2024-01-28,CLI-3711,Mouse Gamer,Armazenamento,470.51,1,0,470.51,PayPal,CE,Em Processamento
+PED-10393,2024-01-29,CLI-1848,Câmera DSLR,Fotografia,2006.33,2,15,3410.76,Boleto,AM,Entregue
+PED-10394,2024-01-30,CLI-7493,Smartwatch,Periféricos,348.1,1,5,330.69,Cartão de Débito,GO,Entregue
+PED-10395,2024-01-31,CLI-6005,Headphone Bluetooth,Armazenamento,240.79,3,0,722.37,Cartão de Crédito,BA,Entregue
+PED-10396,2024-02-01,CLI-4836,Mouse Gamer,Computadores,448.51,3,0,1345.53,PayPal,PA,Entregue
+PED-10397,2024-02-02,CLI-8032,SSD 1TB,Computadores,616.27,1,15,523.83,PayPal,MG,Enviado
+PED-10398,2024-02-03,CLI-2494,Hub USB-C,Computadores,647.27,2,0,1294.54,Cartão de Débito,RJ,Entregue
+PED-10399,2024-02-04,CLI-2559,Roteador WiFi 6,Armazenamento,98.01,2,0,196.02,Cartão de Débito,RJ,Entregue
+PED-10400,2024-02-05,CLI-1017,Tablet Ultra,Acessórios,205.48,1,20,164.38,Cartão de Crédito,CE,Entregue
+PED-10401,2024-02-06,CLI-4496,Smartwatch,TVs e Áudio,357.82,3,0,1073.46,PayPal,MG,Entregue
+PED-10402,2024-02-07,CLI-8812,Console GameStation 5,Armazenamento,2046.08,1,0,2046.08,Cartão de Débito,PR,Entregue
+PED-10403,2024-02-08,CLI-2276,Console GameStation 5,Fotografia,2095.59,2,0,4191.18,Cartão de Débito,PR,Entregue
+PED-10404,2024-02-09,CLI-3174,Hub USB-C,Periféricos,663.48,1,15,563.96,Cartão de Crédito,DF,Entregue
+PED-10405,2024-02-10,CLI-4705,Smartphone Galaxy X,Fotografia,1486.97,3,15,3791.77,Cartão de Crédito,CE,Enviado
+PED-10406,2024-02-11,CLI-9510,Console GameStation 5,Fotografia,2017.42,1,15,1714.81,PIX,SC,Em Processamento
+PED-10407,2024-02-12,CLI-8291,Teclado Mecânico,TVs e Áudio,545.94,1,0,545.94,Boleto,RS,Entregue
+PED-10408,2024-02-13,CLI-1152,Hub USB-C,Smartphones,667.18,3,20,1601.23,PIX,SC,Entregue
+PED-10409,2024-02-14,CLI-1132,Smartwatch,Periféricos,335.6,1,10,302.04,Cartão de Crédito,PA,Entregue
+PED-10410,2024-02-15,CLI-6629,Caixa de Som Wireless,Computadores,477.34,1,15,405.74,Cartão de Débito,BA,Entregue
+PED-10411,2024-02-16,CLI-2975,Console GameStation 5,TVs e Áudio,2070.96,4,20,6627.07,Cartão de Crédito,RJ,Entregue
+PED-10412,2024-02-17,CLI-7919,Headphone Bluetooth,Computadores,236.15,4,0,944.6,PayPal,RS,Entregue
+PED-10413,2024-02-18,CLI-3165,Fone de Ouvido TWS,TVs e Áudio,492.37,1,0,492.37,Cartão de Débito,BA,Entregue
+PED-10414,2024-02-19,CLI-8826,Notebook Pro 15,Computadores,3099.56,2,0,6199.12,PIX,PE,Entregue
+PED-10415,2024-02-20,CLI-2160,Tripé para Câmera,TVs e Áudio,1778.77,1,0,1778.77,PIX,DF,Entregue
+PED-10416,2024-02-21,CLI-4751,Smartwatch,Smartphones,357.03,1,10,321.33,PIX,PR,Entregue
+PED-10417,2024-02-22,CLI-7276,Câmera DSLR,Armazenamento,2089.75,1,0,2089.75,Cartão de Débito,AM,Cancelado
+PED-10418,2024-02-23,CLI-2463,Carregador Rápido,Fotografia,336.73,2,20,538.77,Boleto,PR,Em Processamento
+PED-10419,2024-02-24,CLI-2678,Mouse Gamer,Computadores,461.47,2,15,784.5,Boleto,SC,Entregue
+PED-10420,2024-02-25,CLI-2690,"Monitor 27""",TVs e Áudio,659.83,2,0,1319.66,Boleto,GO,Enviado
+PED-10421,2024-02-26,CLI-6133,Smartwatch,Smartphones,328.77,2,20,526.03,Cartão de Crédito,RJ,Entregue
+PED-10422,2024-02-27,CLI-7022,Smartwatch,Smartphones,359.93,1,20,287.94,Cartão de Crédito,GO,Enviado
+PED-10423,2024-02-28,CLI-5902,Smartphone Galaxy X,Fotografia,1559.09,1,15,1325.23,PayPal,GO,Em Processamento
+PED-10424,2024-02-29,CLI-3246,Câmera DSLR,TVs e Áudio,1948.68,1,5,1851.25,Cartão de Débito,PA,Entregue
+PED-10425,2024-03-01,CLI-7270,Fone de Ouvido TWS,Armazenamento,464.44,1,15,394.77,PayPal,SP,Entregue
+PED-10426,2024-03-02,CLI-3181,Teclado Mecânico,Computadores,573.48,1,5,544.81,Cartão de Crédito,RJ,Entregue
+PED-10427,2024-03-03,CLI-3340,Caixa de Som Wireless,Armazenamento,487.31,3,15,1242.64,Cartão de Débito,BA,Entregue
+PED-10428,2024-03-04,CLI-2120,"Smart TV 50""",Periféricos,3521.02,1,0,3521.02,PIX,BA,Entregue
+PED-10429,2024-03-05,CLI-9691,Caixa de Som Wireless,Periféricos,472.26,1,20,377.81,Cartão de Débito,BA,Entregue
+PED-10430,2024-03-06,CLI-1138,Mouse Gamer,Acessórios,473.16,1,0,473.16,Cartão de Crédito,CE,Entregue
+PED-10431,2024-03-07,CLI-3688,Power Bank,Smartphones,474.09,2,0,948.18,PIX,PE,Em Processamento
+PED-10432,2024-03-08,CLI-8210,Fone de Ouvido TWS,Periféricos,475.01,2,15,807.52,PIX,SP,Devolvido
+PED-10433,2024-03-09,CLI-6753,SSD 1TB,Smartphones,617.53,1,20,494.02,Cartão de Débito,GO,Entregue
+PED-10434,2024-03-10,CLI-4490,Teclado Mecânico,Fotografia,569.57,1,5,541.09,Boleto,SP,Entregue
+PED-10435,2024-03-11,CLI-3480,Smartphone Galaxy X,TVs e Áudio,1438.52,2,0,2877.04,Cartão de Crédito,AM,Entregue
+PED-10436,2024-03-12,CLI-7745,Headphone Bluetooth,Acessórios,245.21,1,0,245.21,Cartão de Crédito,MG,Entregue
+PED-10437,2024-03-13,CLI-8248,Caixa de Som Wireless,Acessórios,482.65,2,0,965.3,Boleto,RJ,Cancelado
+PED-10438,2024-03-14,CLI-4559,Console GameStation 5,Acessórios,1985.78,2,0,3971.56,PayPal,PE,Entregue
+PED-10439,2024-03-15,CLI-2420,HDD Externo 4TB,TVs e Áudio,577.97,1,20,462.38,PayPal,BA,Entregue
+PED-10440,2024-03-16,CLI-2646,Caixa de Som Wireless,Computadores,490.34,1,0,490.34,Cartão de Crédito,GO,Entregue
+PED-10441,2024-03-17,CLI-3293,Notebook Pro 15,Smartphones,3144.94,5,0,15724.7,Boleto,PA,Entregue
+PED-10442,2024-03-18,CLI-3017,Headphone Bluetooth,TVs e Áudio,245.94,1,0,245.94,Boleto,RS,Entregue
+PED-10443,2024-03-19,CLI-7291,Roteador WiFi 6,Periféricos,97.07,1,0,97.07,PIX,DF,Em Processamento
+PED-10444,2024-03-20,CLI-6759,Hub USB-C,Acessórios,629.62,2,10,1133.32,PayPal,RJ,Entregue
+PED-10445,2024-03-21,CLI-8035,Mouse Gamer,Smartphones,435.87,3,5,1242.23,PayPal,CE,Entregue
+PED-10446,2024-03-22,CLI-6152,Teclado Mecânico,Periféricos,542.83,5,20,2171.32,PIX,SP,Entregue
+PED-10447,2024-03-23,CLI-3290,Hub USB-C,Smartphones,664.63,2,10,1196.33,Cartão de Débito,PR,Cancelado
+PED-10448,2024-03-24,CLI-5059,Roteador WiFi 6,Acessórios,98.09,1,5,93.19,PayPal,PR,Enviado
+PED-10449,2024-03-25,CLI-5537,Power Bank,Acessórios,460.23,1,0,460.23,PIX,AM,Entregue
+PED-10450,2024-03-26,CLI-2380,Headphone Bluetooth,Smartphones,243.19,2,0,486.38,Boleto,DF,Entregue
+PED-10451,2024-03-27,CLI-5065,Fone de Ouvido TWS,Fotografia,479.08,1,20,383.26,Cartão de Débito,PE,Entregue
+PED-10452,2024-03-28,CLI-5668,HDD Externo 4TB,Armazenamento,583.91,1,15,496.32,Cartão de Crédito,SC,Entregue
+PED-10453,2024-03-29,CLI-1439,Câmera DSLR,Armazenamento,1949.82,3,0,5849.46,Boleto,SP,Cancelado
+PED-10454,2024-03-30,CLI-5942,Caixa de Som Wireless,Smartphones,509.47,1,0,509.47,Cartão de Débito,RJ,Entregue
+PED-10455,2024-03-31,CLI-4366,Notebook Pro 15,Computadores,2957.94,1,0,2957.94,PIX,GO,Entregue
+PED-10456,2024-04-01,CLI-9482,Hub USB-C,Computadores,652.28,1,20,521.82,Boleto,SC,Entregue
+PED-10457,2024-04-02,CLI-9348,Smartphone Galaxy X,Periféricos,1476.65,1,20,1181.32,Cartão de Débito,CE,Entregue
+PED-10458,2024-04-03,CLI-4090,Power Bank,Fotografia,479.37,1,0,479.37,Cartão de Crédito,DF,Entregue
+PED-10459,2024-04-04,CLI-7418,SSD 1TB,TVs e Áudio,639.61,1,20,511.69,Boleto,GO,Entregue
+PED-10460,2024-04-05,CLI-5842,Câmera DSLR,Smartphones,2028.42,1,15,1724.16,Boleto,SP,Entregue
+PED-10461,2024-04-06,CLI-1894,Mouse Gamer,Computadores,435.55,2,0,871.1,PayPal,MG,Entregue
+PED-10462,2024-04-07,CLI-4921,Hub USB-C,Smartphones,650.0,2,0,1300.0,Cartão de Débito,RS,Entregue
+PED-10463,2024-04-08,CLI-9108,"Smart TV 50""",Fotografia,3613.88,1,0,3613.88,Cartão de Débito,SP,Entregue
+PED-10464,2024-04-09,CLI-7322,Teclado Mecânico,Periféricos,534.42,4,20,1710.14,PayPal,PR,Entregue
+PED-10465,2024-04-10,CLI-2847,Roteador WiFi 6,Acessórios,94.5,1,0,94.5,PIX,DF,Entregue
+PED-10466,2024-04-11,CLI-4949,Teclado Mecânico,Fotografia,545.86,1,5,518.57,PIX,MG,Entregue
+PED-10467,2024-04-12,CLI-9185,Headphone Bluetooth,Fotografia,230.64,3,5,657.32,PayPal,PA,Entregue
+PED-10468,2024-04-13,CLI-2163,"Monitor 27""",Periféricos,634.64,1,15,539.44,Boleto,AM,Entregue
+PED-10469,2024-04-14,CLI-9655,Power Bank,Fotografia,462.87,4,5,1758.91,Cartão de Crédito,BA,Entregue
+PED-10470,2024-04-15,CLI-1197,"Monitor 27""",Computadores,618.52,1,5,587.59,PIX,RJ,Entregue
+PED-10471,2024-04-16,CLI-6916,Hub USB-C,Periféricos,673.11,4,0,2692.44,Cartão de Crédito,SC,Cancelado
+PED-10472,2024-04-17,CLI-6185,Teclado Mecânico,Fotografia,543.86,1,0,543.86,Cartão de Débito,MG,Entregue
+PED-10473,2024-04-18,CLI-3162,Fone de Ouvido TWS,Acessórios,474.02,3,5,1350.96,Cartão de Débito,DF,Entregue
+PED-10474,2024-04-19,CLI-7337,"Monitor 27""",Acessórios,663.79,1,15,564.22,PIX,PR,Entregue
+PED-10475,2024-04-20,CLI-7895,SSD 1TB,Acessórios,640.48,5,5,3042.28,Boleto,DF,Entregue
+PED-10476,2024-04-21,CLI-6986,Tablet Ultra,TVs e Áudio,207.14,1,0,207.14,Cartão de Débito,BA,Entregue
+PED-10477,2024-04-22,CLI-9951,Câmera DSLR,Periféricos,2056.17,1,20,1644.94,Cartão de Crédito,GO,Entregue
+PED-10478,2024-04-23,CLI-3830,Hub USB-C,Fotografia,628.77,4,10,2263.57,Boleto,CE,Entregue
+PED-10479,2024-04-24,CLI-8717,Fone de Ouvido TWS,Acessórios,497.13,1,0,497.13,PIX,RS,Entregue
+PED-10480,2024-04-25,CLI-2195,Console GameStation 5,TVs e Áudio,1910.2,2,20,3056.32,Cartão de Débito,BA,Entregue
+PED-10481,2024-04-26,CLI-1273,Roteador WiFi 6,Fotografia,91.78,2,0,183.56,PIX,PA,Em Processamento
+PED-10482,2024-04-27,CLI-2106,HDD Externo 4TB,Fotografia,612.05,1,15,520.24,Boleto,AM,Entregue
+PED-10483,2024-04-28,CLI-1225,"Monitor 27""",Smartphones,674.1,2,5,1280.79,Boleto,MG,Entregue
+PED-10484,2024-04-29,CLI-5295,Fone de Ouvido TWS,Fotografia,483.4,1,0,483.4,Boleto,PA,Entregue
+PED-10485,2024-04-30,CLI-4534,SSD 1TB,Armazenamento,645.17,3,5,1838.73,PayPal,AM,Entregue
+PED-10486,2024-05-01,CLI-1652,Smartphone Galaxy X,Smartphones,1540.99,1,10,1386.89,PayPal,AM,Entregue
+PED-10487,2024-05-02,CLI-1990,"Monitor 27""",Periféricos,645.19,1,20,516.15,Cartão de Crédito,RJ,Entregue
+PED-10488,2024-05-03,CLI-7520,"Monitor 27""",Computadores,625.51,4,0,2502.04,Boleto,CE,Entregue
+PED-10489,2024-05-04,CLI-9300,Câmera DSLR,Armazenamento,1899.49,3,10,5128.62,Boleto,AM,Em Processamento
+PED-10490,2024-05-05,CLI-5693,Hub USB-C,Computadores,645.37,1,0,645.37,Cartão de Débito,RS,Em Processamento
+PED-10491,2024-05-06,CLI-9209,HDD Externo 4TB,TVs e Áudio,605.01,2,0,1210.02,Cartão de Crédito,SP,Entregue
+PED-10492,2024-05-07,CLI-7806,Roteador WiFi 6,Armazenamento,97.56,1,0,97.56,Cartão de Crédito,RJ,Entregue
+PED-10493,2024-05-08,CLI-7939,Teclado Mecânico,Smartphones,580.75,1,0,580.75,PIX,BA,Entregue
+PED-10494,2024-05-09,CLI-7590,Carregador Rápido,Computadores,340.04,1,0,340.04,Boleto,PR,Entregue
+PED-10495,2024-05-10,CLI-2350,Carregador Rápido,Computadores,312.9,1,15,265.96,Cartão de Débito,RJ,Entregue
+PED-10496,2024-05-11,CLI-9791,Carregador Rápido,Computadores,337.58,1,0,337.58,PIX,RS,Cancelado
+PED-10497,2024-05-12,CLI-9808,Câmera DSLR,Fotografia,1943.87,1,0,1943.87,PayPal,DF,Entregue
+PED-10498,2024-05-13,CLI-3501,Power Bank,Smartphones,475.15,4,5,1805.57,Boleto,PA,Cancelado
+PED-10499,2024-05-14,CLI-5546,Tripé para Câmera,Computadores,1729.89,5,10,7784.51,Cartão de Crédito,DF,Entregue

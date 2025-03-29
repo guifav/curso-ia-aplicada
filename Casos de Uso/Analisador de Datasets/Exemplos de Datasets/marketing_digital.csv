@@ -1,0 +1,501 @@
+Data,Canal,Campanha,Impressoes,Cliques,CTR,Conversoes,Taxa_Conversao,Receita,Custo,ROI,CPA,Dispositivo
+2023-01-01,Google Ads,Promoção Sazonal,461,19,0.0412,0,0.0,0.0,54.15,-100.0,,Mobile
+2023-01-02,Instagram Ads,Conversão,928,11,0.0119,0,0.0,0.0,11.2,-100.0,,Mobile
+2023-01-03,Orgânico,Promoção Sazonal,162,5,0.0309,0,0.0,0.0,0.0,,,Mobile
+2023-01-04,Email Marketing,Fidelização,2180,75,0.0344,5,0.0667,1045.03,7.98,12995.61,1.6,Mobile
+2023-01-05,Orgânico,Branding,192,5,0.026,0,0.0,0.0,0.0,,,Mobile
+2023-01-06,Email Marketing,Remarketing,2574,83,0.0322,8,0.0964,1795.37,7.15,25010.07,0.89,Mobile
+2023-01-07,Email Marketing,Fidelização,3606,119,0.033,12,0.1008,2898.27,13.41,21512.75,1.12,Mobile
+2023-01-08,Orgânico,Black Friday,207,6,0.029,0,0.0,0.0,0.0,,,Mobile
+2023-01-09,Google Ads,Natal,395,17,0.043,0,0.0,0.0,40.01,-100.0,,Desktop
+2023-01-10,Instagram Ads,,1117,16,0.0143,0,0.0,0.0,15.95,-100.0,,Desktop
+2023-01-11,Google Ads,Promoção Sazonal,379,13,0.0343,0,0.0,0.0,34.88,-100.0,,Desktop
+2023-01-12,Direto,Conversão,0,48,0.0,3,0.0625,651.36,0.0,,,Desktop
+2023-01-13,Orgânico,Natal,236,6,0.0254,0,0.0,0.0,0.0,,,Tablet
+2023-01-14,Google Ads,Branding,474,18,0.038,1,0.0556,245.24,38.5,536.99,38.5,Mobile
+2023-01-15,Email Marketing,Lançamento Produto X,3461,107,0.0309,7,0.0654,1823.25,11.29,16049.25,1.61,Mobile
+2023-01-16,Orgânico,Branding,167,6,0.0359,0,0.0,0.0,0.0,,,Mobile
+2023-01-17,Google Ads,Promoção Sazonal,368,13,0.0353,0,0.0,0.0,31.09,-100.0,,Desktop
+2023-01-18,Instagram Ads,Natal,932,17,0.0182,0,0.0,0.0,15.99,-100.0,,Desktop
+2023-01-19,Orgânico,Promoção Sazonal,202,9,0.0446,0,0.0,0.0,0.0,,,Mobile
+2023-01-20,Google Ads,Aquisição,639,27,0.0423,1,0.037,200.02,77.54,157.96,77.54,Desktop
+2023-01-21,Email Marketing,,3336,111,0.0333,10,0.0901,1790.5,12.69,14009.54,1.27,Mobile
+2023-01-22,Facebook Ads,,1514,24,0.0159,0,0.0,0.0,26.86,-100.0,,Desktop
+2023-01-23,Orgânico,Lançamento Produto X,208,9,0.0433,0,0.0,0.0,0.0,,,Mobile
+2023-01-24,Direto,Conversão,0,36,0.0,1,0.0278,210.17,0.0,,,Mobile
+2023-01-25,Orgânico,Remarketing,175,7,0.04,0,0.0,0.0,0.0,,,Mobile
+2023-01-26,Instagram Ads,Promoção Sazonal,936,12,0.0128,0,0.0,0.0,10.42,-100.0,,Mobile
+2023-01-27,Orgânico,Lançamento Produto X,242,11,0.0455,0,0.0,0.0,0.0,,,Mobile
+2023-01-28,Orgânico,Remarketing,144,5,0.0347,0,0.0,0.0,0.0,,,Mobile
+2023-01-29,Facebook Ads,Lançamento Produto X,1251,26,0.0208,0,0.0,0.0,28.93,-100.0,,Desktop
+2023-01-30,Orgânico,Remarketing,202,9,0.0446,0,0.0,0.0,0.0,,,Mobile
+2023-01-31,Google Ads,Aquisição,521,15,0.0288,0,0.0,0.0,36.23,-100.0,,Mobile
+2023-02-01,Instagram Ads,Black Friday,1289,18,0.014,0,0.0,0.0,20.7,-100.0,,Desktop
+2023-02-02,Google Ads,Fidelização,394,12,0.0305,0,0.0,0.0,34.41,-100.0,,Desktop
+2023-02-03,Google Ads,Fidelização,634,19,0.03,1,0.0526,201.63,53.83,274.57,53.83,Mobile
+2023-02-04,Google Ads,Conversão,484,20,0.0413,0,0.0,0.0,56.74,-100.0,,Mobile
+2023-02-05,Email Marketing,Remarketing,3808,89,0.0234,6,0.0674,1127.33,8.17,13698.41,1.36,Mobile
+2023-02-06,Facebook Ads,Black Friday,960,20,0.0208,0,0.0,0.0,22.86,-100.0,,Mobile
+2023-02-07,Email Marketing,Remarketing,2481,91,0.0367,5,0.0549,1271.74,8.81,14335.19,1.76,Desktop
+2023-02-08,Google Ads,Conversão,407,14,0.0344,0,0.0,0.0,31.19,-100.0,,Mobile
+2023-02-09,Facebook Ads,Promoção Sazonal,870,20,0.023,0,0.0,0.0,25.66,-100.0,,Mobile
+2023-02-10,Instagram Ads,Lançamento Produto X,747,11,0.0147,0,0.0,0.0,11.07,-100.0,,Desktop
+2023-02-11,LinkedIn Ads,Black Friday,332,7,0.0211,0,0.0,0.0,28.02,-100.0,,Mobile
+2023-02-12,Facebook Ads,Natal,985,22,0.0223,0,0.0,0.0,29.35,-100.0,,Mobile
+2023-02-13,Email Marketing,Conversão,3580,110,0.0307,8,0.0727,1412.62,11.62,12056.8,1.45,Mobile
+2023-02-14,Orgânico,Fidelização,157,5,0.0318,0,0.0,0.0,0.0,,,Tablet
+2023-02-15,Email Marketing,Promoção Sazonal,3171,78,0.0246,6,0.0769,1575.76,7.61,20606.44,1.27,Mobile
+2023-02-16,Google Ads,Conversão,445,17,0.0382,1,0.0588,221.48,43.43,409.97,43.43,Desktop
+2023-02-17,Google Ads,,568,22,0.0387,0,0.0,0.0,53.79,-100.0,,Mobile
+2023-02-18,Orgânico,Promoção Sazonal,236,11,0.0466,0,0.0,0.0,0.0,,,Mobile
+2023-02-19,Google Ads,Aquisição,376,10,0.0266,0,0.0,0.0,23.59,-100.0,,Desktop
+2023-02-20,Orgânico,Aquisição,206,9,0.0437,0,0.0,0.0,0.0,,,Tablet
+2023-02-21,Instagram Ads,Fidelização,1031,19,0.0184,0,0.0,0.0,19.6,-100.0,,Desktop
+2023-02-22,Orgânico,Black Friday,242,7,0.0289,0,0.0,0.0,0.0,,,Desktop
+2023-02-23,LinkedIn Ads,Lançamento Produto X,303,7,0.0231,0,0.0,0.0,26.19,-100.0,,Desktop
+2023-02-24,Direto,Aquisição,0,38,0.0,2,0.0526,425.94,0.0,,,Mobile
+2023-02-25,Facebook Ads,,848,19,0.0224,0,0.0,0.0,20.28,-100.0,,Mobile
+2023-02-26,LinkedIn Ads,Remarketing,336,8,0.0238,0,0.0,0.0,31.79,-100.0,,Desktop
+2023-02-27,Facebook Ads,Black Friday,1263,26,0.0206,0,0.0,0.0,31.96,-100.0,,Mobile
+2023-02-28,Instagram Ads,Remarketing,1169,22,0.0188,0,0.0,0.0,23.21,-100.0,,Desktop
+2023-03-01,Email Marketing,Conversão,2302,77,0.0334,5,0.0649,1219.47,7.01,17296.15,1.4,Desktop
+2023-03-02,Orgânico,Promoção Sazonal,157,6,0.0382,0,0.0,0.0,0.0,,,Mobile
+2023-03-03,Direto,,0,31,0.0,1,0.0323,270.79,0.0,,,Mobile
+2023-03-04,LinkedIn Ads,Promoção Sazonal,314,9,0.0287,0,0.0,0.0,30.49,-100.0,,Desktop
+2023-03-05,Facebook Ads,Branding,1534,29,0.0189,1,0.0345,203.21,36.77,452.65,36.77,Mobile
+2023-03-06,Facebook Ads,Fidelização,912,12,0.0132,0,0.0,0.0,16.12,-100.0,,Desktop
+2023-03-07,Email Marketing,Lançamento Produto X,2290,52,0.0227,3,0.0577,770.65,5.84,13096.06,1.95,Mobile
+2023-03-08,Google Ads,Lançamento Produto X,583,18,0.0309,0,0.0,0.0,44.06,-100.0,,Desktop
+2023-03-09,Google Ads,Lançamento Produto X,585,14,0.0239,0,0.0,0.0,39.29,-100.0,,Mobile
+2023-03-10,Facebook Ads,Branding,1464,21,0.0143,0,0.0,0.0,27.24,-100.0,,Desktop
+2023-03-11,Facebook Ads,Lançamento Produto X,1473,25,0.017,0,0.0,0.0,31.41,-100.0,,Mobile
+2023-03-12,Facebook Ads,Aquisição,1472,34,0.0231,0,0.0,0.0,41.59,-100.0,,Mobile
+2023-03-13,Google Ads,Black Friday,429,19,0.0443,1,0.0526,251.13,42.63,489.09,42.63,Mobile
+2023-03-14,Google Ads,Natal,546,21,0.0385,0,0.0,0.0,45.69,-100.0,,Desktop
+2023-03-15,Google Ads,Remarketing,521,14,0.0269,0,0.0,0.0,35.35,-100.0,,Desktop
+2023-03-16,Direto,Remarketing,0,41,0.0,1,0.0244,236.5,0.0,,,Mobile
+2023-03-17,Facebook Ads,Lançamento Produto X,963,15,0.0156,0,0.0,0.0,19.18,-100.0,,Mobile
+2023-03-18,Facebook Ads,Fidelização,1130,23,0.0204,0,0.0,0.0,24.98,-100.0,,Mobile
+2023-03-19,Email Marketing,Natal,3212,88,0.0274,7,0.0795,1584.11,9.7,16231.03,1.39,Desktop
+2023-03-20,Google Ads,Branding,554,18,0.0325,0,0.0,0.0,40.21,-100.0,,Desktop
+2023-03-21,Orgânico,Black Friday,188,8,0.0426,0,0.0,0.0,0.0,,,Mobile
+2023-03-22,LinkedIn Ads,Branding,281,7,0.0249,0,0.0,0.0,22.85,-100.0,,Mobile
+2023-03-23,Google Ads,Natal,613,22,0.0359,0,0.0,0.0,52.01,-100.0,,Mobile
+2023-03-24,Facebook Ads,Black Friday,1337,22,0.0165,0,0.0,0.0,30.15,-100.0,,Mobile
+2023-03-25,Orgânico,Conversão,145,6,0.0414,0,0.0,0.0,0.0,,,Mobile
+2023-03-26,Orgânico,Promoção Sazonal,197,7,0.0355,0,0.0,0.0,0.0,,,Tablet
+2023-03-27,Instagram Ads,,861,12,0.0139,0,0.0,0.0,13.66,-100.0,,Mobile
+2023-03-28,Email Marketing,Black Friday,2770,97,0.035,6,0.0619,1105.78,9.13,12011.5,1.52,Desktop
+2023-03-29,Google Ads,Promoção Sazonal,451,17,0.0377,1,0.0588,246.04,45.63,439.21,45.63,Mobile
+2023-03-30,Direto,Fidelização,0,11,0.0,0,0.0,0.0,0.0,,,Mobile
+2023-03-31,Google Ads,Lançamento Produto X,443,14,0.0316,0,0.0,0.0,38.38,-100.0,,Desktop
+2023-04-01,Orgânico,Remarketing,241,9,0.0373,0,0.0,0.0,0.0,,,Desktop
+2023-04-02,Email Marketing,Branding,3644,128,0.0351,7,0.0547,1328.16,13.33,9863.69,1.9,Tablet
+2023-04-03,Email Marketing,Fidelização,3332,111,0.0333,5,0.045,996.59,11.89,8281.75,2.38,Mobile
+2023-04-04,Instagram Ads,Lançamento Produto X,1283,24,0.0187,0,0.0,0.0,21.49,-100.0,,Mobile
+2023-04-05,Google Ads,Natal,418,10,0.0239,0,0.0,0.0,22.66,-100.0,,Desktop
+2023-04-06,Google Ads,Promoção Sazonal,440,17,0.0386,0,0.0,0.0,37.8,-100.0,,Mobile
+2023-04-07,Google Ads,Aquisição,573,16,0.0279,1,0.0625,288.96,34.31,742.2,34.31,Mobile
+2023-04-08,Google Ads,Conversão,582,24,0.0412,1,0.0417,224.99,68.75,227.26,68.75,Mobile
+2023-04-09,LinkedIn Ads,Conversão,267,8,0.03,0,0.0,0.0,31.47,-100.0,,Mobile
+2023-04-10,Facebook Ads,Black Friday,1364,26,0.0191,0,0.0,0.0,32.19,-100.0,,Desktop
+2023-04-11,Google Ads,Promoção Sazonal,531,15,0.0282,0,0.0,0.0,38.76,-100.0,,Mobile
+2023-04-12,Direto,Fidelização,0,38,0.0,3,0.0789,622.72,0.0,,,Mobile
+2023-04-13,Orgânico,Aquisição,193,7,0.0363,0,0.0,0.0,0.0,,,Mobile
+2023-04-14,Orgânico,Lançamento Produto X,249,10,0.0402,0,0.0,0.0,0.0,,,Mobile
+2023-04-15,Direto,Black Friday,0,17,0.0,0,0.0,0.0,0.0,,,Mobile
+2023-04-16,Google Ads,Branding,495,19,0.0384,0,0.0,0.0,48.87,-100.0,,Mobile
+2023-04-17,Facebook Ads,Conversão,1211,19,0.0157,0,0.0,0.0,20.96,-100.0,,Mobile
+2023-04-18,LinkedIn Ads,,277,6,0.0217,0,0.0,0.0,19.56,-100.0,,Desktop
+2023-04-19,Email Marketing,Conversão,2201,85,0.0386,6,0.0706,1214.56,7.43,16246.7,1.24,Mobile
+2023-04-20,Google Ads,,587,15,0.0256,0,0.0,0.0,40.65,-100.0,,Mobile
+2023-04-21,Orgânico,Branding,147,7,0.0476,0,0.0,0.0,0.0,,,Desktop
+2023-04-22,Google Ads,Aquisição,562,22,0.0391,1,0.0455,257.05,48.96,425.02,48.96,Desktop
+2023-04-23,Google Ads,Black Friday,471,12,0.0255,0,0.0,0.0,33.12,-100.0,,Mobile
+2023-04-24,Instagram Ads,,1168,12,0.0103,0,0.0,0.0,11.89,-100.0,,Mobile
+2023-04-25,Instagram Ads,Aquisição,1014,13,0.0128,0,0.0,0.0,13.58,-100.0,,Mobile
+2023-04-26,Instagram Ads,Branding,1041,13,0.0125,0,0.0,0.0,11.77,-100.0,,Desktop
+2023-04-27,Google Ads,Fidelização,402,11,0.0274,0,0.0,0.0,26.57,-100.0,,Tablet
+2023-04-28,Orgânico,Branding,245,11,0.0449,0,0.0,0.0,0.0,,,Desktop
+2023-04-29,Facebook Ads,Remarketing,984,13,0.0132,0,0.0,0.0,15.48,-100.0,,Mobile
+2023-04-30,Google Ads,Lançamento Produto X,367,12,0.0327,0,0.0,0.0,26.97,-100.0,,Desktop
+2023-05-01,Orgânico,Natal,143,7,0.049,0,0.0,0.0,0.0,,,Mobile
+2023-05-02,Direto,Lançamento Produto X,0,47,0.0,2,0.0426,472.71,0.0,,,Mobile
+2023-05-03,Orgânico,Branding,183,7,0.0383,0,0.0,0.0,0.0,,,Mobile
+2023-05-04,Orgânico,Fidelização,163,7,0.0429,0,0.0,0.0,0.0,,,Tablet
+2023-05-05,Email Marketing,Black Friday,2763,89,0.0322,6,0.0674,1170.81,8.17,14230.6,1.36,Mobile
+2023-05-06,Instagram Ads,Lançamento Produto X,978,17,0.0174,0,0.0,0.0,16.53,-100.0,,Desktop
+2023-05-07,Google Ads,Black Friday,469,14,0.0299,0,0.0,0.0,39.92,-100.0,,Mobile
+2023-05-08,Facebook Ads,Lançamento Produto X,1504,35,0.0233,1,0.0286,149.56,47.36,215.79,47.36,Mobile
+2023-05-09,Facebook Ads,Natal,1330,27,0.0203,0,0.0,0.0,36.78,-100.0,,Mobile
+2023-05-10,Facebook Ads,Conversão,1014,15,0.0148,0,0.0,0.0,16.5,-100.0,,Mobile
+2023-05-11,Email Marketing,Promoção Sazonal,2979,100,0.0336,6,0.06,1227.44,10.51,11578.78,1.75,Desktop
+2023-05-12,Instagram Ads,Branding,967,14,0.0145,0,0.0,0.0,12.75,-100.0,,Mobile
+2023-05-13,Google Ads,Fidelização,638,28,0.0439,1,0.0357,248.25,63.8,289.11,63.8,Desktop
+2023-05-14,Google Ads,Branding,492,17,0.0346,0,0.0,0.0,38.38,-100.0,,Desktop
+2023-05-15,Email Marketing,Natal,3092,108,0.0349,8,0.0741,1751.75,12.27,14176.69,1.53,Desktop
+2023-05-16,Google Ads,Aquisição,453,12,0.0265,0,0.0,0.0,29.45,-100.0,,Mobile
+2023-05-17,Orgânico,Lançamento Produto X,240,9,0.0375,0,0.0,0.0,0.0,,,Mobile
+2023-05-18,Instagram Ads,Remarketing,855,12,0.014,0,0.0,0.0,12.42,-100.0,,Mobile
+2023-05-19,Instagram Ads,Conversão,1198,16,0.0134,0,0.0,0.0,16.9,-100.0,,Tablet
+2023-05-20,Instagram Ads,Promoção Sazonal,754,13,0.0172,0,0.0,0.0,14.43,-100.0,,Desktop
+2023-05-21,Orgânico,Lançamento Produto X,143,6,0.042,0,0.0,0.0,0.0,,,Mobile
+2023-05-22,Facebook Ads,Branding,875,15,0.0171,0,0.0,0.0,20.09,-100.0,,Desktop
+2023-05-23,Email Marketing,Fidelização,3636,95,0.0261,8,0.0842,2040.91,9.29,21868.89,1.16,Mobile
+2023-05-24,Instagram Ads,Natal,1167,22,0.0189,0,0.0,0.0,23.82,-100.0,,Desktop
+2023-05-25,Facebook Ads,Black Friday,994,21,0.0211,0,0.0,0.0,26.02,-100.0,,Mobile
+2023-05-26,Orgânico,Aquisição,166,6,0.0361,0,0.0,0.0,0.0,,,Desktop
+2023-05-27,LinkedIn Ads,Promoção Sazonal,250,6,0.024,0,0.0,0.0,25.02,-100.0,,Mobile
+2023-05-28,Email Marketing,,2472,85,0.0344,8,0.0941,1902.8,9.06,20902.21,1.13,Desktop
+2023-05-29,Orgânico,Promoção Sazonal,218,9,0.0413,0,0.0,0.0,0.0,,,Desktop
+2023-05-30,Orgânico,Fidelização,201,6,0.0299,0,0.0,0.0,0.0,,,Desktop
+2023-05-31,Email Marketing,Remarketing,3656,99,0.0271,9,0.0909,2233.06,9.59,23185.3,1.07,Mobile
+2023-06-01,Orgânico,Natal,256,8,0.0312,0,0.0,0.0,0.0,,,Mobile
+2023-06-02,Email Marketing,Promoção Sazonal,3327,108,0.0325,5,0.0463,921.96,12.22,7444.68,2.44,Mobile
+2023-06-03,Email Marketing,,2953,110,0.0373,8,0.0727,1860.15,11.24,16449.38,1.41,Mobile
+2023-06-04,Email Marketing,,2338,59,0.0252,3,0.0508,537.87,5.96,8924.66,1.99,Mobile
+2023-06-05,LinkedIn Ads,Lançamento Produto X,241,4,0.0166,0,0.0,0.0,15.84,-100.0,,Desktop
+2023-06-06,Google Ads,Natal,590,25,0.0424,1,0.04,280.83,66.33,323.38,66.33,Mobile
+2023-06-07,Orgânico,Remarketing,166,6,0.0361,0,0.0,0.0,0.0,,,Mobile
+2023-06-08,Orgânico,Branding,213,10,0.0469,0,0.0,0.0,0.0,,,Mobile
+2023-06-09,Google Ads,Conversão,632,16,0.0253,0,0.0,0.0,34.46,-100.0,,Mobile
+2023-06-10,Orgânico,Conversão,225,7,0.0311,0,0.0,0.0,0.0,,,Desktop
+2023-06-11,Google Ads,Black Friday,562,22,0.0391,1,0.0455,238.15,48.55,390.53,48.55,Mobile
+2023-06-12,Facebook Ads,Natal,1038,14,0.0135,0,0.0,0.0,16.58,-100.0,,Desktop
+2023-06-13,Email Marketing,Black Friday,3711,112,0.0302,6,0.0536,1467.9,12.47,11671.45,2.08,Mobile
+2023-06-14,Google Ads,Black Friday,605,24,0.0397,0,0.0,0.0,66.8,-100.0,,Tablet
+2023-06-15,Orgânico,Aquisição,195,7,0.0359,0,0.0,0.0,0.0,,,Desktop
+2023-06-16,Orgânico,Conversão,166,6,0.0361,0,0.0,0.0,0.0,,,Mobile
+2023-06-17,Instagram Ads,Branding,881,13,0.0148,0,0.0,0.0,12.01,-100.0,,Desktop
+2023-06-18,Google Ads,Promoção Sazonal,506,15,0.0296,0,0.0,0.0,37.93,-100.0,,Mobile
+2023-06-19,Facebook Ads,Branding,1288,28,0.0217,1,0.0357,210.37,38.48,446.7,38.48,Desktop
+2023-06-20,Email Marketing,Remarketing,3152,84,0.0266,5,0.0595,1027.13,7.24,14086.88,1.45,Mobile
+2023-06-21,Direto,,0,13,0.0,0,0.0,0.0,0.0,,,Desktop
+2023-06-22,Email Marketing,Promoção Sazonal,3898,150,0.0385,12,0.08,3041.06,14.49,20887.3,1.21,Desktop
+2023-06-23,Facebook Ads,Remarketing,1535,35,0.0228,1,0.0286,175.27,45.34,286.57,45.34,Desktop
+2023-06-24,Email Marketing,Promoção Sazonal,3610,110,0.0305,7,0.0636,1805.03,12.53,14305.67,1.79,Desktop
+2023-06-25,Instagram Ads,Remarketing,1036,16,0.0154,0,0.0,0.0,14.51,-100.0,,Mobile
+2023-06-26,LinkedIn Ads,Aquisição,316,6,0.019,0,0.0,0.0,22.39,-100.0,,Mobile
+2023-06-27,Google Ads,Aquisição,434,16,0.0369,0,0.0,0.0,44.61,-100.0,,Mobile
+2023-06-28,LinkedIn Ads,Black Friday,333,6,0.018,0,0.0,0.0,24.67,-100.0,,Mobile
+2023-06-29,Instagram Ads,Natal,989,16,0.0162,0,0.0,0.0,14.97,-100.0,,Desktop
+2023-06-30,Direto,Promoção Sazonal,0,18,0.0,1,0.0556,195.09,0.0,,,Mobile
+2023-07-01,Facebook Ads,Fidelização,1039,24,0.0231,0,0.0,0.0,25.92,-100.0,,Tablet
+2023-07-02,Email Marketing,Black Friday,2685,98,0.0365,10,0.102,2437.94,9.2,26399.35,0.92,Desktop
+2023-07-03,Orgânico,Branding,173,7,0.0405,0,0.0,0.0,0.0,,,Desktop
+2023-07-04,Google Ads,Aquisição,546,18,0.033,0,0.0,0.0,50.66,-100.0,,Mobile
+2023-07-05,Orgânico,Conversão,254,12,0.0472,0,0.0,0.0,0.0,,,Desktop
+2023-07-06,Email Marketing,Aquisição,3272,72,0.022,7,0.0972,1692.57,7.61,22141.39,1.09,Desktop
+2023-07-07,Google Ads,Conversão,406,15,0.0369,0,0.0,0.0,42.04,-100.0,,Mobile
+2023-07-08,Facebook Ads,Promoção Sazonal,1212,17,0.014,0,0.0,0.0,20.18,-100.0,,Desktop
+2023-07-09,Email Marketing,Promoção Sazonal,2532,85,0.0336,7,0.0824,1755.28,8.87,19688.95,1.27,Desktop
+2023-07-10,Google Ads,Remarketing,367,9,0.0245,0,0.0,0.0,19.74,-100.0,,Mobile
+2023-07-11,Instagram Ads,Conversão,1214,13,0.0107,0,0.0,0.0,13.0,-100.0,,Mobile
+2023-07-12,Facebook Ads,,1423,22,0.0155,0,0.0,0.0,23.86,-100.0,,Mobile
+2023-07-13,Email Marketing,Lançamento Produto X,2827,72,0.0255,6,0.0833,1546.33,7.38,20852.98,1.23,Mobile
+2023-07-14,Google Ads,Branding,445,11,0.0247,0,0.0,0.0,30.75,-100.0,,Mobile
+2023-07-15,Orgânico,Black Friday,156,7,0.0449,0,0.0,0.0,0.0,,,Mobile
+2023-07-16,Direto,Remarketing,0,26,0.0,1,0.0385,242.32,0.0,,,Mobile
+2023-07-17,Direto,Promoção Sazonal,0,26,0.0,1,0.0385,242.16,0.0,,,Mobile
+2023-07-18,Email Marketing,Branding,2632,70,0.0266,7,0.1,1265.34,7.1,17721.69,1.01,Tablet
+2023-07-19,Google Ads,Black Friday,622,20,0.0322,0,0.0,0.0,48.4,-100.0,,Mobile
+2023-07-20,LinkedIn Ads,Natal,282,5,0.0177,0,0.0,0.0,17.99,-100.0,,Tablet
+2023-07-21,Google Ads,Fidelização,571,14,0.0245,0,0.0,0.0,30.01,-100.0,,Mobile
+2023-07-22,Google Ads,Lançamento Produto X,524,20,0.0382,1,0.05,252.44,49.31,411.94,49.31,Mobile
+2023-07-23,Facebook Ads,Conversão,1556,22,0.0141,0,0.0,0.0,29.54,-100.0,,Mobile
+2023-07-24,Instagram Ads,Conversão,1189,20,0.0168,0,0.0,0.0,22.37,-100.0,,Mobile
+2023-07-25,LinkedIn Ads,Remarketing,271,4,0.0148,0,0.0,0.0,16.94,-100.0,,Mobile
+2023-07-26,Email Marketing,Lançamento Produto X,3384,122,0.0361,12,0.0984,2449.2,10.7,22789.72,0.89,Desktop
+2023-07-27,Facebook Ads,Natal,1334,24,0.018,0,0.0,0.0,27.28,-100.0,,Mobile
+2023-07-28,Facebook Ads,Aquisição,1299,26,0.02,1,0.0385,184.67,32.59,466.65,32.59,Desktop
+2023-07-29,Direto,Fidelização,0,37,0.0,2,0.0541,428.14,0.0,,,Desktop
+2023-07-30,Facebook Ads,Fidelização,1517,32,0.0211,0,0.0,0.0,40.84,-100.0,,Mobile
+2023-07-31,Instagram Ads,Branding,915,11,0.012,0,0.0,0.0,9.89,-100.0,,Mobile
+2023-08-01,Google Ads,Promoção Sazonal,440,19,0.0432,0,0.0,0.0,50.82,-100.0,,Desktop
+2023-08-02,LinkedIn Ads,Aquisição,240,5,0.0208,0,0.0,0.0,16.67,-100.0,,Mobile
+2023-08-03,Email Marketing,Promoção Sazonal,3283,117,0.0356,6,0.0513,1424.42,12.42,11368.76,2.07,Mobile
+2023-08-04,Google Ads,Remarketing,517,13,0.0251,0,0.0,0.0,33.81,-100.0,,Tablet
+2023-08-05,Google Ads,Promoção Sazonal,438,12,0.0274,0,0.0,0.0,26.27,-100.0,,Mobile
+2023-08-06,Email Marketing,Lançamento Produto X,2947,73,0.0248,6,0.0822,1136.89,7.75,14569.55,1.29,Desktop
+2023-08-07,Email Marketing,Lançamento Produto X,3433,118,0.0344,11,0.0932,2588.08,12.6,20440.32,1.15,Tablet
+2023-08-08,Facebook Ads,Branding,1362,32,0.0235,0,0.0,0.0,43.87,-100.0,,Mobile
+2023-08-09,Direto,Remarketing,0,21,0.0,1,0.0476,275.76,0.0,,,Mobile
+2023-08-10,Google Ads,Branding,623,23,0.0369,0,0.0,0.0,59.43,-100.0,,Mobile
+2023-08-11,Facebook Ads,Natal,1521,26,0.0171,1,0.0385,213.91,28.02,663.42,28.02,Mobile
+2023-08-12,Orgânico,Black Friday,247,12,0.0486,0,0.0,0.0,0.0,,,Mobile
+2023-08-13,Facebook Ads,Promoção Sazonal,1311,33,0.0252,0,0.0,0.0,40.2,-100.0,,Desktop
+2023-08-14,Email Marketing,,2500,91,0.0364,8,0.0879,1938.0,7.85,24587.9,0.98,Mobile
+2023-08-15,Facebook Ads,,1000,21,0.021,0,0.0,0.0,22.71,-100.0,,Mobile
+2023-08-16,Facebook Ads,Conversão,1467,37,0.0252,1,0.027,185.42,42.2,339.38,42.2,Tablet
+2023-08-17,Direto,Promoção Sazonal,0,44,0.0,1,0.0227,192.29,0.0,,,Desktop
+2023-08-18,Facebook Ads,Lançamento Produto X,1478,23,0.0156,0,0.0,0.0,30.67,-100.0,,Desktop
+2023-08-19,Orgânico,Promoção Sazonal,184,5,0.0272,0,0.0,0.0,0.0,,,Mobile
+2023-08-20,Google Ads,Branding,525,19,0.0362,1,0.0526,243.19,52.67,361.72,52.67,Desktop
+2023-08-21,Google Ads,Aquisição,489,16,0.0327,0,0.0,0.0,35.95,-100.0,,Mobile
+2023-08-22,Google Ads,Remarketing,385,13,0.0338,0,0.0,0.0,29.03,-100.0,,Mobile
+2023-08-23,Email Marketing,Promoção Sazonal,2196,49,0.0223,4,0.0816,980.8,5.3,18405.66,1.32,Mobile
+2023-08-24,Facebook Ads,Black Friday,1296,21,0.0162,0,0.0,0.0,21.81,-100.0,,Desktop
+2023-08-25,Orgânico,Promoção Sazonal,209,9,0.0431,0,0.0,0.0,0.0,,,Mobile
+2023-08-26,Instagram Ads,Lançamento Produto X,1072,18,0.0168,0,0.0,0.0,16.96,-100.0,,Mobile
+2023-08-27,Direto,Aquisição,0,46,0.0,2,0.0435,395.23,0.0,,,Mobile
+2023-08-28,Google Ads,Lançamento Produto X,408,17,0.0417,0,0.0,0.0,45.43,-100.0,,Mobile
+2023-08-29,Orgânico,Remarketing,154,4,0.026,0,0.0,0.0,0.0,,,Desktop
+2023-08-30,LinkedIn Ads,,332,6,0.0181,0,0.0,0.0,25.95,-100.0,,Desktop
+2023-08-31,LinkedIn Ads,Natal,305,8,0.0262,0,0.0,0.0,28.47,-100.0,,Desktop
+2023-09-01,Orgânico,Natal,189,6,0.0317,0,0.0,0.0,0.0,,,Mobile
+2023-09-02,LinkedIn Ads,Aquisição,366,7,0.0191,0,0.0,0.0,24.05,-100.0,,Mobile
+2023-09-03,Email Marketing,Lançamento Produto X,2371,78,0.0329,8,0.1026,1644.66,8.73,18739.18,1.09,Mobile
+2023-09-04,Google Ads,Natal,647,23,0.0355,1,0.0435,247.59,65.44,278.35,65.44,Mobile
+2023-09-05,Google Ads,Natal,452,11,0.0243,0,0.0,0.0,23.4,-100.0,,Mobile
+2023-09-06,Orgânico,Remarketing,258,11,0.0426,0,0.0,0.0,0.0,,,Desktop
+2023-09-07,Email Marketing,Black Friday,3707,143,0.0386,11,0.0769,2657.46,15.44,17111.53,1.4,Mobile
+2023-09-08,LinkedIn Ads,Branding,387,9,0.0233,0,0.0,0.0,29.2,-100.0,,Mobile
+2023-09-09,Instagram Ads,Remarketing,785,12,0.0153,0,0.0,0.0,11.99,-100.0,,Mobile
+2023-09-10,Google Ads,Conversão,608,15,0.0247,0,0.0,0.0,37.48,-100.0,,Mobile
+2023-09-11,Google Ads,Conversão,404,15,0.0371,0,0.0,0.0,40.96,-100.0,,Mobile
+2023-09-12,Email Marketing,Aquisição,2245,57,0.0254,4,0.0702,896.95,5.88,15154.25,1.47,Tablet
+2023-09-13,Facebook Ads,Remarketing,1079,17,0.0158,0,0.0,0.0,20.36,-100.0,,Desktop
+2023-09-14,Google Ads,Lançamento Produto X,645,23,0.0357,1,0.0435,226.26,52.62,329.99,52.62,Tablet
+2023-09-15,Instagram Ads,,888,16,0.018,0,0.0,0.0,16.77,-100.0,,Mobile
+2023-09-16,Google Ads,,367,11,0.03,0,0.0,0.0,27.12,-100.0,,Mobile
+2023-09-17,Instagram Ads,,971,16,0.0165,0,0.0,0.0,15.72,-100.0,,Mobile
+2023-09-18,Facebook Ads,Branding,990,16,0.0162,0,0.0,0.0,19.78,-100.0,,Mobile
+2023-09-19,LinkedIn Ads,Conversão,349,7,0.0201,0,0.0,0.0,22.66,-100.0,,Desktop
+2023-09-20,Facebook Ads,Aquisição,1254,18,0.0144,0,0.0,0.0,24.08,-100.0,,Mobile
+2023-09-21,Instagram Ads,Natal,795,9,0.0113,0,0.0,0.0,8.4,-100.0,,Mobile
+2023-09-22,Google Ads,Fidelização,585,20,0.0342,0,0.0,0.0,51.93,-100.0,,Mobile
+2023-09-23,Google Ads,Aquisição,583,18,0.0309,0,0.0,0.0,49.32,-100.0,,Mobile
+2023-09-24,Facebook Ads,Lançamento Produto X,933,20,0.0214,0,0.0,0.0,21.89,-100.0,,Desktop
+2023-09-25,Instagram Ads,Promoção Sazonal,960,16,0.0167,0,0.0,0.0,14.49,-100.0,,Mobile
+2023-09-26,Email Marketing,Conversão,2872,68,0.0237,4,0.0588,844.28,5.89,14234.13,1.47,Mobile
+2023-09-27,Facebook Ads,Natal,1148,23,0.02,0,0.0,0.0,26.35,-100.0,,Mobile
+2023-09-28,Email Marketing,Remarketing,2959,105,0.0355,9,0.0857,1928.12,9.38,20455.65,1.04,Mobile
+2023-09-29,Orgânico,Natal,140,7,0.05,0,0.0,0.0,0.0,,,Desktop
+2023-09-30,LinkedIn Ads,Branding,306,6,0.0196,0,0.0,0.0,19.6,-100.0,,Desktop
+2023-10-01,Google Ads,Fidelização,569,17,0.0299,0,0.0,0.0,43.5,-100.0,,Tablet
+2023-10-02,Instagram Ads,Branding,1270,22,0.0173,0,0.0,0.0,22.68,-100.0,,Desktop
+2023-10-03,Google Ads,Fidelização,617,24,0.0389,1,0.0417,269.79,56.96,373.65,56.96,Mobile
+2023-10-04,Google Ads,Lançamento Produto X,577,21,0.0364,1,0.0476,276.2,46.01,500.3,46.01,Desktop
+2023-10-05,Direto,Natal,0,24,0.0,1,0.0417,228.24,0.0,,,Mobile
+2023-10-06,Google Ads,Black Friday,355,13,0.0366,0,0.0,0.0,28.69,-100.0,,Mobile
+2023-10-07,Instagram Ads,Aquisição,702,9,0.0128,0,0.0,0.0,10.33,-100.0,,Desktop
+2023-10-08,Email Marketing,Fidelização,3420,101,0.0295,10,0.099,1934.34,9.07,21226.79,0.91,Mobile
+2023-10-09,Email Marketing,Aquisição,2507,72,0.0287,5,0.0694,1053.94,6.73,15560.33,1.35,Desktop
+2023-10-10,Instagram Ads,Black Friday,1226,21,0.0171,0,0.0,0.0,22.01,-100.0,,Mobile
+2023-10-11,Google Ads,,443,15,0.0339,0,0.0,0.0,39.75,-100.0,,Desktop
+2023-10-12,Facebook Ads,Fidelização,913,13,0.0142,0,0.0,0.0,15.94,-100.0,,Desktop
+2023-10-13,Instagram Ads,Black Friday,1002,16,0.016,0,0.0,0.0,16.3,-100.0,,Desktop
+2023-10-14,Google Ads,Natal,441,11,0.0249,0,0.0,0.0,31.35,-100.0,,Desktop
+2023-10-15,Facebook Ads,Conversão,887,15,0.0169,0,0.0,0.0,19.35,-100.0,,Desktop
+2023-10-16,Google Ads,Remarketing,363,15,0.0413,0,0.0,0.0,35.93,-100.0,,Mobile
+2023-10-17,Google Ads,Lançamento Produto X,634,27,0.0426,1,0.037,257.13,58.1,342.56,58.1,Mobile
+2023-10-18,Facebook Ads,Black Friday,1168,19,0.0163,0,0.0,0.0,24.64,-100.0,,Mobile
+2023-10-19,Google Ads,,506,20,0.0395,1,0.05,256.12,47.34,441.02,47.34,Desktop
+2023-10-20,Instagram Ads,Branding,1014,16,0.0158,0,0.0,0.0,17.91,-100.0,,Mobile
+2023-10-21,Email Marketing,Lançamento Produto X,2880,98,0.034,6,0.0612,1582.46,10.74,14634.26,1.79,Desktop
+2023-10-22,Orgânico,Conversão,222,10,0.045,0,0.0,0.0,0.0,,,Mobile
+2023-10-23,Google Ads,Lançamento Produto X,390,16,0.041,0,0.0,0.0,43.1,-100.0,,Mobile
+2023-10-24,Google Ads,Aquisição,648,24,0.037,0,0.0,0.0,66.18,-100.0,,Desktop
+2023-10-25,Google Ads,Fidelização,497,20,0.0402,0,0.0,0.0,43.47,-100.0,,Mobile
+2023-10-26,Email Marketing,Black Friday,3450,108,0.0313,5,0.0463,1110.67,10.71,10270.4,2.14,Mobile
+2023-10-27,Email Marketing,,2396,83,0.0346,4,0.0482,789.29,7.36,10624.05,1.84,Mobile
+2023-10-28,Google Ads,Branding,622,18,0.0289,0,0.0,0.0,49.85,-100.0,,Tablet
+2023-10-29,Orgânico,Remarketing,237,6,0.0253,0,0.0,0.0,0.0,,,Desktop
+2023-10-30,Google Ads,Promoção Sazonal,355,10,0.0282,0,0.0,0.0,23.72,-100.0,,Mobile
+2023-10-31,Instagram Ads,Branding,834,15,0.018,0,0.0,0.0,14.61,-100.0,,Mobile
+2023-11-01,Email Marketing,Branding,3872,118,0.0305,9,0.0763,1794.88,10.77,16565.55,1.2,Mobile
+2023-11-02,Orgânico,Conversão,165,7,0.0424,0,0.0,0.0,0.0,,,Desktop
+2023-11-03,Email Marketing,Fidelização,2139,50,0.0234,2,0.04,427.69,4.56,9279.17,2.28,Desktop
+2023-11-04,Orgânico,Lançamento Produto X,200,7,0.035,0,0.0,0.0,0.0,,,Mobile
+2023-11-05,Facebook Ads,Branding,928,22,0.0237,0,0.0,0.0,22.9,-100.0,,Mobile
+2023-11-06,Orgânico,,225,9,0.04,0,0.0,0.0,0.0,,,Mobile
+2023-11-07,Google Ads,Natal,587,24,0.0409,0,0.0,0.0,61.28,-100.0,,Desktop
+2023-11-08,Orgânico,Black Friday,185,5,0.027,0,0.0,0.0,0.0,,,Desktop
+2023-11-09,Instagram Ads,Remarketing,1084,16,0.0148,0,0.0,0.0,18.3,-100.0,,Mobile
+2023-11-10,Orgânico,Remarketing,232,7,0.0302,0,0.0,0.0,0.0,,,Mobile
+2023-11-11,Instagram Ads,Branding,1073,14,0.013,0,0.0,0.0,14.12,-100.0,,Mobile
+2023-11-12,Email Marketing,,3169,67,0.0211,3,0.0448,708.77,5.87,11974.45,1.96,Tablet
+2023-11-13,Instagram Ads,Black Friday,728,9,0.0124,0,0.0,0.0,9.61,-100.0,,Mobile
+2023-11-14,Email Marketing,Black Friday,2294,87,0.0379,6,0.069,1360.14,8.97,15063.21,1.5,Desktop
+2023-11-15,Google Ads,,600,27,0.045,1,0.037,211.25,73.34,188.04,73.34,Desktop
+2023-11-16,Google Ads,Lançamento Produto X,364,14,0.0385,0,0.0,0.0,37.17,-100.0,,Mobile
+2023-11-17,Google Ads,Black Friday,384,15,0.0391,0,0.0,0.0,36.68,-100.0,,Mobile
+2023-11-18,Google Ads,,483,13,0.0269,0,0.0,0.0,35.89,-100.0,,Mobile
+2023-11-19,Orgânico,,154,4,0.026,0,0.0,0.0,0.0,,,Desktop
+2023-11-20,Google Ads,Remarketing,425,15,0.0353,0,0.0,0.0,34.8,-100.0,,Desktop
+2023-11-21,Direto,,0,44,0.0,3,0.0682,666.15,0.0,,,Desktop
+2023-11-22,Facebook Ads,Branding,987,15,0.0152,0,0.0,0.0,18.41,-100.0,,Mobile
+2023-11-23,Google Ads,Aquisição,555,22,0.0396,0,0.0,0.0,57.03,-100.0,,Mobile
+2023-11-24,LinkedIn Ads,Fidelização,211,6,0.0284,0,0.0,0.0,25.72,-100.0,,Tablet
+2023-11-25,Email Marketing,Conversão,2857,62,0.0217,5,0.0806,1040.72,6.41,16135.88,1.28,Desktop
+2023-11-26,Instagram Ads,Remarketing,760,13,0.0171,0,0.0,0.0,12.99,-100.0,,Mobile
+2023-11-27,Instagram Ads,Aquisição,1012,12,0.0119,0,0.0,0.0,12.83,-100.0,,Tablet
+2023-11-28,Email Marketing,Lançamento Produto X,3221,82,0.0255,5,0.061,963.82,8.19,11668.25,1.64,Desktop
+2023-11-29,Google Ads,Promoção Sazonal,560,16,0.0286,0,0.0,0.0,43.7,-100.0,,Mobile
+2023-11-30,Direto,Lançamento Produto X,0,30,0.0,1,0.0333,215.7,0.0,,,Desktop
+2023-12-01,Direto,Branding,0,25,0.0,2,0.08,488.6,0.0,,,Desktop
+2023-12-02,Email Marketing,,3020,113,0.0374,10,0.0885,2437.32,12.6,19243.81,1.26,Desktop
+2023-12-03,Google Ads,Branding,535,23,0.043,1,0.0435,216.93,52.89,310.15,52.89,Mobile
+2023-12-04,Email Marketing,Lançamento Produto X,2608,56,0.0215,6,0.1071,1240.65,5.25,23531.43,0.88,Mobile
+2023-12-05,Google Ads,Fidelização,585,22,0.0376,0,0.0,0.0,49.94,-100.0,,Desktop
+2023-12-06,Google Ads,Aquisição,499,13,0.0261,0,0.0,0.0,28.78,-100.0,,Mobile
+2023-12-07,Facebook Ads,Lançamento Produto X,1278,32,0.025,0,0.0,0.0,38.0,-100.0,,Mobile
+2023-12-08,Instagram Ads,Black Friday,1166,18,0.0154,0,0.0,0.0,19.6,-100.0,,Mobile
+2023-12-09,Orgânico,,239,8,0.0335,0,0.0,0.0,0.0,,,Mobile
+2023-12-10,Email Marketing,Branding,3851,132,0.0343,11,0.0833,2731.29,14.14,19216.05,1.29,Desktop
+2023-12-11,Email Marketing,Remarketing,2744,86,0.0313,5,0.0581,1233.23,7.84,15629.97,1.57,Desktop
+2023-12-12,Facebook Ads,Black Friday,1135,23,0.0203,0,0.0,0.0,28.55,-100.0,,Mobile
+2023-12-13,Facebook Ads,Remarketing,955,17,0.0178,0,0.0,0.0,19.88,-100.0,,Mobile
+2023-12-14,Facebook Ads,Black Friday,1234,22,0.0178,0,0.0,0.0,22.8,-100.0,,Mobile
+2023-12-15,Direto,Lançamento Produto X,0,45,0.0,1,0.0222,241.33,0.0,,,Desktop
+2023-12-16,Google Ads,Lançamento Produto X,556,14,0.0252,0,0.0,0.0,33.42,-100.0,,Desktop
+2023-12-17,Orgânico,Remarketing,197,6,0.0305,0,0.0,0.0,0.0,,,Mobile
+2023-12-18,Instagram Ads,,840,16,0.019,0,0.0,0.0,17.47,-100.0,,Desktop
+2023-12-19,Facebook Ads,Remarketing,849,14,0.0165,0,0.0,0.0,15.35,-100.0,,Desktop
+2023-12-20,Email Marketing,Promoção Sazonal,2260,63,0.0279,4,0.0635,859.04,6.57,12975.19,1.64,Desktop
+2023-12-21,Instagram Ads,Fidelização,766,13,0.017,0,0.0,0.0,13.74,-100.0,,Desktop
+2023-12-22,Orgânico,Black Friday,208,7,0.0337,0,0.0,0.0,0.0,,,Mobile
+2023-12-23,Orgânico,Promoção Sazonal,199,9,0.0452,0,0.0,0.0,0.0,,,Desktop
+2023-12-24,Facebook Ads,Black Friday,1523,37,0.0243,1,0.027,210.54,41.13,411.89,41.13,Mobile
+2023-12-25,Facebook Ads,Natal,1401,19,0.0136,0,0.0,0.0,19.84,-100.0,,Desktop
+2023-12-26,Instagram Ads,,745,13,0.0174,0,0.0,0.0,12.22,-100.0,,Desktop
+2023-12-27,Orgânico,Promoção Sazonal,226,8,0.0354,0,0.0,0.0,0.0,,,Desktop
+2023-12-28,Google Ads,Black Friday,621,18,0.029,0,0.0,0.0,45.67,-100.0,,Desktop
+2023-12-29,Email Marketing,Conversão,3259,98,0.0301,9,0.0918,1768.92,10.59,16603.68,1.18,Mobile
+2023-12-30,Email Marketing,Black Friday,2922,76,0.026,6,0.0789,1417.87,6.72,20999.26,1.12,Mobile
+2023-12-31,Email Marketing,Remarketing,3859,91,0.0236,6,0.0659,1138.36,8.64,13075.46,1.44,Tablet
+2024-01-01,Google Ads,Remarketing,429,11,0.0256,0,0.0,0.0,26.64,-100.0,,Desktop
+2024-01-02,Email Marketing,Natal,2190,69,0.0315,7,0.1014,1680.75,7.04,23774.29,1.01,Mobile
+2024-01-03,Orgânico,Aquisição,237,11,0.0464,0,0.0,0.0,0.0,,,Mobile
+2024-01-04,Google Ads,Black Friday,612,23,0.0376,1,0.0435,208.58,65.44,218.73,65.44,Mobile
+2024-01-05,Google Ads,Remarketing,605,20,0.0331,1,0.05,273.96,54.98,398.29,54.98,Desktop
+2024-01-06,Direto,Fidelização,0,14,0.0,0,0.0,0.0,0.0,,,Desktop
+2024-01-07,Google Ads,,553,21,0.038,1,0.0476,224.3,47.68,370.43,47.68,Mobile
+2024-01-08,Orgânico,Black Friday,191,7,0.0366,0,0.0,0.0,0.0,,,Mobile
+2024-01-09,Instagram Ads,Branding,769,12,0.0156,0,0.0,0.0,13.2,-100.0,,Desktop
+2024-01-10,Google Ads,,605,23,0.038,1,0.0435,262.1,64.78,304.6,64.78,Desktop
+2024-01-11,Orgânico,Remarketing,246,9,0.0366,0,0.0,0.0,0.0,,,Mobile
+2024-01-12,Facebook Ads,Natal,846,14,0.0165,0,0.0,0.0,16.69,-100.0,,Mobile
+2024-01-13,Instagram Ads,Conversão,783,9,0.0115,0,0.0,0.0,8.93,-100.0,,Mobile
+2024-01-14,Facebook Ads,Conversão,1305,27,0.0207,0,0.0,0.0,27.89,-100.0,,Mobile
+2024-01-15,Instagram Ads,Remarketing,897,10,0.0111,0,0.0,0.0,8.91,-100.0,,Mobile
+2024-01-16,Google Ads,Remarketing,618,21,0.034,0,0.0,0.0,47.07,-100.0,,Desktop
+2024-01-17,Facebook Ads,Lançamento Produto X,1527,37,0.0242,1,0.027,154.63,43.88,252.39,43.88,Desktop
+2024-01-18,Direto,,0,16,0.0,0,0.0,0.0,0.0,,,Desktop
+2024-01-19,Facebook Ads,Natal,1367,34,0.0249,1,0.0294,203.94,45.27,350.5,45.27,Desktop
+2024-01-20,Email Marketing,,2770,83,0.03,5,0.0602,1006.58,9.29,10735.09,1.86,Mobile
+2024-01-21,Facebook Ads,Lançamento Produto X,1086,20,0.0184,0,0.0,0.0,23.73,-100.0,,Mobile
+2024-01-22,LinkedIn Ads,Remarketing,230,7,0.0304,0,0.0,0.0,29.11,-100.0,,Mobile
+2024-01-23,Google Ads,,470,17,0.0362,0,0.0,0.0,47.95,-100.0,,Mobile
+2024-01-24,Direto,Black Friday,0,39,0.0,3,0.0769,646.74,0.0,,,Desktop
+2024-01-25,Instagram Ads,,1201,21,0.0175,0,0.0,0.0,18.2,-100.0,,Tablet
+2024-01-26,Google Ads,Branding,556,24,0.0432,0,0.0,0.0,60.38,-100.0,,Mobile
+2024-01-27,Google Ads,,493,14,0.0284,0,0.0,0.0,35.68,-100.0,,Mobile
+2024-01-28,Google Ads,Promoção Sazonal,476,17,0.0357,1,0.0588,280.43,44.77,526.38,44.77,Desktop
+2024-01-29,Instagram Ads,Aquisição,1231,18,0.0146,0,0.0,0.0,18.3,-100.0,,Mobile
+2024-01-30,Facebook Ads,Remarketing,960,18,0.0187,0,0.0,0.0,18.48,-100.0,,Mobile
+2024-01-31,Orgânico,Black Friday,155,5,0.0323,0,0.0,0.0,0.0,,,Desktop
+2024-02-01,Facebook Ads,Promoção Sazonal,1363,25,0.0183,0,0.0,0.0,30.7,-100.0,,Desktop
+2024-02-02,Google Ads,Branding,644,17,0.0264,0,0.0,0.0,40.35,-100.0,,Mobile
+2024-02-03,Email Marketing,Black Friday,3619,113,0.0312,8,0.0708,1622.8,12.71,12667.9,1.59,Mobile
+2024-02-04,Email Marketing,Black Friday,2286,79,0.0346,6,0.0759,1304.79,8.6,15071.98,1.43,Desktop
+2024-02-05,Google Ads,Remarketing,623,23,0.0369,1,0.0435,233.19,50.02,366.19,50.02,Mobile
+2024-02-06,Google Ads,Promoção Sazonal,494,17,0.0344,0,0.0,0.0,38.03,-100.0,,Mobile
+2024-02-07,Google Ads,Black Friday,520,14,0.0269,0,0.0,0.0,38.58,-100.0,,Desktop
+2024-02-08,Email Marketing,Aquisição,2888,96,0.0332,9,0.0938,2170.09,9.14,23642.78,1.02,Mobile
+2024-02-09,Email Marketing,Lançamento Produto X,3200,120,0.0375,10,0.0833,1946.45,11.55,16752.38,1.16,Desktop
+2024-02-10,Instagram Ads,Conversão,1167,18,0.0154,0,0.0,0.0,18.19,-100.0,,Mobile
+2024-02-11,Orgânico,Branding,213,6,0.0282,0,0.0,0.0,0.0,,,Tablet
+2024-02-12,Orgânico,Branding,243,9,0.037,0,0.0,0.0,0.0,,,Mobile
+2024-02-13,Instagram Ads,Promoção Sazonal,1227,14,0.0114,0,0.0,0.0,12.6,-100.0,,Mobile
+2024-02-14,Orgânico,Black Friday,227,6,0.0264,0,0.0,0.0,0.0,,,Mobile
+2024-02-15,Google Ads,Conversão,617,21,0.034,1,0.0476,254.64,54.16,370.16,54.16,Mobile
+2024-02-16,Google Ads,Promoção Sazonal,494,21,0.0425,1,0.0476,275.04,47.58,478.06,47.58,Desktop
+2024-02-17,Facebook Ads,Lançamento Produto X,1191,26,0.0218,0,0.0,0.0,27.61,-100.0,,Tablet
+2024-02-18,Google Ads,Lançamento Produto X,616,25,0.0406,1,0.04,254.88,67.79,275.98,67.79,Mobile
+2024-02-19,Instagram Ads,Natal,964,15,0.0156,0,0.0,0.0,14.14,-100.0,,Mobile
+2024-02-20,Orgânico,Aquisição,147,4,0.0272,0,0.0,0.0,0.0,,,Desktop
+2024-02-21,Google Ads,Natal,546,23,0.0421,1,0.0435,262.3,63.67,311.97,63.67,Desktop
+2024-02-22,Google Ads,Remarketing,353,13,0.0368,0,0.0,0.0,34.55,-100.0,,Mobile
+2024-02-23,Instagram Ads,Natal,1220,22,0.018,0,0.0,0.0,20.49,-100.0,,Mobile
+2024-02-24,Orgânico,Aquisição,202,8,0.0396,0,0.0,0.0,0.0,,,Mobile
+2024-02-25,Facebook Ads,Natal,1375,31,0.0225,0,0.0,0.0,32.59,-100.0,,Desktop
+2024-02-26,Instagram Ads,Black Friday,1134,12,0.0106,0,0.0,0.0,13.36,-100.0,,Mobile
+2024-02-27,Google Ads,Fidelização,417,15,0.036,0,0.0,0.0,36.06,-100.0,,Desktop
+2024-02-28,Google Ads,Natal,636,27,0.0425,1,0.037,299.23,74.17,303.44,74.17,Mobile
+2024-02-29,Direto,Promoção Sazonal,0,10,0.0,0,0.0,0.0,0.0,,,Desktop
+2024-03-01,Direto,Aquisição,0,37,0.0,2,0.0541,495.89,0.0,,,Mobile
+2024-03-02,Google Ads,,556,18,0.0324,0,0.0,0.0,42.34,-100.0,,Mobile
+2024-03-03,Direto,Branding,0,44,0.0,2,0.0455,490.96,0.0,,,Mobile
+2024-03-04,Email Marketing,Remarketing,2879,96,0.0333,7,0.0729,1463.99,9.67,15039.5,1.38,Desktop
+2024-03-05,Orgânico,Aquisição,227,8,0.0352,0,0.0,0.0,0.0,,,Mobile
+2024-03-06,Instagram Ads,Promoção Sazonal,989,18,0.0182,0,0.0,0.0,16.25,-100.0,,Mobile
+2024-03-07,Instagram Ads,Lançamento Produto X,1098,16,0.0146,0,0.0,0.0,15.4,-100.0,,Mobile
+2024-03-08,Instagram Ads,Conversão,1084,18,0.0166,0,0.0,0.0,15.5,-100.0,,Mobile
+2024-03-09,Email Marketing,Lançamento Produto X,2367,64,0.027,6,0.0938,1534.39,5.83,26218.87,0.97,Desktop
+2024-03-10,Google Ads,Black Friday,597,24,0.0402,0,0.0,0.0,52.67,-100.0,,Desktop
+2024-03-11,Google Ads,Conversão,617,26,0.0421,0,0.0,0.0,65.12,-100.0,,Desktop
+2024-03-12,Facebook Ads,Promoção Sazonal,1281,30,0.0234,0,0.0,0.0,39.23,-100.0,,Mobile
+2024-03-13,Email Marketing,Promoção Sazonal,2120,66,0.0311,3,0.0455,667.07,7.4,8914.46,2.47,Desktop
+2024-03-14,Google Ads,Black Friday,630,21,0.0333,0,0.0,0.0,47.05,-100.0,,Mobile
+2024-03-15,Email Marketing,Remarketing,3010,76,0.0252,6,0.0789,1190.88,7.24,16348.62,1.21,Mobile
+2024-03-16,Direto,Natal,0,46,0.0,2,0.0435,379.06,0.0,,,Mobile
+2024-03-17,Google Ads,Remarketing,498,13,0.0261,0,0.0,0.0,32.34,-100.0,,Mobile
+2024-03-18,Email Marketing,Promoção Sazonal,2397,76,0.0317,6,0.0789,1161.97,8.45,13651.12,1.41,Desktop
+2024-03-19,Facebook Ads,Fidelização,1381,28,0.0203,0,0.0,0.0,31.69,-100.0,,Desktop
+2024-03-20,Orgânico,Promoção Sazonal,178,6,0.0337,0,0.0,0.0,0.0,,,Desktop
+2024-03-21,Google Ads,Black Friday,449,11,0.0245,0,0.0,0.0,26.08,-100.0,,Mobile
+2024-03-22,Email Marketing,,2600,89,0.0342,8,0.0899,1898.35,9.62,19633.37,1.2,Mobile
+2024-03-23,Orgânico,,200,5,0.025,0,0.0,0.0,0.0,,,Mobile
+2024-03-24,Orgânico,Aquisição,206,8,0.0388,0,0.0,0.0,0.0,,,Mobile
+2024-03-25,Email Marketing,Lançamento Produto X,2781,84,0.0302,7,0.0833,1399.11,7.39,18832.48,1.06,Mobile
+2024-03-26,Instagram Ads,Natal,1190,16,0.0134,0,0.0,0.0,18.31,-100.0,,Mobile
+2024-03-27,Email Marketing,Remarketing,2241,55,0.0245,5,0.0909,1084.58,5.53,19512.66,1.11,Mobile
+2024-03-28,Orgânico,,193,9,0.0466,0,0.0,0.0,0.0,,,Mobile
+2024-03-29,Instagram Ads,Natal,1043,14,0.0134,0,0.0,0.0,16.07,-100.0,,Desktop
+2024-03-30,Google Ads,Remarketing,376,10,0.0266,0,0.0,0.0,22.79,-100.0,,Tablet
+2024-03-31,Orgânico,Lançamento Produto X,199,7,0.0352,0,0.0,0.0,0.0,,,Desktop
+2024-04-01,Email Marketing,Promoção Sazonal,2668,84,0.0315,8,0.0952,2073.4,7.23,28577.73,0.9,Desktop
+2024-04-02,Email Marketing,Black Friday,3865,99,0.0256,9,0.0909,1636.75,9.57,17002.93,1.06,Mobile
+2024-04-03,Google Ads,Branding,573,20,0.0349,1,0.05,266.04,55.47,379.61,55.47,Desktop
+2024-04-04,Email Marketing,Branding,2131,66,0.031,3,0.0455,703.03,5.84,11938.18,1.95,Desktop
+2024-04-05,Facebook Ads,Natal,1130,24,0.0212,0,0.0,0.0,27.17,-100.0,,Mobile
+2024-04-06,Email Marketing,Fidelização,2164,84,0.0388,6,0.0714,1537.99,7.25,21113.66,1.21,Mobile
+2024-04-07,Google Ads,Fidelização,514,16,0.0311,0,0.0,0.0,44.18,-100.0,,Desktop
+2024-04-08,Email Marketing,Conversão,3586,88,0.0245,8,0.0909,1661.59,9.78,16889.67,1.22,Mobile
+2024-04-09,Direto,Conversão,0,32,0.0,1,0.0312,193.93,0.0,,,Mobile
+2024-04-10,Google Ads,Conversão,638,18,0.0282,0,0.0,0.0,42.75,-100.0,,Mobile
+2024-04-11,Direto,Branding,0,29,0.0,1,0.0345,210.91,0.0,,,Mobile
+2024-04-12,Facebook Ads,Promoção Sazonal,1480,38,0.0257,0,0.0,0.0,50.92,-100.0,,Mobile
+2024-04-13,Orgânico,Lançamento Produto X,207,8,0.0386,0,0.0,0.0,0.0,,,Mobile
+2024-04-14,LinkedIn Ads,Natal,327,9,0.0275,0,0.0,0.0,30.13,-100.0,,Mobile
+2024-04-15,Instagram Ads,,973,13,0.0134,0,0.0,0.0,14.04,-100.0,,Mobile
+2024-04-16,Email Marketing,Fidelização,2713,63,0.0232,5,0.0794,1268.7,6.76,18667.75,1.35,Desktop
+2024-04-17,Orgânico,Aquisição,239,11,0.046,0,0.0,0.0,0.0,,,Mobile
+2024-04-18,Facebook Ads,Remarketing,1427,22,0.0154,0,0.0,0.0,22.62,-100.0,,Mobile
+2024-04-19,Facebook Ads,Lançamento Produto X,1447,24,0.0166,0,0.0,0.0,31.03,-100.0,,Mobile
+2024-04-20,Email Marketing,Black Friday,2697,94,0.0349,7,0.0745,1470.1,9.79,14916.34,1.4,Desktop
+2024-04-21,Orgânico,Lançamento Produto X,232,11,0.0474,0,0.0,0.0,0.0,,,Mobile
+2024-04-22,LinkedIn Ads,Natal,317,6,0.0189,0,0.0,0.0,20.82,-100.0,,Mobile
+2024-04-23,LinkedIn Ads,Promoção Sazonal,338,8,0.0237,0,0.0,0.0,27.67,-100.0,,Desktop
+2024-04-24,Facebook Ads,Conversão,1101,25,0.0227,0,0.0,0.0,28.08,-100.0,,Desktop
+2024-04-25,Orgânico,,194,9,0.0464,0,0.0,0.0,0.0,,,Mobile
+2024-04-26,Google Ads,Aquisição,379,14,0.0369,0,0.0,0.0,35.34,-100.0,,Desktop
+2024-04-27,Instagram Ads,Branding,1095,18,0.0164,0,0.0,0.0,19.47,-100.0,,Mobile
+2024-04-28,Google Ads,Promoção Sazonal,350,8,0.0229,0,0.0,0.0,21.03,-100.0,,Mobile
+2024-04-29,Facebook Ads,Lançamento Produto X,1095,20,0.0183,0,0.0,0.0,22.36,-100.0,,Mobile
+2024-04-30,Facebook Ads,Branding,1296,28,0.0216,0,0.0,0.0,30.15,-100.0,,Mobile
+2024-05-01,Facebook Ads,Remarketing,1415,33,0.0233,1,0.0303,214.55,35.02,512.65,35.02,Desktop
+2024-05-02,Email Marketing,Conversão,3085,110,0.0357,9,0.0818,1986.76,12.51,15781.37,1.39,Mobile
+2024-05-03,Facebook Ads,Promoção Sazonal,1109,21,0.0189,0,0.0,0.0,25.65,-100.0,,Mobile
+2024-05-04,Facebook Ads,Aquisição,916,19,0.0207,0,0.0,0.0,20.08,-100.0,,Desktop
+2024-05-05,Google Ads,Promoção Sazonal,619,16,0.0258,1,0.0625,270.97,40.51,568.9,40.51,Desktop
+2024-05-06,Facebook Ads,Conversão,1194,20,0.0168,0,0.0,0.0,24.36,-100.0,,Mobile
+2024-05-07,Google Ads,Natal,596,19,0.0319,1,0.0526,290.39,44.24,556.4,44.24,Desktop
+2024-05-08,Google Ads,Aquisição,572,21,0.0367,1,0.0476,248.47,59.48,317.74,59.48,Mobile
+2024-05-09,Email Marketing,Aquisição,2836,96,0.0339,7,0.0729,1599.82,10.48,15165.46,1.5,Desktop
+2024-05-10,Email Marketing,Conversão,2557,96,0.0375,8,0.0833,1469.97,9.81,14884.4,1.23,Desktop
+2024-05-11,Email Marketing,Promoção Sazonal,2452,69,0.0281,6,0.087,1161.01,6.22,18565.76,1.04,Tablet
+2024-05-12,Instagram Ads,Fidelização,772,12,0.0155,0,0.0,0.0,11.32,-100.0,,Mobile
+2024-05-13,Facebook Ads,Natal,1453,25,0.0172,0,0.0,0.0,33.53,-100.0,,Mobile
+2024-05-14,Orgânico,Remarketing,165,8,0.0485,0,0.0,0.0,0.0,,,Mobile

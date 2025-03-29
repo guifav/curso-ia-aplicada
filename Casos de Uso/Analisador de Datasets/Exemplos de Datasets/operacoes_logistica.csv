@@ -1,0 +1,501 @@
+ID_Pedido,Data_Envio,Produto,Categoria,Peso_KG,Origem,Destino,Distancia_KM,Transportadora,Metodo_Envio,Custo_Frete,Custo_Operacional_Total,Tempo_Entrega_Previsto_Dias,Status,Dias_Atraso,Avaliacao_Cliente
+PED-20000,2023-01-01,Produto A,Categoria 1,20.71,CD Belo Horizonte,Manaus,1213,Transportadora B,Expresso,27.94,40.22,5,Entregue,0,5.0
+PED-20001,2023-01-02,Produto F,Categoria 3,61.82,CD Belo Horizonte,Curitiba,288,Transportadora C,Padrão,33.09,53.08,4,Entregue,0,4.0
+PED-20002,2023-01-03,Produto G,Categoria 1,95.47,CD São Paulo,Manaus,269,Transportadora B,Econômico,42.25,72.24,3,Entregue,0,4.0
+PED-20003,2023-01-04,Produto G,Categoria 4,9.57,CD Rio de Janeiro,Manaus,602,Transportadora D,Expresso,12.43,18.31,5,Entregue,0,4.0
+PED-20004,2023-01-05,Produto F,Categoria 2,74.18,CD São Paulo,Curitiba,1583,Transportadora C,Padrão,58.85,89.02,6,Entregue,0,5.0
+PED-20005,2023-01-06,Produto I,Categoria 4,97.88,CD Rio de Janeiro,Curitiba,1801,Transportadora C,Premium,59.49,97.86,4,Entregue,0,5.0
+PED-20006,2023-01-07,Produto I,Categoria 3,27.34,CD São Paulo,Brasília,1565,Transportadora A,Padrão,20.4,36.43,6,Entregue,0,4.0
+PED-20007,2023-01-08,Produto D,Categoria 1,48.88,CD Curitiba,Manaus,1392,Transportadora B,Padrão,43.1,64.72,5,Entregue,0,5.0
+PED-20008,2023-01-09,Produto D,Categoria 4,10.02,CD São Paulo,Brasília,1988,Transportadora C,Expresso,25.56,38.51,6,Entregue,0,5.0
+PED-20009,2023-01-10,Produto J,Categoria 2,84.62,CD Recife,São Paulo,292,Transportadora D,Padrão,52.37,79.22,3,Entregue,0,5.0
+PED-20010,2023-01-11,Produto I,Categoria 1,22.49,CD São Paulo,Recife,1031,Transportadora C,Econômico,22.76,34.66,5,Entregue,0,5.0
+PED-20011,2023-01-12,Produto H,Categoria 3,46.22,CD Curitiba,Porto Alegre,877,Transportadora A,Econômico,29.77,48.02,3,Atrasado,3,3.0
+PED-20012,2023-01-13,Produto E,Categoria 3,16.98,CD Recife,Rio de Janeiro,1634,Transportadora B,Premium,27.82,41.08,6,Atrasado,5,3.0
+PED-20013,2023-01-14,Produto B,Categoria 1,17.77,CD São Paulo,Fortaleza,790,Transportadora A,Padrão,21.03,30.31,5,Em Trânsito,0,
+PED-20014,2023-01-15,Produto B,Categoria 4,22.42,CD Rio de Janeiro,Belo Horizonte,594,Transportadora B,Padrão,23.48,33.18,4,Entregue,0,4.0
+PED-20015,2023-01-16,Produto D,Categoria 3,11.18,CD São Paulo,Manaus,1336,Transportadora D,Expresso,10.01,20.04,4,Em Trânsito,0,
+PED-20016,2023-01-17,Produto C,Categoria 1,24.26,CD Recife,Recife,12,Transportadora B,Padrão,5.85,13.19,1,Em Trânsito,0,
+PED-20017,2023-01-18,Produto F,Categoria 4,31.2,CD Recife,Rio de Janeiro,761,Transportadora D,Padrão,30.73,43.9,3,Em Trânsito,0,
+PED-20018,2023-01-19,Produto H,Categoria 4,58.17,CD São Paulo,Porto Alegre,734,Transportadora A,Padrão,42.4,63.52,4,Entregue,0,5.0
+PED-20019,2023-01-20,Produto J,Categoria 2,60.17,CD São Paulo,Brasília,1231,Transportadora D,Padrão,37.2,61.41,5,Entregue,0,5.0
+PED-20020,2023-01-21,Produto H,Categoria 4,38.98,CD Curitiba,Brasília,1691,Transportadora A,Padrão,27.42,47.57,4,Em Trânsito,0,
+PED-20021,2023-01-22,Produto A,Categoria 3,21.73,CD Recife,Manaus,1541,Transportadora A,Econômico,33.44,47.66,4,Entregue,0,5.0
+PED-20022,2023-01-23,Produto G,Categoria 2,10.49,CD Curitiba,Salvador,1850,Transportadora C,Econômico,24.62,37.02,7,Entregue,0,5.0
+PED-20023,2023-01-24,Produto H,Categoria 1,8.66,CD Belo Horizonte,Rio de Janeiro,1024,Transportadora D,Padrão,6.05,13.77,7,Entregue,0,5.0
+PED-20024,2023-01-25,Produto D,Categoria 1,71.39,CD Recife,Brasília,543,Transportadora A,Padrão,41.91,66.04,4,Entregue,0,4.0
+PED-20025,2023-01-26,Produto E,Categoria 3,44.53,CD Curitiba,Fortaleza,1356,Transportadora C,Padrão,27.5,47.64,4,Entregue,0,3.0
+PED-20026,2023-01-27,Produto J,Categoria 2,74.05,CD Curitiba,Curitiba,16,Transportadora A,Econômico,37.69,59.98,1,Entregue,0,4.0
+PED-20027,2023-01-28,Produto J,Categoria 4,38.76,CD Rio de Janeiro,Salvador,121,Transportadora D,Padrão,12.46,24.69,1,Entregue,0,5.0
+PED-20028,2023-01-29,Produto G,Categoria 4,61.7,CD Curitiba,Belo Horizonte,1500,Transportadora B,Expresso,41.07,67.08,7,Entregue,0,5.0
+PED-20029,2023-01-30,Produto A,Categoria 4,38.33,CD Recife,Recife,47,Transportadora C,Padrão,20.61,32.34,1,Entregue,0,4.0
+PED-20030,2023-01-31,Produto B,Categoria 1,54.36,CD Belo Horizonte,São Paulo,1866,Transportadora A,Expresso,52.4,78.04,4,Entregue,0,4.0
+PED-20031,2023-02-01,Produto A,Categoria 1,27.54,CD Belo Horizonte,Brasília,1482,Transportadora B,Padrão,19.47,35.14,4,Entregue,0,4.0
+PED-20032,2023-02-02,Produto F,Categoria 3,88.24,CD Curitiba,Curitiba,11,Transportadora D,Expresso,44.04,70.57,1,Entregue,0,5.0
+PED-20033,2023-02-03,Produto E,Categoria 3,49.41,CD Curitiba,Curitiba,38,Transportadora C,Padrão,31.84,46.85,2,Em Trânsito,0,
+PED-20034,2023-02-04,Produto I,Categoria 3,79.06,CD Rio de Janeiro,São Paulo,241,Transportadora B,Expresso,34.73,59.65,2,Entregue,0,5.0
+PED-20035,2023-02-05,Produto F,Categoria 3,52.63,CD Curitiba,Recife,1128,Transportadora B,Padrão,43.4,64.83,4,Entregue,0,5.0
+PED-20036,2023-02-06,Produto H,Categoria 4,32.55,CD Recife,Recife,39,Transportadora A,Expresso,20.64,30.6,1,Entregue,0,4.0
+PED-20037,2023-02-07,Produto E,Categoria 3,50.15,CD Belo Horizonte,Manaus,662,Transportadora D,Econômico,23.48,41.84,4,Atrasado,5,2.0
+PED-20038,2023-02-08,Produto B,Categoria 3,61.76,CD Rio de Janeiro,Brasília,1527,Transportadora A,Padrão,39.11,65.27,4,Entregue,0,5.0
+PED-20039,2023-02-09,Produto H,Categoria 1,83.9,CD Rio de Janeiro,Porto Alegre,1257,Transportadora C,Econômico,53.37,84.82,6,Entregue,0,5.0
+PED-20040,2023-02-10,Produto C,Categoria 1,60.85,CD Belo Horizonte,Belo Horizonte,894,Transportadora B,Padrão,37.81,60.53,3,Entregue,0,4.0
+PED-20041,2023-02-11,Produto B,Categoria 1,37.61,CD Rio de Janeiro,Salvador,1741,Transportadora D,Padrão,38.89,58.88,6,Entregue,0,3.0
+PED-20042,2023-02-12,Produto F,Categoria 4,70.49,CD Curitiba,Recife,1994,Transportadora A,Padrão,46.79,77.91,4,Atrasado,4,1.0
+PED-20043,2023-02-13,Produto G,Categoria 2,60.29,CD Belo Horizonte,Brasília,1197,Transportadora A,Padrão,47.32,71.39,6,Em Trânsito,0,
+PED-20044,2023-02-14,Produto C,Categoria 4,70.04,CD Rio de Janeiro,Recife,1438,Transportadora B,Expresso,48.62,76.82,4,Entregue,0,4.0
+PED-20045,2023-02-15,Produto C,Categoria 2,38.08,CD Belo Horizonte,Manaus,1583,Transportadora C,Expresso,38.5,57.84,7,Entregue,0,5.0
+PED-20046,2023-02-16,Produto J,Categoria 4,78.91,CD São Paulo,Porto Alegre,199,Transportadora B,Padrão,51.3,75.97,2,Entregue,0,3.0
+PED-20047,2023-02-17,Produto E,Categoria 3,21.11,CD Curitiba,Curitiba,47,Transportadora C,Padrão,7.78,14.35,1,Entregue,0,4.0
+PED-20048,2023-02-18,Produto J,Categoria 1,31.76,CD Belo Horizonte,Curitiba,340,Transportadora C,Econômico,9.94,21.17,4,Entregue,0,3.0
+PED-20049,2023-02-19,Produto D,Categoria 4,40.81,CD Rio de Janeiro,Manaus,1529,Transportadora D,Econômico,25.93,45.82,5,Entregue,0,4.0
+PED-20050,2023-02-20,Produto I,Categoria 4,25.25,CD São Paulo,Manaus,1158,Transportadora B,Padrão,14.75,28.11,7,Entregue,0,3.0
+PED-20051,2023-02-21,Produto B,Categoria 4,29.42,CD Curitiba,Rio de Janeiro,1105,Transportadora D,Premium,29.06,43.41,7,Entregue,0,3.0
+PED-20052,2023-02-22,Produto H,Categoria 1,23.47,CD Curitiba,Salvador,456,Transportadora B,Padrão,6.78,16.1,4,Atrasado,4,1.0
+PED-20053,2023-02-23,Produto D,Categoria 1,60.24,CD Recife,São Paulo,1947,Transportadora B,Padrão,55.78,83.59,5,Entregue,0,4.0
+PED-20054,2023-02-24,Produto F,Categoria 1,47.24,CD Rio de Janeiro,Curitiba,1025,Transportadora C,Econômico,24.48,43.78,4,Em Trânsito,0,
+PED-20055,2023-02-25,Produto J,Categoria 1,2.92,CD Curitiba,Porto Alegre,700,Transportadora A,Padrão,4.91,9.29,5,Em Trânsito,0,
+PED-20056,2023-02-26,Produto I,Categoria 1,93.56,CD Rio de Janeiro,Porto Alegre,1848,Transportadora C,Padrão,70.41,107.72,6,Entregue,0,4.0
+PED-20057,2023-02-27,Produto E,Categoria 2,24.79,CD Belo Horizonte,Salvador,433,Transportadora C,Padrão,22.88,32.48,2,Em Trânsito,0,
+PED-20058,2023-02-28,Produto I,Categoria 3,69.91,CD Rio de Janeiro,Curitiba,181,Transportadora A,Econômico,38.48,60.36,3,Entregue,0,5.0
+PED-20059,2023-03-01,Produto I,Categoria 4,45.5,CD Curitiba,Fortaleza,694,Transportadora A,Econômico,21.34,38.46,4,Entregue,0,5.0
+PED-20060,2023-03-02,Produto E,Categoria 4,80.11,CD Curitiba,Fortaleza,1331,Transportadora B,Padrão,47.17,77.86,6,Entregue,0,3.0
+PED-20061,2023-03-03,Produto A,Categoria 1,39.19,CD Curitiba,São Paulo,778,Transportadora A,Padrão,36.44,52.09,3,Aguardando Retirada,0,
+PED-20062,2023-03-04,Produto C,Categoria 3,34.85,CD Curitiba,Salvador,973,Transportadora A,Padrão,19.12,34.44,4,Entregue,0,4.0
+PED-20063,2023-03-05,Produto B,Categoria 4,38.41,CD Curitiba,Salvador,324,Transportadora B,Padrão,28.12,41.26,3,Entregue,0,5.0
+PED-20064,2023-03-06,Produto F,Categoria 4,49.35,CD Curitiba,Curitiba,19,Transportadora A,Padrão,25.65,40.55,2,Atrasado,5,2.0
+PED-20065,2023-03-07,Produto F,Categoria 1,72.56,CD Curitiba,Belo Horizonte,1814,Transportadora C,Expresso,51.85,82.69,6,Entregue,0,3.0
+PED-20066,2023-03-08,Produto H,Categoria 4,90.96,CD Curitiba,Salvador,257,Transportadora B,Padrão,53.8,82.37,3,Entregue,0,5.0
+PED-20067,2023-03-09,Produto D,Categoria 4,9.4,CD Belo Horizonte,São Paulo,507,Transportadora A,Padrão,14.74,20.09,3,Em Trânsito,0,
+PED-20068,2023-03-10,Produto C,Categoria 1,25.87,CD Belo Horizonte,São Paulo,1087,Transportadora D,Padrão,25.9,39.1,4,Em Trânsito,0,
+PED-20069,2023-03-11,Produto F,Categoria 2,23.24,CD Belo Horizonte,Fortaleza,1095,Transportadora C,Padrão,26.95,39.4,7,Extraviado,12,1.0
+PED-20070,2023-03-12,Produto H,Categoria 2,36.98,CD Curitiba,Rio de Janeiro,610,Transportadora A,Econômico,34.36,48.5,3,Extraviado,9,1.0
+PED-20071,2023-03-13,Produto D,Categoria 1,99.71,CD Rio de Janeiro,Recife,111,Transportadora D,Padrão,47.22,77.69,3,Entregue,0,5.0
+PED-20072,2023-03-14,Produto H,Categoria 3,48.11,CD Recife,Brasília,893,Transportadora A,Padrão,36.43,55.33,4,Em Trânsito,0,
+PED-20073,2023-03-15,Produto F,Categoria 1,17.27,CD Rio de Janeiro,Belo Horizonte,1688,Transportadora D,Padrão,31.41,45.03,7,Entregue,0,5.0
+PED-20074,2023-03-16,Produto F,Categoria 3,85.44,CD Rio de Janeiro,Brasília,1624,Transportadora C,Padrão,59.04,92.79,5,Entregue,0,5.0
+PED-20075,2023-03-17,Produto D,Categoria 4,64.68,CD Rio de Janeiro,Fortaleza,1752,Transportadora A,Padrão,45.66,73.82,5,Entregue,0,4.0
+PED-20076,2023-03-18,Produto E,Categoria 1,60.11,CD Rio de Janeiro,Porto Alegre,1439,Transportadora C,Padrão,40.29,65.52,6,Entregue,0,5.0
+PED-20077,2023-03-19,Produto E,Categoria 4,81.11,CD Recife,Belo Horizonte,1954,Transportadora A,Padrão,53.28,87.38,4,Aguardando Retirada,0,
+PED-20078,2023-03-20,Produto J,Categoria 3,84.67,CD Rio de Janeiro,Manaus,461,Transportadora C,Padrão,47.86,75.57,4,Atrasado,3,1.0
+PED-20079,2023-03-21,Produto A,Categoria 3,97.93,CD Recife,Brasília,1682,Transportadora B,Padrão,58.74,96.53,4,Entregue,0,5.0
+PED-20080,2023-03-22,Produto C,Categoria 3,36.77,CD Belo Horizonte,Recife,871,Transportadora D,Padrão,30.46,45.85,5,Entregue,0,5.0
+PED-20081,2023-03-23,Produto B,Categoria 3,76.19,CD Curitiba,Rio de Janeiro,189,Transportadora B,Premium,40.79,64.59,2,Entregue,0,4.0
+PED-20082,2023-03-24,Produto G,Categoria 2,9.45,CD Recife,Salvador,719,Transportadora C,Padrão,7.66,14.09,5,Em Trânsito,0,
+PED-20083,2023-03-25,Produto G,Categoria 3,91.63,CD Curitiba,Brasília,474,Transportadora A,Padrão,51.0,80.86,4,Em Trânsito,0,
+PED-20084,2023-03-26,Produto G,Categoria 4,9.69,CD Belo Horizonte,Salvador,557,Transportadora A,Padrão,15.77,21.46,4,Entregue,0,5.0
+PED-20085,2023-03-27,Produto H,Categoria 1,69.68,CD Belo Horizonte,Curitiba,796,Transportadora A,Padrão,35.81,60.69,4,Entregue,0,5.0
+PED-20086,2023-03-28,Produto A,Categoria 3,5.48,CD Rio de Janeiro,Manaus,1872,Transportadora B,Expresso,27.95,38.95,4,Entregue,0,4.0
+PED-20087,2023-03-29,Produto I,Categoria 4,8.39,CD Curitiba,Brasília,1498,Transportadora B,Padrão,14.95,24.96,5,Entregue,0,5.0
+PED-20088,2023-03-30,Produto A,Categoria 3,93.24,CD Rio de Janeiro,Salvador,1295,Transportadora C,Expresso,62.0,96.45,4,Atrasado,2,2.0
+PED-20089,2023-03-31,Produto I,Categoria 2,45.58,CD Curitiba,Belo Horizonte,1831,Transportadora B,Padrão,31.95,54.78,6,Entregue,0,5.0
+PED-20090,2023-04-01,Produto F,Categoria 2,29.67,CD São Paulo,Manaus,1110,Transportadora B,Padrão,23.52,37.97,4,Entregue,0,5.0
+PED-20091,2023-04-02,Produto A,Categoria 3,85.92,CD Recife,Belo Horizonte,568,Transportadora D,Expresso,39.45,68.07,4,Entregue,0,5.0
+PED-20092,2023-04-03,Produto J,Categoria 4,28.21,CD Curitiba,Recife,1561,Transportadora C,Padrão,28.41,44.68,6,Entregue,0,5.0
+PED-20093,2023-04-04,Produto G,Categoria 3,91.64,CD Belo Horizonte,São Paulo,1010,Transportadora A,Padrão,46.45,78.99,4,Extraviado,7,1.0
+PED-20094,2023-04-05,Produto A,Categoria 2,23.29,CD Recife,Rio de Janeiro,1755,Transportadora C,Padrão,31.18,46.94,5,Entregue,0,5.0
+PED-20095,2023-04-06,Produto I,Categoria 4,31.5,CD Curitiba,São Paulo,1535,Transportadora D,Expresso,21.16,38.28,5,Entregue,0,5.0
+PED-20096,2023-04-07,Produto F,Categoria 1,52.29,CD São Paulo,Recife,1967,Transportadora D,Padrão,41.04,66.56,5,Entregue,0,4.0
+PED-20097,2023-04-08,Produto I,Categoria 3,23.57,CD Rio de Janeiro,Porto Alegre,337,Transportadora A,Econômico,10.07,18.83,3,Entregue,0,5.0
+PED-20098,2023-04-09,Produto H,Categoria 3,9.68,CD Rio de Janeiro,Brasília,307,Transportadora D,Padrão,4.82,9.26,2,Entregue,0,4.0
+PED-20099,2023-04-10,Produto E,Categoria 2,5.69,CD Belo Horizonte,Recife,436,Transportadora B,Econômico,4.03,7.92,2,Em Trânsito,0,
+PED-20100,2023-04-11,Produto J,Categoria 3,65.63,CD Recife,Belo Horizonte,385,Transportadora B,Padrão,33.89,55.5,2,Entregue,0,5.0
+PED-20101,2023-04-12,Produto F,Categoria 3,78.53,CD Rio de Janeiro,Recife,370,Transportadora B,Expresso,43.28,68.69,3,Entregue,0,4.0
+PED-20102,2023-04-13,Produto B,Categoria 1,95.41,CD Curitiba,Fortaleza,1616,Transportadora D,Padrão,64.47,101.17,6,Entregue,0,5.0
+PED-20103,2023-04-14,Produto B,Categoria 1,94.18,CD Recife,Porto Alegre,1339,Transportadora A,Econômico,58.58,93.53,5,Entregue,0,3.0
+PED-20104,2023-04-15,Produto J,Categoria 4,18.01,CD Curitiba,São Paulo,1252,Transportadora B,Padrão,22.79,34.45,5,Entregue,0,5.0
+PED-20105,2023-04-16,Produto B,Categoria 3,55.02,CD Rio de Janeiro,Fortaleza,148,Transportadora D,Padrão,23.71,40.96,2,Entregue,0,4.0
+PED-20106,2023-04-17,Produto I,Categoria 4,94.23,CD Curitiba,Recife,997,Transportadora D,Padrão,50.07,83.32,4,Atrasado,4,2.0
+PED-20107,2023-04-18,Produto B,Categoria 2,89.54,CD São Paulo,Fortaleza,1116,Transportadora D,Padrão,51.32,83.76,4,Atrasado,3,2.0
+PED-20108,2023-04-19,Produto I,Categoria 4,24.01,CD Rio de Janeiro,Belo Horizonte,850,Transportadora C,Padrão,15.06,26.51,4,Entregue,0,5.0
+PED-20109,2023-04-20,Produto C,Categoria 2,80.87,CD Curitiba,Recife,1726,Transportadora C,Econômico,54.13,87.02,4,Entregue,0,5.0
+PED-20110,2023-04-21,Produto I,Categoria 3,19.94,CD Recife,Manaus,1531,Transportadora B,Premium,28.51,42.15,7,Entregue,0,5.0
+PED-20111,2023-04-22,Produto B,Categoria 4,71.4,CD Rio de Janeiro,São Paulo,980,Transportadora A,Padrão,42.82,69.14,3,Entregue,0,5.0
+PED-20112,2023-04-23,Produto J,Categoria 3,7.2,CD Belo Horizonte,Salvador,142,Transportadora A,Econômico,11.45,14.32,1,Em Trânsito,0,
+PED-20113,2023-04-24,Produto H,Categoria 3,10.6,CD Recife,Recife,43,Transportadora D,Padrão,11.43,14.82,1,Entregue,0,5.0
+PED-20114,2023-04-25,Produto J,Categoria 4,81.82,CD Rio de Janeiro,Manaus,1938,Transportadora B,Padrão,57.8,92.04,4,Entregue,0,4.0
+PED-20115,2023-04-26,Produto D,Categoria 3,18.28,CD Curitiba,Manaus,1520,Transportadora A,Expresso,15.18,28.26,4,Em Trânsito,0,
+PED-20116,2023-04-27,Produto B,Categoria 2,12.85,CD Recife,São Paulo,854,Transportadora C,Expresso,19.25,27.38,5,Atrasado,5,1.0
+PED-20117,2023-04-28,Produto G,Categoria 2,46.52,CD Rio de Janeiro,Porto Alegre,1400,Transportadora A,Premium,39.76,60.72,5,Entregue,0,5.0
+PED-20118,2023-04-29,Produto E,Categoria 3,76.21,CD Rio de Janeiro,São Paulo,1213,Transportadora C,Padrão,41.3,70.23,4,Entregue,0,5.0
+PED-20119,2023-04-30,Produto H,Categoria 1,72.46,CD Curitiba,Belo Horizonte,317,Transportadora C,Expresso,33.56,56.88,3,Entregue,0,5.0
+PED-20120,2023-05-01,Produto H,Categoria 1,15.7,CD Belo Horizonte,Brasília,957,Transportadora D,Padrão,15.62,25.11,3,Entregue,0,5.0
+PED-20121,2023-05-02,Produto C,Categoria 2,93.25,CD Curitiba,Rio de Janeiro,1070,Transportadora A,Padrão,64.45,97.77,5,Atrasado,3,3.0
+PED-20122,2023-05-03,Produto F,Categoria 3,24.94,CD Rio de Janeiro,Rio de Janeiro,168,Transportadora C,Padrão,15.32,23.64,2,Em Trânsito,0,
+PED-20123,2023-05-04,Produto B,Categoria 3,1.37,CD Rio de Janeiro,Belo Horizonte,671,Transportadora D,Premium,9.76,13.53,3,Em Trânsito,0,
+PED-20124,2023-05-05,Produto C,Categoria 2,85.61,CD Curitiba,Belo Horizonte,993,Transportadora A,Econômico,58.47,89.12,5,Entregue,0,5.0
+PED-20125,2023-05-06,Produto J,Categoria 4,76.75,CD Belo Horizonte,Rio de Janeiro,1241,Transportadora B,Expresso,41.12,70.35,6,Em Trânsito,0,
+PED-20126,2023-05-07,Produto F,Categoria 1,51.57,CD Recife,Porto Alegre,1537,Transportadora A,Padrão,43.64,66.8,5,Entregue,0,5.0
+PED-20127,2023-05-08,Produto H,Categoria 2,2.56,CD Recife,Belo Horizonte,964,Transportadora A,Padrão,13.64,19.23,4,Entregue,0,5.0
+PED-20128,2023-05-09,Produto I,Categoria 1,50.7,CD Recife,Curitiba,237,Transportadora B,Padrão,36.49,52.89,3,Entregue,0,5.0
+PED-20129,2023-05-10,Produto G,Categoria 1,6.16,CD São Paulo,Rio de Janeiro,233,Transportadora D,Padrão,13.9,16.91,4,Entregue,0,5.0
+PED-20130,2023-05-11,Produto A,Categoria 4,13.93,CD São Paulo,Recife,278,Transportadora D,Padrão,3.44,9.01,4,Em Trânsito,0,
+PED-20131,2023-05-12,Produto G,Categoria 3,5.31,CD São Paulo,Recife,638,Transportadora C,Expresso,0.33,5.11,4,Entregue,0,5.0
+PED-20132,2023-05-13,Produto J,Categoria 2,16.01,CD São Paulo,Recife,1897,Transportadora A,Padrão,22.33,36.62,7,Entregue,0,4.0
+PED-20133,2023-05-14,Produto E,Categoria 3,13.66,CD São Paulo,Rio de Janeiro,1461,Transportadora A,Padrão,12.38,23.78,4,Entregue,0,5.0
+PED-20134,2023-05-15,Produto A,Categoria 3,86.24,CD São Paulo,Fortaleza,832,Transportadora C,Padrão,43.89,73.92,3,Entregue,0,4.0
+PED-20135,2023-05-16,Produto J,Categoria 4,83.51,CD São Paulo,Recife,1072,Transportadora B,Padrão,50.31,80.72,5,Entregue,0,4.0
+PED-20136,2023-05-17,Produto G,Categoria 2,57.6,CD Belo Horizonte,Rio de Janeiro,921,Transportadora C,Padrão,44.71,66.59,4,Entregue,0,5.0
+PED-20137,2023-05-18,Produto A,Categoria 4,28.29,CD São Paulo,Brasília,1138,Transportadora D,Econômico,18.01,32.19,4,Em Trânsito,0,
+PED-20138,2023-05-19,Produto A,Categoria 1,24.96,CD Belo Horizonte,Fortaleza,1982,Transportadora C,Expresso,33.42,50.82,6,Entregue,0,5.0
+PED-20139,2023-05-20,Produto D,Categoria 3,17.93,CD Belo Horizonte,Porto Alegre,598,Transportadora A,Econômico,15.53,23.9,4,Entregue,0,4.0
+PED-20140,2023-05-21,Produto F,Categoria 1,11.43,CD Rio de Janeiro,São Paulo,1956,Transportadora A,Padrão,15.37,28.58,6,Entregue,0,5.0
+PED-20141,2023-05-22,Produto G,Categoria 3,25.2,CD Rio de Janeiro,Porto Alegre,2000,Transportadora A,Padrão,35.11,52.67,4,Em Trânsito,0,
+PED-20142,2023-05-23,Produto C,Categoria 2,64.19,CD Rio de Janeiro,Fortaleza,1893,Transportadora C,Padrão,46.2,74.92,5,Entregue,0,5.0
+PED-20143,2023-05-24,Produto E,Categoria 4,75.57,CD Belo Horizonte,Fortaleza,381,Transportadora B,Econômico,48.73,73.31,4,Entregue,0,4.0
+PED-20144,2023-05-25,Produto D,Categoria 1,7.17,CD São Paulo,Belo Horizonte,347,Transportadora C,Expresso,0.6,4.49,3,Entregue,0,5.0
+PED-20145,2023-05-26,Produto J,Categoria 2,38.05,CD Belo Horizonte,Porto Alegre,149,Transportadora D,Padrão,29.48,41.64,1,Entregue,0,4.0
+PED-20146,2023-05-27,Produto F,Categoria 2,0.56,CD Recife,Rio de Janeiro,431,Transportadora B,Padrão,4.56,6.88,2,Entregue,0,5.0
+PED-20147,2023-05-28,Produto I,Categoria 3,46.35,CD Belo Horizonte,Curitiba,276,Transportadora C,Padrão,34.55,49.84,3,Em Trânsito,0,
+PED-20148,2023-05-29,Produto H,Categoria 1,79.98,CD Recife,Brasília,1268,Transportadora C,Expresso,52.98,83.31,6,Entregue,0,5.0
+PED-20149,2023-05-30,Produto D,Categoria 4,67.91,CD Curitiba,Belo Horizonte,482,Transportadora D,Econômico,36.34,59.12,4,Entregue,0,5.0
+PED-20150,2023-05-31,Produto J,Categoria 2,39.8,CD Curitiba,Rio de Janeiro,1461,Transportadora A,Padrão,39.79,59.03,4,Em Trânsito,0,
+PED-20151,2023-06-01,Produto F,Categoria 2,54.38,CD Belo Horizonte,Salvador,502,Transportadora C,Padrão,32.78,51.6,3,Entregue,0,5.0
+PED-20152,2023-06-02,Produto J,Categoria 2,40.69,CD Rio de Janeiro,Curitiba,1013,Transportadora A,Padrão,21.76,39.03,7,Entregue,0,5.0
+PED-20153,2023-06-03,Produto C,Categoria 2,52.74,CD Belo Horizonte,Curitiba,1451,Transportadora D,Padrão,36.24,59.32,6,Entregue,0,4.0
+PED-20154,2023-06-04,Produto D,Categoria 4,96.23,CD Belo Horizonte,São Paulo,1218,Transportadora C,Padrão,53.39,88.35,6,Entregue,0,5.0
+PED-20155,2023-06-05,Produto C,Categoria 2,94.36,CD São Paulo,Porto Alegre,864,Transportadora C,Padrão,47.13,79.76,3,Entregue,0,4.0
+PED-20156,2023-06-06,Produto D,Categoria 2,35.72,CD Recife,São Paulo,1241,Transportadora D,Expresso,34.2,51.12,5,Entregue,0,5.0
+PED-20157,2023-06-07,Produto E,Categoria 1,60.75,CD Rio de Janeiro,São Paulo,638,Transportadora A,Expresso,39.14,60.55,4,Atrasado,3,2.0
+PED-20158,2023-06-08,Produto C,Categoria 3,71.98,CD Rio de Janeiro,Curitiba,1078,Transportadora A,Padrão,42.67,69.65,5,Extraviado,13,1.0
+PED-20159,2023-06-09,Produto B,Categoria 2,75.06,CD Rio de Janeiro,Brasília,236,Transportadora C,Econômico,33.31,57.01,4,Entregue,0,4.0
+PED-20160,2023-06-10,Produto A,Categoria 1,75.29,CD Curitiba,São Paulo,1717,Transportadora C,Padrão,56.24,87.41,6,Entregue,0,4.0
+PED-20161,2023-06-11,Produto I,Categoria 4,52.59,CD São Paulo,São Paulo,1444,Transportadora B,Padrão,44.12,67.12,4,Entregue,0,5.0
+PED-20162,2023-06-12,Produto J,Categoria 4,41.06,CD Recife,Curitiba,479,Transportadora A,Padrão,29.93,44.64,3,Em Trânsito,0,
+PED-20163,2023-06-13,Produto A,Categoria 4,50.56,CD Recife,Curitiba,1292,Transportadora B,Padrão,36.35,57.98,7,Entregue,0,5.0
+PED-20164,2023-06-14,Produto C,Categoria 2,50.22,CD Curitiba,Belo Horizonte,946,Transportadora A,Padrão,27.74,47.54,5,Entregue,0,5.0
+PED-20165,2023-06-15,Produto I,Categoria 4,80.58,CD Rio de Janeiro,Belo Horizonte,337,Transportadora C,Padrão,38.51,64.37,2,Em Trânsito,0,
+PED-20166,2023-06-16,Produto F,Categoria 2,21.09,CD Recife,Porto Alegre,1246,Transportadora A,Padrão,21.4,33.96,5,Em Trânsito,0,
+PED-20167,2023-06-17,Produto B,Categoria 4,60.18,CD Recife,Recife,24,Transportadora A,Premium,34.67,52.84,2,Em Trânsito,0,
+PED-20168,2023-06-18,Produto F,Categoria 4,37.07,CD Curitiba,Recife,514,Transportadora C,Padrão,21.04,34.73,5,Entregue,0,5.0
+PED-20169,2023-06-19,Produto F,Categoria 3,30.19,CD Belo Horizonte,Fortaleza,401,Transportadora C,Padrão,23.61,34.67,3,Em Trânsito,0,
+PED-20170,2023-06-20,Produto D,Categoria 3,60.64,CD Rio de Janeiro,Fortaleza,715,Transportadora C,Padrão,38.04,59.81,5,Atrasado,3,1.0
+PED-20171,2023-06-21,Produto D,Categoria 3,41.54,CD São Paulo,São Paulo,372,Transportadora A,Expresso,18.77,33.09,4,Entregue,0,5.0
+PED-20172,2023-06-22,Produto D,Categoria 4,37.91,CD Rio de Janeiro,Porto Alegre,1629,Transportadora B,Padrão,31.44,50.96,5,Entregue,0,5.0
+PED-20173,2023-06-23,Produto E,Categoria 3,37.68,CD Curitiba,Salvador,1536,Transportadora B,Econômico,39.77,58.75,5,Entregue,0,5.0
+PED-20174,2023-06-24,Produto C,Categoria 3,31.8,CD São Paulo,Brasília,900,Transportadora A,Padrão,16.54,30.58,3,Extraviado,14,1.0
+PED-20175,2023-06-25,Produto G,Categoria 2,20.27,CD São Paulo,São Paulo,122,Transportadora B,Padrão,18.82,25.51,1,Entregue,0,5.0
+PED-20176,2023-06-26,Produto E,Categoria 3,2.1,CD Rio de Janeiro,Fortaleza,861,Transportadora A,Padrão,16.1,21.04,3,Entregue,0,4.0
+PED-20177,2023-06-27,Produto D,Categoria 3,43.84,CD Curitiba,Porto Alegre,222,Transportadora C,Padrão,19.97,34.23,4,Entregue,0,4.0
+PED-20178,2023-06-28,Produto D,Categoria 1,64.03,CD Curitiba,Rio de Janeiro,1144,Transportadora C,Padrão,53.1,78.03,4,Em Trânsito,0,
+PED-20179,2023-06-29,Produto F,Categoria 2,15.14,CD Curitiba,São Paulo,1714,Transportadora A,Padrão,22.51,35.62,7,Entregue,0,3.0
+PED-20180,2023-06-30,Produto A,Categoria 3,86.59,CD Curitiba,Curitiba,17,Transportadora C,Padrão,40.56,66.62,1,Entregue,0,3.0
+PED-20181,2023-07-01,Produto C,Categoria 2,79.16,CD Rio de Janeiro,Manaus,1174,Transportadora C,Padrão,56.33,85.95,4,Entregue,0,4.0
+PED-20182,2023-07-02,Produto H,Categoria 2,75.05,CD São Paulo,São Paulo,1463,Transportadora A,Padrão,57.31,87.14,5,Atrasado,4,3.0
+PED-20183,2023-07-03,Produto B,Categoria 1,65.08,CD Recife,Curitiba,644,Transportadora D,Premium,46.31,69.05,4,Entregue,0,5.0
+PED-20184,2023-07-04,Produto G,Categoria 4,30.55,CD Belo Horizonte,Curitiba,1299,Transportadora A,Padrão,19.11,34.77,7,Entregue,0,5.0
+PED-20185,2023-07-05,Produto A,Categoria 3,24.83,CD Curitiba,Manaus,1186,Transportadora C,Econômico,22.34,35.72,5,Em Trânsito,0,
+PED-20186,2023-07-06,Produto H,Categoria 1,2.13,CD Recife,Brasília,118,Transportadora D,Expresso,-3.17,-1.94,3,Entregue,0,5.0
+PED-20187,2023-07-07,Produto D,Categoria 2,23.09,CD Recife,São Paulo,721,Transportadora A,Padrão,22.27,32.8,5,Atrasado,3,1.0
+PED-20188,2023-07-08,Produto G,Categoria 3,44.18,CD Rio de Janeiro,Recife,1903,Transportadora C,Padrão,37.92,60.69,6,Entregue,0,5.0
+PED-20189,2023-07-09,Produto A,Categoria 2,48.93,CD Curitiba,Rio de Janeiro,1761,Transportadora C,Padrão,45.74,69.22,7,Entregue,0,5.0
+PED-20190,2023-07-10,Produto H,Categoria 4,46.9,CD São Paulo,Manaus,380,Transportadora A,Expresso,23.13,39.1,4,Entregue,0,4.0
+PED-20191,2023-07-11,Produto H,Categoria 3,46.79,CD Curitiba,Recife,754,Transportadora B,Expresso,40.12,57.93,5,Entregue,0,5.0
+PED-20192,2023-07-12,Produto G,Categoria 1,88.3,CD Recife,Porto Alegre,1985,Transportadora A,Expresso,72.23,108.64,7,Entregue,0,5.0
+PED-20193,2023-07-13,Produto D,Categoria 4,46.6,CD Belo Horizonte,Belo Horizonte,599,Transportadora A,Econômico,19.76,36.73,3,Entregue,0,5.0
+PED-20194,2023-07-14,Produto D,Categoria 4,41.87,CD Belo Horizonte,Fortaleza,1862,Transportadora A,Expresso,31.25,53.12,7,Em Trânsito,0,
+PED-20195,2023-07-15,Produto G,Categoria 4,5.61,CD São Paulo,Curitiba,1083,Transportadora A,Padrão,11.18,18.28,5,Entregue,0,4.0
+PED-20196,2023-07-16,Produto J,Categoria 4,94.8,CD Belo Horizonte,Belo Horizonte,1740,Transportadora D,Padrão,63.02,100.16,5,Entregue,0,4.0
+PED-20197,2023-07-17,Produto B,Categoria 1,89.76,CD São Paulo,Porto Alegre,537,Transportadora A,Econômico,45.85,75.46,3,Entregue,0,5.0
+PED-20198,2023-07-18,Produto B,Categoria 2,92.31,CD Rio de Janeiro,São Paulo,486,Transportadora D,Padrão,46.83,76.95,4,Aguardando Retirada,0,
+PED-20199,2023-07-19,Produto C,Categoria 1,29.89,CD Rio de Janeiro,Manaus,1459,Transportadora C,Padrão,31.05,47.31,5,Entregue,0,5.0
+PED-20200,2023-07-20,Produto I,Categoria 4,5.79,CD Recife,Salvador,1072,Transportadora D,Expresso,19.91,27.01,6,Entregue,0,3.0
+PED-20201,2023-07-21,Produto J,Categoria 1,46.78,CD Belo Horizonte,Salvador,1079,Transportadora A,Padrão,34.28,53.71,7,Entregue,0,5.0
+PED-20202,2023-07-22,Produto I,Categoria 3,38.96,CD Curitiba,Porto Alegre,1080,Transportadora C,Econômico,38.64,55.73,4,Entregue,0,4.0
+PED-20203,2023-07-23,Produto B,Categoria 4,65.52,CD Rio de Janeiro,Recife,538,Transportadora B,Expresso,43.58,65.93,4,Entregue,0,5.0
+PED-20204,2023-07-24,Produto C,Categoria 2,43.62,CD São Paulo,Porto Alegre,302,Transportadora B,Padrão,29.45,44.05,2,Atrasado,3,3.0
+PED-20205,2023-07-25,Produto D,Categoria 1,60.02,CD Rio de Janeiro,Fortaleza,453,Transportadora A,Econômico,31.91,52.18,4,Entregue,0,5.0
+PED-20206,2023-07-26,Produto B,Categoria 3,35.8,CD Belo Horizonte,Belo Horizonte,894,Transportadora C,Padrão,27.96,43.17,4,Atrasado,5,1.0
+PED-20207,2023-07-27,Produto H,Categoria 1,51.5,CD Belo Horizonte,Curitiba,1232,Transportadora B,Padrão,38.09,59.7,4,Entregue,0,5.0
+PED-20208,2023-07-28,Produto J,Categoria 3,47.97,CD São Paulo,Manaus,1397,Transportadora B,Padrão,31.52,52.9,7,Entregue,0,4.0
+PED-20209,2023-07-29,Produto F,Categoria 3,93.43,CD Belo Horizonte,Salvador,1384,Transportadora A,Padrão,70.2,105.15,7,Atrasado,3,2.0
+PED-20210,2023-07-30,Produto F,Categoria 1,86.93,CD Recife,Recife,14,Transportadora A,Padrão,40.24,66.39,2,Entregue,0,5.0
+PED-20211,2023-07-31,Produto G,Categoria 4,48.21,CD Curitiba,Curitiba,18,Transportadora D,Padrão,33.73,48.28,1,Extraviado,7,1.0
+PED-20212,2023-08-01,Produto D,Categoria 4,35.57,CD São Paulo,Recife,1856,Transportadora B,Padrão,35.66,55.61,7,Entregue,0,5.0
+PED-20213,2023-08-02,Produto D,Categoria 2,19.75,CD Recife,Salvador,1144,Transportadora B,Padrão,27.95,39.59,7,Atrasado,5,3.0
+PED-20214,2023-08-03,Produto B,Categoria 4,92.24,CD Recife,Fortaleza,397,Transportadora B,Expresso,41.32,70.98,4,Entregue,0,5.0
+PED-20215,2023-08-04,Produto I,Categoria 2,17.01,CD Curitiba,Rio de Janeiro,1863,Transportadora B,Econômico,30.9,45.32,4,Entregue,0,5.0
+PED-20216,2023-08-05,Produto F,Categoria 4,99.21,CD Rio de Janeiro,Salvador,1657,Transportadora D,Padrão,56.93,94.98,7,Entregue,0,5.0
+PED-20217,2023-08-06,Produto H,Categoria 3,15.02,CD Belo Horizonte,Brasília,239,Transportadora A,Padrão,13.64,19.34,3,Entregue,0,4.0
+PED-20218,2023-08-07,Produto E,Categoria 3,71.25,CD Belo Horizonte,São Paulo,1078,Transportadora C,Padrão,37.56,64.33,5,Entregue,0,4.0
+PED-20219,2023-08-08,Produto I,Categoria 3,27.33,CD Rio de Janeiro,Brasília,1151,Transportadora B,Padrão,32.23,46.18,7,Entregue,0,5.0
+PED-20220,2023-08-09,Produto B,Categoria 2,2.96,CD Recife,Manaus,248,Transportadora D,Expresso,-1.26,0.87,4,Entregue,0,5.0
+PED-20221,2023-08-10,Produto H,Categoria 4,22.26,CD Belo Horizonte,Porto Alegre,1259,Transportadora B,Expresso,32.05,45.02,5,Entregue,0,4.0
+PED-20222,2023-08-11,Produto A,Categoria 2,52.35,CD Recife,Fortaleza,437,Transportadora A,Padrão,24.72,42.61,2,Em Trânsito,0,
+PED-20223,2023-08-12,Produto A,Categoria 3,2.9,CD São Paulo,Curitiba,605,Transportadora D,Padrão,12.8,16.7,4,Entregue,0,5.0
+PED-20224,2023-08-13,Produto G,Categoria 1,40.64,CD Curitiba,Belo Horizonte,1383,Transportadora B,Padrão,31.25,50.36,4,Entregue,0,4.0
+PED-20225,2023-08-14,Produto G,Categoria 1,79.95,CD Belo Horizonte,Rio de Janeiro,1642,Transportadora D,Expresso,62.97,95.16,7,Entregue,0,5.0
+PED-20226,2023-08-15,Produto G,Categoria 3,46.3,CD Rio de Janeiro,São Paulo,946,Transportadora B,Padrão,27.76,46.38,5,Entregue,0,4.0
+PED-20227,2023-08-16,Produto B,Categoria 1,62.37,CD São Paulo,Fortaleza,1819,Transportadora C,Premium,45.68,73.49,5,Entregue,0,3.0
+PED-20228,2023-08-17,Produto F,Categoria 1,28.85,CD Rio de Janeiro,Rio de Janeiro,1381,Transportadora C,Expresso,32.41,47.97,4,Entregue,0,5.0
+PED-20229,2023-08-18,Produto F,Categoria 1,5.57,CD Belo Horizonte,Curitiba,840,Transportadora B,Padrão,9.08,14.95,5,Atrasado,2,2.0
+PED-20230,2023-08-19,Produto E,Categoria 4,51.94,CD Belo Horizonte,Curitiba,561,Transportadora D,Padrão,26.02,44.41,3,Em Trânsito,0,
+PED-20231,2023-08-20,Produto B,Categoria 2,12.77,CD Curitiba,Manaus,1795,Transportadora D,Econômico,17.16,29.97,5,Entregue,0,5.0
+PED-20232,2023-08-21,Produto G,Categoria 2,44.12,CD Curitiba,Salvador,637,Transportadora C,Padrão,20.47,36.89,3,Entregue,0,5.0
+PED-20233,2023-08-22,Produto E,Categoria 2,49.01,CD Belo Horizonte,Curitiba,932,Transportadora C,Padrão,25.72,45.08,5,Entregue,0,4.0
+PED-20234,2023-08-23,Produto D,Categoria 2,76.48,CD São Paulo,Manaus,222,Transportadora B,Padrão,42.46,66.51,3,Entregue,0,4.0
+PED-20235,2023-08-24,Produto B,Categoria 2,4.1,CD Belo Horizonte,Salvador,1640,Transportadora A,Econômico,18.97,28.4,6,Entregue,0,4.0
+PED-20236,2023-08-25,Produto G,Categoria 1,78.04,CD Curitiba,Recife,984,Transportadora D,Expresso,53.29,81.62,5,Entregue,0,5.0
+PED-20237,2023-08-26,Produto H,Categoria 4,73.0,CD São Paulo,Brasília,187,Transportadora C,Expresso,44.12,66.95,1,Entregue,0,5.0
+PED-20238,2023-08-27,Produto A,Categoria 1,56.85,CD Belo Horizonte,São Paulo,1883,Transportadora D,Econômico,48.14,74.61,4,Entregue,0,5.0
+PED-20239,2023-08-28,Produto E,Categoria 3,7.2,CD Recife,Curitiba,756,Transportadora A,Econômico,13.29,19.23,4,Entregue,0,5.0
+PED-20240,2023-08-29,Produto F,Categoria 1,96.83,CD São Paulo,Manaus,1698,Transportadora A,Econômico,59.37,96.91,6,Atrasado,3,2.0
+PED-20241,2023-08-30,Produto A,Categoria 1,93.33,CD Rio de Janeiro,Salvador,908,Transportadora D,Padrão,57.61,90.15,3,Entregue,0,4.0
+PED-20242,2023-08-31,Produto C,Categoria 4,38.1,CD Recife,Curitiba,156,Transportadora B,Padrão,23.23,35.44,2,Em Trânsito,0,
+PED-20243,2023-09-01,Produto D,Categoria 4,66.23,CD São Paulo,Porto Alegre,494,Transportadora C,Expresso,32.01,54.35,4,Aguardando Retirada,0,
+PED-20244,2023-09-02,Produto C,Categoria 4,44.27,CD Recife,São Paulo,1475,Transportadora B,Expresso,31.22,51.88,7,Entregue,0,3.0
+PED-20245,2023-09-03,Produto J,Categoria 4,72.39,CD São Paulo,Salvador,1587,Transportadora B,Expresso,50.16,79.81,4,Entregue,0,5.0
+PED-20246,2023-09-04,Produto A,Categoria 4,27.08,CD Belo Horizonte,São Paulo,865,Transportadora A,Padrão,18.65,31.1,5,Entregue,0,4.0
+PED-20247,2023-09-05,Produto C,Categoria 2,14.65,CD Curitiba,Curitiba,38,Transportadora B,Expresso,2.22,6.81,2,Extraviado,14,1.0
+PED-20248,2023-09-06,Produto I,Categoria 3,91.54,CD Rio de Janeiro,Belo Horizonte,1341,Transportadora B,Expresso,66.83,101.0,7,Aguardando Retirada,0,
+PED-20249,2023-09-07,Produto C,Categoria 2,9.77,CD Curitiba,Recife,1812,Transportadora A,Padrão,30.1,42.09,5,Entregue,0,4.0
+PED-20250,2023-09-08,Produto C,Categoria 1,38.7,CD Curitiba,Curitiba,24,Transportadora B,Padrão,24.06,35.79,1,Entregue,0,5.0
+PED-20251,2023-09-09,Produto H,Categoria 3,39.74,CD Curitiba,Brasília,1633,Transportadora B,Padrão,45.32,65.41,5,Em Trânsito,0,
+PED-20252,2023-09-10,Produto A,Categoria 3,4.67,CD São Paulo,Fortaleza,1958,Transportadora A,Padrão,30.28,41.47,4,Entregue,0,5.0
+PED-20253,2023-09-11,Produto A,Categoria 2,30.64,CD Belo Horizonte,Recife,360,Transportadora A,Padrão,21.16,32.15,4,Em Trânsito,0,
+PED-20254,2023-09-12,Produto J,Categoria 4,95.38,CD Curitiba,Brasília,1081,Transportadora D,Padrão,58.6,92.62,5,Atrasado,1,3.0
+PED-20255,2023-09-13,Produto D,Categoria 3,19.85,CD Belo Horizonte,Fortaleza,1359,Transportadora B,Padrão,28.68,41.43,6,Entregue,0,3.0
+PED-20256,2023-09-14,Produto E,Categoria 4,57.14,CD Belo Horizonte,Manaus,1718,Transportadora B,Expresso,42.3,68.03,7,Entregue,0,4.0
+PED-20257,2023-09-15,Produto F,Categoria 1,42.05,CD Recife,Belo Horizonte,1143,Transportadora C,Expresso,30.24,48.57,7,Entregue,0,5.0
+PED-20258,2023-09-16,Produto J,Categoria 2,82.68,CD Curitiba,Brasília,1920,Transportadora A,Econômico,59.77,94.17,4,Entregue,0,5.0
+PED-20259,2023-09-17,Produto G,Categoria 3,15.59,CD Curitiba,Brasília,932,Transportadora A,Padrão,17.13,26.47,5,Entregue,0,5.0
+PED-20260,2023-09-18,Produto C,Categoria 4,54.93,CD Belo Horizonte,Porto Alegre,1423,Transportadora B,Padrão,39.84,63.43,6,Em Trânsito,0,
+PED-20261,2023-09-19,Produto G,Categoria 2,25.89,CD Rio de Janeiro,Manaus,1885,Transportadora A,Econômico,32.85,50.04,5,Atrasado,1,2.0
+PED-20262,2023-09-20,Produto C,Categoria 2,91.65,CD Belo Horizonte,Salvador,1647,Transportadora A,Padrão,69.58,105.31,7,Atrasado,4,1.0
+PED-20263,2023-09-21,Produto C,Categoria 3,0.56,CD Belo Horizonte,Curitiba,1401,Transportadora D,Premium,22.13,29.3,6,Entregue,0,3.0
+PED-20264,2023-09-22,Produto I,Categoria 1,7.09,CD Recife,Rio de Janeiro,422,Transportadora A,Econômico,-2.02,2.22,4,Atrasado,3,1.0
+PED-20265,2023-09-23,Produto C,Categoria 3,85.95,CD Rio de Janeiro,Manaus,594,Transportadora C,Padrão,42.61,71.36,3,Em Trânsito,0,
+PED-20266,2023-09-24,Produto C,Categoria 4,26.92,CD Curitiba,Rio de Janeiro,1326,Transportadora B,Premium,33.13,47.84,5,Entregue,0,5.0
+PED-20267,2023-09-25,Produto F,Categoria 1,48.53,CD Belo Horizonte,São Paulo,1167,Transportadora D,Padrão,45.88,66.27,5,Entregue,0,5.0
+PED-20268,2023-09-26,Produto B,Categoria 3,7.08,CD Belo Horizonte,São Paulo,689,Transportadora B,Padrão,1.02,6.59,3,Entregue,0,5.0
+PED-20269,2023-09-27,Produto C,Categoria 1,47.1,CD São Paulo,Manaus,1118,Transportadora B,Expresso,26.86,46.58,6,Atrasado,1,1.0
+PED-20270,2023-09-28,Produto A,Categoria 1,98.13,CD Curitiba,São Paulo,1683,Transportadora A,Padrão,71.47,109.32,4,Entregue,0,5.0
+PED-20271,2023-09-29,Produto H,Categoria 1,92.52,CD São Paulo,São Paulo,253,Transportadora C,Econômico,41.03,70.05,4,Em Trânsito,0,
+PED-20272,2023-09-30,Produto D,Categoria 3,49.6,CD Belo Horizonte,Salvador,986,Transportadora C,Padrão,27.22,47.03,5,Entregue,0,4.0
+PED-20273,2023-10-01,Produto E,Categoria 1,8.46,CD Recife,São Paulo,1328,Transportadora D,Padrão,19.45,28.63,5,Em Trânsito,0,
+PED-20274,2023-10-02,Produto G,Categoria 2,46.23,CD São Paulo,Salvador,163,Transportadora D,Padrão,33.23,47.91,3,Entregue,0,3.0
+PED-20275,2023-10-03,Produto F,Categoria 1,89.99,CD São Paulo,Brasília,954,Transportadora C,Expresso,49.42,81.19,5,Entregue,0,5.0
+PED-20276,2023-10-04,Produto E,Categoria 1,61.87,CD Rio de Janeiro,Fortaleza,235,Transportadora D,Padrão,30.83,50.57,3,Entregue,0,5.0
+PED-20277,2023-10-05,Produto J,Categoria 1,97.96,CD São Paulo,Manaus,1250,Transportadora B,Padrão,60.93,96.57,6,Entregue,0,4.0
+PED-20278,2023-10-06,Produto F,Categoria 3,85.13,CD Rio de Janeiro,Belo Horizonte,273,Transportadora B,Econômico,49.35,76.25,4,Em Trânsito,0,
+PED-20279,2023-10-07,Produto A,Categoria 4,95.59,CD São Paulo,Rio de Janeiro,1542,Transportadora B,Padrão,58.49,94.88,6,Entregue,0,5.0
+PED-20280,2023-10-08,Produto A,Categoria 3,26.18,CD Rio de Janeiro,São Paulo,1926,Transportadora D,Econômico,28.02,45.5,5,Entregue,0,3.0
+PED-20281,2023-10-09,Produto F,Categoria 1,56.08,CD Belo Horizonte,Recife,1691,Transportadora C,Padrão,54.53,79.81,6,Entregue,0,5.0
+PED-20282,2023-10-10,Produto A,Categoria 3,88.97,CD São Paulo,Curitiba,398,Transportadora B,Expresso,40.86,69.54,4,Entregue,0,4.0
+PED-20283,2023-10-11,Produto H,Categoria 1,81.53,CD Rio de Janeiro,Curitiba,1682,Transportadora B,Expresso,62.08,94.95,6,Entregue,0,3.0
+PED-20284,2023-10-12,Produto A,Categoria 2,33.39,CD Recife,Fortaleza,1413,Transportadora D,Padrão,29.14,46.22,4,Entregue,0,4.0
+PED-20285,2023-10-13,Produto C,Categoria 2,66.66,CD Rio de Janeiro,Recife,181,Transportadora D,Padrão,25.2,46.1,3,Atrasado,2,1.0
+PED-20286,2023-10-14,Produto G,Categoria 4,52.91,CD São Paulo,Rio de Janeiro,856,Transportadora C,Econômico,37.44,57.59,3,Entregue,0,4.0
+PED-20287,2023-10-15,Produto A,Categoria 2,66.94,CD São Paulo,Salvador,668,Transportadora D,Padrão,34.42,57.84,4,Em Trânsito,0,
+PED-20288,2023-10-16,Produto I,Categoria 2,83.62,CD São Paulo,Fortaleza,905,Transportadora A,Premium,48.22,77.83,4,Aguardando Retirada,0,
+PED-20289,2023-10-17,Produto G,Categoria 3,59.18,CD São Paulo,São Paulo,675,Transportadora C,Padrão,42.18,63.31,4,Entregue,0,4.0
+PED-20290,2023-10-18,Produto J,Categoria 1,68.42,CD Belo Horizonte,Salvador,1051,Transportadora A,Padrão,37.4,63.18,7,Entregue,0,5.0
+PED-20291,2023-10-19,Produto I,Categoria 2,80.72,CD Recife,São Paulo,1431,Transportadora D,Padrão,45.83,77.2,4,Entregue,0,5.0
+PED-20292,2023-10-20,Produto C,Categoria 3,77.94,CD São Paulo,Rio de Janeiro,1752,Transportadora D,Premium,52.71,84.85,7,Extraviado,5,1.0
+PED-20293,2023-10-21,Produto C,Categoria 2,24.91,CD Rio de Janeiro,Salvador,1978,Transportadora B,Padrão,23.65,41.01,4,Atrasado,1,1.0
+PED-20294,2023-10-22,Produto B,Categoria 4,81.59,CD Recife,Belo Horizonte,799,Transportadora A,Econômico,41.25,69.72,4,Entregue,0,5.0
+PED-20295,2023-10-23,Produto A,Categoria 2,43.67,CD Curitiba,Salvador,721,Transportadora A,Econômico,29.56,46.27,3,Em Trânsito,0,
+PED-20296,2023-10-24,Produto F,Categoria 2,27.58,CD Belo Horizonte,Brasília,1812,Transportadora D,Padrão,37.35,54.68,5,Entregue,0,5.0
+PED-20297,2023-10-25,Produto D,Categoria 4,94.02,CD São Paulo,Curitiba,1196,Transportadora C,Padrão,54.71,88.9,7,Extraviado,5,1.0
+PED-20298,2023-10-26,Produto B,Categoria 1,30.41,CD Recife,Rio de Janeiro,1339,Transportadora B,Expresso,29.38,45.2,7,Extraviado,7,1.0
+PED-20299,2023-10-27,Produto G,Categoria 1,97.29,CD São Paulo,São Paulo,769,Transportadora D,Padrão,50.85,83.88,4,Entregue,0,3.0
+PED-20300,2023-10-28,Produto B,Categoria 1,99.14,CD São Paulo,Brasília,1982,Transportadora A,Expresso,67.33,106.98,7,Entregue,0,5.0
+PED-20301,2023-10-29,Produto B,Categoria 3,5.6,CD Rio de Janeiro,Belo Horizonte,731,Transportadora C,Padrão,9.66,15.0,3,Entregue,0,5.0
+PED-20302,2023-10-30,Produto H,Categoria 3,59.37,CD Rio de Janeiro,São Paulo,1851,Transportadora B,Padrão,54.96,82.03,5,Entregue,0,3.0
+PED-20303,2023-10-31,Produto H,Categoria 1,80.27,CD São Paulo,Rio de Janeiro,1062,Transportadora C,Expresso,52.49,81.88,4,Em Trânsito,0,
+PED-20304,2023-11-01,Produto G,Categoria 3,26.14,CD Rio de Janeiro,Rio de Janeiro,1147,Transportadora C,Padrão,29.67,43.25,7,Entregue,0,4.0
+PED-20305,2023-11-02,Produto I,Categoria 2,82.49,CD São Paulo,Curitiba,1098,Transportadora B,Padrão,50.37,80.61,6,Entregue,0,5.0
+PED-20306,2023-11-03,Produto H,Categoria 2,55.72,CD São Paulo,Brasília,890,Transportadora D,Padrão,30.17,51.34,4,Entregue,0,4.0
+PED-20307,2023-11-04,Produto C,Categoria 1,84.53,CD São Paulo,Manaus,1651,Transportadora A,Padrão,63.23,96.84,4,Aguardando Retirada,0,
+PED-20308,2023-11-05,Produto J,Categoria 4,22.29,CD Curitiba,Porto Alegre,1884,Transportadora D,Padrão,38.82,54.93,4,Entregue,0,4.0
+PED-20309,2023-11-06,Produto A,Categoria 2,95.64,CD Rio de Janeiro,Salvador,1819,Transportadora A,Econômico,68.14,105.93,7,Entregue,0,4.0
+PED-20310,2023-11-07,Produto E,Categoria 2,46.7,CD Rio de Janeiro,Salvador,1509,Transportadora D,Padrão,38.56,60.12,7,Entregue,0,5.0
+PED-20311,2023-11-08,Produto H,Categoria 3,15.75,CD São Paulo,São Paulo,1307,Transportadora C,Padrão,12.42,23.68,7,Aguardando Retirada,0,
+PED-20312,2023-11-09,Produto H,Categoria 4,10.31,CD São Paulo,Manaus,1523,Transportadora C,Expresso,19.41,30.12,7,Em Trânsito,0,
+PED-20313,2023-11-10,Produto E,Categoria 4,54.45,CD Curitiba,Brasília,1247,Transportadora B,Padrão,36.4,58.97,5,Entregue,0,5.0
+PED-20314,2023-11-11,Produto C,Categoria 4,36.62,CD Belo Horizonte,Rio de Janeiro,1991,Transportadora D,Padrão,36.59,57.53,7,Entregue,0,5.0
+PED-20315,2023-11-12,Produto F,Categoria 1,74.38,CD Recife,Belo Horizonte,1497,Transportadora B,Econômico,44.0,73.8,7,Entregue,0,5.0
+PED-20316,2023-11-13,Produto I,Categoria 1,42.22,CD Rio de Janeiro,Curitiba,1339,Transportadora C,Expresso,43.18,62.54,5,Entregue,0,5.0
+PED-20317,2023-11-14,Produto F,Categoria 3,33.46,CD Curitiba,Rio de Janeiro,1327,Transportadora D,Padrão,33.91,50.58,5,Entregue,0,5.0
+PED-20318,2023-11-15,Produto J,Categoria 2,8.57,CD Rio de Janeiro,Fortaleza,1453,Transportadora D,Expresso,25.96,35.8,6,Atrasado,3,3.0
+PED-20319,2023-11-16,Produto B,Categoria 3,16.66,CD Curitiba,Fortaleza,1709,Transportadora C,Padrão,21.3,34.84,5,Entregue,0,4.0
+PED-20320,2023-11-17,Produto H,Categoria 2,48.38,CD Recife,São Paulo,1275,Transportadora B,Expresso,37.33,58.22,7,Em Trânsito,0,
+PED-20321,2023-11-18,Produto H,Categoria 2,92.88,CD Rio de Janeiro,São Paulo,381,Transportadora D,Padrão,48.39,78.16,4,Entregue,0,5.0
+PED-20322,2023-11-19,Produto J,Categoria 4,7.1,CD Curitiba,Brasília,1061,Transportadora B,Padrão,19.1,26.54,4,Em Trânsito,0,
+PED-20323,2023-11-20,Produto D,Categoria 2,31.74,CD Belo Horizonte,Fortaleza,790,Transportadora D,Padrão,30.36,43.83,5,Em Trânsito,0,
+PED-20324,2023-11-21,Produto C,Categoria 4,88.99,CD Recife,Brasília,286,Transportadora B,Padrão,49.96,78.09,4,Entregue,0,5.0
+PED-20325,2023-11-22,Produto D,Categoria 1,43.84,CD São Paulo,Fortaleza,1516,Transportadora A,Padrão,42.64,63.37,6,Entregue,0,3.0
+PED-20326,2023-11-23,Produto I,Categoria 3,81.6,CD Curitiba,Belo Horizonte,1102,Transportadora B,Premium,48.57,78.56,4,Entregue,0,5.0
+PED-20327,2023-11-24,Produto C,Categoria 1,15.83,CD Rio de Janeiro,São Paulo,801,Transportadora D,Padrão,15.77,24.52,4,Entregue,0,5.0
+PED-20328,2023-11-25,Produto C,Categoria 4,47.58,CD Recife,Manaus,1191,Transportadora D,Padrão,33.61,53.84,5,Entregue,0,4.0
+PED-20329,2023-11-26,Produto D,Categoria 1,3.54,CD São Paulo,São Paulo,1158,Transportadora B,Padrão,12.06,18.91,5,Entregue,0,5.0
+PED-20330,2023-11-27,Produto B,Categoria 1,93.79,CD São Paulo,Rio de Janeiro,1362,Transportadora B,Padrão,66.33,101.28,6,Aguardando Retirada,0,
+PED-20331,2023-11-28,Produto B,Categoria 3,12.26,CD Rio de Janeiro,Salvador,1393,Transportadora A,Expresso,10.99,21.63,4,Entregue,0,5.0
+PED-20332,2023-11-29,Produto G,Categoria 4,23.95,CD Rio de Janeiro,Salvador,228,Transportadora C,Padrão,18.13,26.45,4,Em Trânsito,0,
+PED-20333,2023-11-30,Produto E,Categoria 2,87.97,CD Belo Horizonte,Brasília,615,Transportadora C,Padrão,42.47,71.94,4,Entregue,0,5.0
+PED-20334,2023-12-01,Produto J,Categoria 3,49.44,CD Rio de Janeiro,Curitiba,1388,Transportadora C,Padrão,31.18,52.95,4,Em Trânsito,0,
+PED-20335,2023-12-02,Produto B,Categoria 3,95.85,CD Recife,Salvador,649,Transportadora A,Expresso,60.02,92.02,5,Entregue,0,5.0
+PED-20336,2023-12-03,Produto D,Categoria 2,59.05,CD Recife,São Paulo,655,Transportadora C,Padrão,26.43,47.42,4,Atrasado,3,3.0
+PED-20337,2023-12-04,Produto D,Categoria 4,40.83,CD Rio de Janeiro,Salvador,1891,Transportadora C,Padrão,30.17,51.87,7,Entregue,0,5.0
+PED-20338,2023-12-05,Produto E,Categoria 2,85.02,CD São Paulo,Curitiba,691,Transportadora D,Padrão,43.28,72.24,4,Entregue,0,4.0
+PED-20339,2023-12-06,Produto C,Categoria 3,29.0,CD São Paulo,Curitiba,1317,Transportadora A,Padrão,37.48,52.76,6,Entregue,0,5.0
+PED-20340,2023-12-07,Produto E,Categoria 4,61.25,CD Rio de Janeiro,Brasília,1151,Transportadora A,Padrão,42.54,66.67,7,Entregue,0,4.0
+PED-20341,2023-12-08,Produto F,Categoria 4,16.91,CD Rio de Janeiro,São Paulo,566,Transportadora A,Expresso,8.18,16.08,5,Entregue,0,4.0
+PED-20342,2023-12-09,Produto H,Categoria 4,16.34,CD Belo Horizonte,São Paulo,741,Transportadora B,Expresso,13.39,22.0,3,Entregue,0,4.0
+PED-20343,2023-12-10,Produto J,Categoria 4,33.05,CD Rio de Janeiro,Manaus,1998,Transportadora C,Econômico,44.2,64.11,4,Entregue,0,5.0
+PED-20344,2023-12-11,Produto I,Categoria 1,38.0,CD Rio de Janeiro,Fortaleza,1955,Transportadora C,Padrão,30.32,51.49,4,Atrasado,2,2.0
+PED-20345,2023-12-12,Produto I,Categoria 4,8.75,CD Curitiba,Porto Alegre,763,Transportadora B,Padrão,19.43,25.87,3,Entregue,0,5.0
+PED-20346,2023-12-13,Produto J,Categoria 1,8.67,CD Recife,Brasília,1957,Transportadora B,Padrão,14.45,26.84,6,Entregue,0,4.0
+PED-20347,2023-12-14,Produto E,Categoria 4,79.72,CD Belo Horizonte,Curitiba,590,Transportadora D,Premium,38.84,65.71,5,Em Trânsito,0,
+PED-20348,2023-12-15,Produto C,Categoria 1,1.34,CD Recife,São Paulo,1259,Transportadora A,Padrão,12.37,19.07,5,Entregue,0,4.0
+PED-20349,2023-12-16,Produto F,Categoria 3,54.27,CD Curitiba,Salvador,491,Transportadora B,Expresso,28.45,47.19,4,Entregue,0,3.0
+PED-20350,2023-12-17,Produto G,Categoria 4,49.52,CD Recife,Recife,29,Transportadora A,Padrão,29.95,44.95,2,Entregue,0,5.0
+PED-20351,2023-12-18,Produto F,Categoria 4,9.69,CD Belo Horizonte,Rio de Janeiro,492,Transportadora C,Padrão,1.76,7.13,3,Extraviado,14,1.0
+PED-20352,2023-12-19,Produto C,Categoria 3,97.02,CD Rio de Janeiro,Manaus,1791,Transportadora D,Padrão,59.93,97.99,6,Atrasado,2,3.0
+PED-20353,2023-12-20,Produto J,Categoria 4,80.91,CD Curitiba,Recife,786,Transportadora C,Padrão,42.69,70.89,4,Atrasado,1,1.0
+PED-20354,2023-12-21,Produto A,Categoria 3,64.97,CD Belo Horizonte,Brasília,1160,Transportadora A,Econômico,52.03,77.32,5,Entregue,0,4.0
+PED-20355,2023-12-22,Produto G,Categoria 1,99.19,CD Belo Horizonte,Brasília,1484,Transportadora D,Premium,61.55,98.73,7,Em Trânsito,0,
+PED-20356,2023-12-23,Produto A,Categoria 1,0.71,CD Rio de Janeiro,Porto Alegre,942,Transportadora B,Padrão,16.12,21.04,4,Entregue,0,4.0
+PED-20357,2023-12-24,Produto D,Categoria 2,18.17,CD Recife,Belo Horizonte,670,Transportadora B,Padrão,15.97,24.77,5,Entregue,0,5.0
+PED-20358,2023-12-25,Produto C,Categoria 1,13.78,CD São Paulo,Recife,640,Transportadora A,Econômico,6.96,14.29,4,Entregue,0,5.0
+PED-20359,2023-12-26,Produto A,Categoria 3,98.38,CD Belo Horizonte,Recife,1324,Transportadora C,Expresso,63.87,100.0,5,Entregue,0,5.0
+PED-20360,2023-12-27,Produto C,Categoria 2,36.99,CD Belo Horizonte,Porto Alegre,968,Transportadora D,Padrão,27.88,43.82,3,Entregue,0,4.0
+PED-20361,2023-12-28,Produto A,Categoria 3,68.72,CD Rio de Janeiro,Porto Alegre,1471,Transportadora C,Padrão,56.02,83.99,6,Entregue,0,5.0
+PED-20362,2023-12-29,Produto D,Categoria 1,82.76,CD São Paulo,Belo Horizonte,1449,Transportadora C,Padrão,54.36,86.43,6,Entregue,0,5.0
+PED-20363,2023-12-30,Produto C,Categoria 1,36.05,CD São Paulo,Recife,485,Transportadora B,Padrão,24.1,37.34,2,Entregue,0,5.0
+PED-20364,2023-12-31,Produto G,Categoria 1,57.41,CD São Paulo,Recife,1673,Transportadora D,Padrão,53.48,79.07,5,Em Trânsito,0,
+PED-20365,2024-01-01,Produto F,Categoria 3,4.52,CD Curitiba,Fortaleza,1355,Transportadora C,Padrão,18.23,26.36,5,Entregue,0,3.0
+PED-20366,2024-01-02,Produto A,Categoria 4,89.34,CD Belo Horizonte,Belo Horizonte,1923,Transportadora A,Padrão,73.58,110.0,6,Em Trânsito,0,
+PED-20367,2024-01-03,Produto J,Categoria 2,33.35,CD São Paulo,Manaus,1711,Transportadora D,Padrão,40.41,58.97,7,Entregue,0,5.0
+PED-20368,2024-01-04,Produto H,Categoria 3,4.37,CD Recife,Fortaleza,385,Transportadora D,Padrão,1.84,5.08,2,Em Trânsito,0,
+PED-20369,2024-01-05,Produto H,Categoria 1,58.49,CD Curitiba,Recife,1742,Transportadora B,Econômico,55.93,82.19,5,Entregue,0,5.0
+PED-20370,2024-01-06,Produto F,Categoria 4,98.82,CD São Paulo,Brasília,1676,Transportadora B,Expresso,58.49,96.52,4,Entregue,0,5.0
+PED-20371,2024-01-07,Produto D,Categoria 2,61.63,CD Curitiba,Recife,1509,Transportadora C,Padrão,41.99,68.02,6,Entregue,0,4.0
+PED-20372,2024-01-08,Produto J,Categoria 3,82.23,CD São Paulo,Salvador,704,Transportadora A,Econômico,49.25,77.44,4,Entregue,0,5.0
+PED-20373,2024-01-09,Produto G,Categoria 1,19.63,CD São Paulo,Belo Horizonte,489,Transportadora C,Econômico,20.58,28.91,2,Em Trânsito,0,
+PED-20374,2024-01-10,Produto H,Categoria 2,17.41,CD Belo Horizonte,Brasília,1507,Transportadora C,Padrão,33.48,46.24,6,Entregue,0,5.0
+PED-20375,2024-01-11,Produto D,Categoria 1,39.39,CD Recife,Porto Alegre,1504,Transportadora D,Padrão,40.34,59.68,4,Entregue,0,4.0
+PED-20376,2024-01-12,Produto H,Categoria 4,99.35,CD Belo Horizonte,Fortaleza,840,Transportadora B,Expresso,54.93,88.94,5,Atrasado,2,2.0
+PED-20377,2024-01-13,Produto J,Categoria 2,11.2,CD Recife,Recife,44,Transportadora C,Econômico,0.79,4.37,2,Entregue,0,5.0
+PED-20378,2024-01-14,Produto E,Categoria 2,59.54,CD São Paulo,Fortaleza,1232,Transportadora D,Premium,49.35,73.37,5,Entregue,0,3.0
+PED-20379,2024-01-15,Produto I,Categoria 3,61.74,CD Recife,Rio de Janeiro,757,Transportadora B,Econômico,46.69,69.0,5,Entregue,0,3.0
+PED-20380,2024-01-16,Produto H,Categoria 1,52.85,CD Belo Horizonte,Manaus,518,Transportadora D,Expresso,36.34,54.79,4,Entregue,0,5.0
+PED-20381,2024-01-17,Produto B,Categoria 2,83.26,CD Belo Horizonte,Salvador,1734,Transportadora A,Padrão,59.54,93.19,7,Entregue,0,4.0
+PED-20382,2024-01-18,Produto E,Categoria 4,28.8,CD Curitiba,Belo Horizonte,1047,Transportadora A,Padrão,23.02,36.9,5,Entregue,0,4.0
+PED-20383,2024-01-19,Produto I,Categoria 2,6.96,CD Belo Horizonte,Recife,1291,Transportadora A,Padrão,10.63,19.17,6,Aguardando Retirada,0,
+PED-20384,2024-01-20,Produto F,Categoria 1,60.81,CD Curitiba,Recife,1165,Transportadora B,Padrão,44.96,69.03,7,Entregue,0,5.0
+PED-20385,2024-01-21,Produto F,Categoria 1,26.37,CD Belo Horizonte,Brasília,455,Transportadora B,Expresso,20.03,30.22,2,Entregue,0,4.0
+PED-20386,2024-01-22,Produto C,Categoria 4,64.52,CD Curitiba,Brasília,340,Transportadora D,Padrão,28.14,49.2,4,Entregue,0,4.0
+PED-20387,2024-01-23,Produto E,Categoria 2,70.14,CD Belo Horizonte,Porto Alegre,1583,Transportadora A,Expresso,42.95,71.91,5,Atrasado,2,1.0
+PED-20388,2024-01-24,Produto F,Categoria 1,10.06,CD Curitiba,Belo Horizonte,1580,Transportadora B,Padrão,18.24,29.16,7,Em Trânsito,0,
+PED-20389,2024-01-25,Produto H,Categoria 3,60.85,CD Belo Horizonte,São Paulo,1894,Transportadora D,Padrão,53.19,80.91,5,Entregue,0,4.0
+PED-20390,2024-01-26,Produto I,Categoria 1,69.06,CD Recife,Recife,50,Transportadora D,Padrão,25.39,46.36,3,Em Trânsito,0,
+PED-20391,2024-01-27,Produto H,Categoria 2,3.69,CD Rio de Janeiro,Porto Alegre,605,Transportadora A,Padrão,14.34,18.47,3,Entregue,0,5.0
+PED-20392,2024-01-28,Produto B,Categoria 3,85.29,CD Rio de Janeiro,Belo Horizonte,521,Transportadora A,Expresso,48.0,76.19,4,Entregue,0,4.0
+PED-20393,2024-01-29,Produto F,Categoria 2,66.67,CD Recife,Manaus,1324,Transportadora D,Expresso,56.44,83.06,6,Entregue,0,3.0
+PED-20394,2024-01-30,Produto I,Categoria 4,69.64,CD Rio de Janeiro,Recife,1717,Transportadora B,Premium,53.61,83.09,4,Entregue,0,5.0
+PED-20395,2024-01-31,Produto E,Categoria 2,81.12,CD São Paulo,Porto Alegre,1397,Transportadora B,Padrão,45.83,77.15,5,Entregue,0,5.0
+PED-20396,2024-02-01,Produto B,Categoria 3,36.2,CD Belo Horizonte,Belo Horizonte,1800,Transportadora B,Padrão,31.89,51.75,4,Atrasado,1,2.0
+PED-20397,2024-02-02,Produto F,Categoria 4,51.13,CD Curitiba,Manaus,790,Transportadora B,Padrão,34.95,54.24,5,Entregue,0,3.0
+PED-20398,2024-02-03,Produto G,Categoria 1,29.72,CD Curitiba,Belo Horizonte,474,Transportadora C,Padrão,28.3,39.59,4,Extraviado,10,1.0
+PED-20399,2024-02-04,Produto A,Categoria 2,70.71,CD Curitiba,Curitiba,41,Transportadora A,Econômico,40.06,61.48,2,Entregue,0,5.0
+PED-20400,2024-02-05,Produto I,Categoria 2,40.41,CD Belo Horizonte,Fortaleza,867,Transportadora A,Expresso,27.94,44.4,4,Entregue,0,5.0
+PED-20401,2024-02-06,Produto C,Categoria 2,80.79,CD Curitiba,Rio de Janeiro,603,Transportadora C,Econômico,41.53,68.78,4,Entregue,0,5.0
+PED-20402,2024-02-07,Produto B,Categoria 3,23.89,CD Curitiba,Fortaleza,902,Transportadora A,Padrão,27.11,38.79,3,Entregue,0,4.0
+PED-20403,2024-02-08,Produto D,Categoria 4,98.47,CD Curitiba,Rio de Janeiro,1091,Transportadora D,Econômico,58.2,93.2,7,Entregue,0,4.0
+PED-20404,2024-02-09,Produto H,Categoria 3,31.28,CD Curitiba,Porto Alegre,1568,Transportadora A,Padrão,33.28,50.5,6,Entregue,0,4.0
+PED-20405,2024-02-10,Produto B,Categoria 2,33.0,CD Rio de Janeiro,Porto Alegre,654,Transportadora C,Econômico,24.5,37.67,4,Entregue,0,5.0
+PED-20406,2024-02-11,Produto B,Categoria 3,24.45,CD Rio de Janeiro,São Paulo,1263,Transportadora D,Padrão,33.71,47.36,6,Entregue,0,3.0
+PED-20407,2024-02-12,Produto I,Categoria 4,15.3,CD Curitiba,Porto Alegre,1040,Transportadora B,Padrão,16.46,26.25,4,Em Trânsito,0,
+PED-20408,2024-02-13,Produto E,Categoria 1,15.94,CD Curitiba,Rio de Janeiro,1200,Transportadora A,Padrão,22.46,33.24,6,Entregue,0,5.0
+PED-20409,2024-02-14,Produto C,Categoria 4,8.41,CD São Paulo,Manaus,799,Transportadora C,Econômico,18.36,24.88,4,Entregue,0,3.0
+PED-20410,2024-02-15,Produto F,Categoria 4,58.97,CD Rio de Janeiro,São Paulo,399,Transportadora B,Padrão,40.87,60.56,4,Entregue,0,5.0
+PED-20411,2024-02-16,Produto E,Categoria 4,12.21,CD Belo Horizonte,Salvador,621,Transportadora A,Padrão,15.45,22.22,4,Atrasado,3,3.0
+PED-20412,2024-02-17,Produto H,Categoria 3,11.21,CD Curitiba,Porto Alegre,1341,Transportadora A,Econômico,25.62,35.69,6,Em Trânsito,0,
+PED-20413,2024-02-18,Produto G,Categoria 2,45.17,CD Rio de Janeiro,Belo Horizonte,247,Transportadora C,Padrão,27.89,42.68,2,Entregue,0,5.0
+PED-20414,2024-02-19,Produto I,Categoria 4,15.36,CD Curitiba,Curitiba,17,Transportadora B,Padrão,13.04,17.73,1,Entregue,0,5.0
+PED-20415,2024-02-20,Produto B,Categoria 3,7.81,CD Belo Horizonte,Recife,871,Transportadora A,Padrão,17.54,24.24,3,Entregue,0,3.0
+PED-20416,2024-02-21,Produto I,Categoria 1,77.15,CD São Paulo,Brasília,1765,Transportadora D,Padrão,59.74,91.71,6,Aguardando Retirada,0,
+PED-20417,2024-02-22,Produto C,Categoria 4,68.93,CD Curitiba,Rio de Janeiro,1227,Transportadora C,Econômico,51.96,78.77,4,Entregue,0,4.0
+PED-20418,2024-02-23,Produto G,Categoria 1,58.14,CD Rio de Janeiro,Recife,905,Transportadora B,Expresso,45.2,67.17,5,Entregue,0,4.0
+PED-20419,2024-02-24,Produto I,Categoria 4,72.0,CD Rio de Janeiro,Recife,106,Transportadora A,Padrão,28.85,50.98,3,Entregue,0,4.0
+PED-20420,2024-02-25,Produto D,Categoria 2,43.82,CD Recife,Porto Alegre,236,Transportadora D,Premium,24.71,39.04,4,Entregue,0,5.0
+PED-20421,2024-02-26,Produto C,Categoria 2,12.7,CD Rio de Janeiro,Fortaleza,486,Transportadora B,Padrão,4.11,10.35,2,Extraviado,6,1.0
+PED-20422,2024-02-27,Produto D,Categoria 1,64.61,CD Rio de Janeiro,Porto Alegre,1762,Transportadora D,Padrão,55.6,83.79,4,Entregue,0,5.0
+PED-20423,2024-02-28,Produto A,Categoria 1,94.29,CD São Paulo,Fortaleza,621,Transportadora C,Padrão,54.94,86.33,4,Entregue,0,4.0
+PED-20424,2024-02-29,Produto D,Categoria 1,55.44,CD São Paulo,Curitiba,2000,Transportadora A,Padrão,50.46,77.09,7,Entregue,0,4.0
+PED-20425,2024-03-01,Produto F,Categoria 2,58.97,CD Curitiba,Manaus,1113,Transportadora A,Padrão,41.99,65.25,5,Em Trânsito,0,
+PED-20426,2024-03-02,Produto I,Categoria 4,93.77,CD Curitiba,Recife,1031,Transportadora B,Econômico,50.13,83.42,4,Em Trânsito,0,
+PED-20427,2024-03-03,Produto J,Categoria 1,21.37,CD Rio de Janeiro,Fortaleza,1227,Transportadora C,Expresso,24.26,36.81,5,Entregue,0,5.0
+PED-20428,2024-03-04,Produto C,Categoria 2,47.59,CD Belo Horizonte,Rio de Janeiro,1295,Transportadora A,Padrão,32.63,53.38,6,Entregue,0,5.0
+PED-20429,2024-03-05,Produto J,Categoria 3,3.87,CD Belo Horizonte,Curitiba,1781,Transportadora D,Padrão,25.19,35.26,5,Atrasado,2,2.0
+PED-20430,2024-03-06,Produto I,Categoria 2,16.07,CD Rio de Janeiro,Brasília,667,Transportadora C,Expresso,22.45,30.61,4,Entregue,0,5.0
+PED-20431,2024-03-07,Produto I,Categoria 3,19.55,CD São Paulo,Belo Horizonte,1146,Transportadora C,Econômico,22.62,34.22,4,Entregue,0,4.0
+PED-20432,2024-03-08,Produto A,Categoria 4,7.07,CD Curitiba,Curitiba,36,Transportadora D,Econômico,9.74,12.04,1,Entregue,0,5.0
+PED-20433,2024-03-09,Produto I,Categoria 3,3.62,CD Curitiba,São Paulo,507,Transportadora B,Padrão,14.02,17.64,4,Aguardando Retirada,0,
+PED-20434,2024-03-10,Produto F,Categoria 3,85.38,CD Rio de Janeiro,Porto Alegre,644,Transportadora A,Expresso,58.2,87.03,3,Entregue,0,4.0
+PED-20435,2024-03-11,Produto I,Categoria 3,25.59,CD Belo Horizonte,Rio de Janeiro,204,Transportadora A,Padrão,22.65,31.35,3,Em Trânsito,0,
+PED-20436,2024-03-12,Produto D,Categoria 3,19.06,CD Recife,Brasília,975,Transportadora A,Padrão,11.45,22.04,4,Entregue,0,4.0
+PED-20437,2024-03-13,Produto I,Categoria 1,50.01,CD Belo Horizonte,Belo Horizonte,1386,Transportadora C,Padrão,45.65,67.58,4,Entregue,0,4.0
+PED-20438,2024-03-14,Produto C,Categoria 1,66.0,CD Rio de Janeiro,Rio de Janeiro,1102,Transportadora B,Padrão,50.16,75.47,6,Entregue,0,5.0
+PED-20439,2024-03-15,Produto F,Categoria 4,40.05,CD Rio de Janeiro,Salvador,1319,Transportadora B,Padrão,27.68,46.29,6,Entregue,0,5.0
+PED-20440,2024-03-16,Produto C,Categoria 2,71.06,CD Curitiba,Curitiba,40,Transportadora B,Padrão,41.54,63.06,2,Entregue,0,5.0
+PED-20441,2024-03-17,Produto B,Categoria 1,32.7,CD Recife,Fortaleza,995,Transportadora B,Padrão,31.83,46.62,3,Entregue,0,5.0
+PED-20442,2024-03-18,Produto C,Categoria 4,13.72,CD Curitiba,Salvador,892,Transportadora A,Expresso,14.38,22.96,4,Entregue,0,5.0
+PED-20443,2024-03-19,Produto J,Categoria 2,33.03,CD Curitiba,Curitiba,17,Transportadora B,Padrão,17.96,27.95,2,Atrasado,1,2.0
+PED-20444,2024-03-20,Produto D,Categoria 2,96.69,CD Curitiba,Porto Alegre,386,Transportadora B,Padrão,61.42,92.36,2,Extraviado,10,1.0
+PED-20445,2024-03-21,Produto C,Categoria 1,42.52,CD Rio de Janeiro,Rio de Janeiro,470,Transportadora B,Padrão,17.06,32.17,2,Entregue,0,4.0
+PED-20446,2024-03-22,Produto I,Categoria 4,31.82,CD Curitiba,Curitiba,33,Transportadora B,Premium,18.68,28.39,1,Entregue,0,5.0
+PED-20447,2024-03-23,Produto J,Categoria 4,91.59,CD São Paulo,São Paulo,1656,Transportadora B,Padrão,52.81,88.57,5,Entregue,0,4.0
+PED-20448,2024-03-24,Produto G,Categoria 1,56.87,CD Belo Horizonte,São Paulo,1741,Transportadora C,Padrão,47.0,72.77,6,Entregue,0,3.0
+PED-20449,2024-03-25,Produto D,Categoria 1,70.14,CD São Paulo,São Paulo,211,Transportadora D,Padrão,30.28,52.38,4,Em Trânsito,0,
+PED-20450,2024-03-26,Produto E,Categoria 2,1.24,CD São Paulo,Salvador,184,Transportadora A,Econômico,5.26,6.55,1,Entregue,0,5.0
+PED-20451,2024-03-27,Produto A,Categoria 1,78.43,CD Belo Horizonte,Rio de Janeiro,1835,Transportadora D,Premium,56.71,89.41,7,Entregue,0,5.0
+PED-20452,2024-03-28,Produto G,Categoria 4,95.45,CD Curitiba,Curitiba,27,Transportadora B,Padrão,46.35,75.12,2,Em Trânsito,0,
+PED-20453,2024-03-29,Produto E,Categoria 2,41.87,CD Recife,Belo Horizonte,320,Transportadora B,Padrão,31.97,46.13,4,Entregue,0,5.0
+PED-20454,2024-03-30,Produto G,Categoria 1,48.95,CD Belo Horizonte,Rio de Janeiro,1223,Transportadora A,Econômico,39.54,60.34,4,Entregue,0,4.0
+PED-20455,2024-03-31,Produto I,Categoria 1,98.84,CD Rio de Janeiro,Rio de Janeiro,1196,Transportadora A,Padrão,54.86,90.49,5,Entregue,0,5.0
+PED-20456,2024-04-01,Produto G,Categoria 2,15.24,CD Rio de Janeiro,Salvador,649,Transportadora B,Expresso,8.43,16.25,4,Entregue,0,4.0
+PED-20457,2024-04-02,Produto H,Categoria 4,88.48,CD Recife,Brasília,360,Transportadora C,Padrão,49.07,77.41,3,Entregue,0,4.0
+PED-20458,2024-04-03,Produto H,Categoria 3,24.38,CD Curitiba,Rio de Janeiro,1705,Transportadora C,Padrão,39.13,54.97,6,Em Trânsito,0,
+PED-20459,2024-04-04,Produto F,Categoria 4,60.59,CD Rio de Janeiro,Fortaleza,296,Transportadora D,Padrão,27.82,47.48,2,Em Trânsito,0,
+PED-20460,2024-04-05,Produto C,Categoria 2,95.73,CD Curitiba,Recife,1995,Transportadora B,Padrão,69.95,108.64,4,Entregue,0,5.0
+PED-20461,2024-04-06,Produto E,Categoria 4,90.78,CD Curitiba,Fortaleza,1621,Transportadora A,Expresso,58.12,93.46,6,Atrasado,3,1.0
+PED-20462,2024-04-07,Produto A,Categoria 1,72.22,CD São Paulo,São Paulo,1506,Transportadora B,Econômico,54.42,83.62,5,Entregue,0,5.0
+PED-20463,2024-04-08,Produto B,Categoria 2,42.08,CD Belo Horizonte,Manaus,966,Transportadora D,Padrão,38.86,56.31,5,Em Trânsito,0,
+PED-20464,2024-04-09,Produto E,Categoria 2,77.2,CD Rio de Janeiro,Salvador,519,Transportadora D,Econômico,46.79,72.55,5,Entregue,0,4.0
+PED-20465,2024-04-10,Produto I,Categoria 3,63.34,CD Belo Horizonte,Recife,181,Transportadora A,Padrão,41.45,61.36,1,Atrasado,4,1.0
+PED-20466,2024-04-11,Produto E,Categoria 1,71.28,CD Belo Horizonte,Fortaleza,1925,Transportadora B,Padrão,55.29,86.3,6,Atrasado,1,1.0
+PED-20467,2024-04-12,Produto D,Categoria 1,80.12,CD Recife,Recife,46,Transportadora C,Padrão,43.67,67.94,1,Entregue,0,5.0
+PED-20468,2024-04-13,Produto J,Categoria 2,37.62,CD Curitiba,Curitiba,10,Transportadora A,Econômico,20.13,31.47,1,Atrasado,5,2.0
+PED-20469,2024-04-14,Produto J,Categoria 3,0.77,CD Recife,Salvador,328,Transportadora B,Expresso,-5.99,-4.12,3,Em Trânsito,0,
+PED-20470,2024-04-15,Produto B,Categoria 3,48.54,CD São Paulo,Fortaleza,791,Transportadora D,Expresso,38.56,57.08,3,Em Trânsito,0,
+PED-20471,2024-04-16,Produto A,Categoria 2,82.52,CD Recife,Manaus,1378,Transportadora A,Econômico,50.73,82.38,7,Entregue,0,5.0
+PED-20472,2024-04-17,Produto G,Categoria 3,50.36,CD Rio de Janeiro,Manaus,1573,Transportadora A,Expresso,30.97,53.94,7,Em Trânsito,0,
+PED-20473,2024-04-18,Produto C,Categoria 4,21.5,CD Recife,Brasília,667,Transportadora B,Premium,14.31,24.1,5,Atrasado,2,2.0
+PED-20474,2024-04-19,Produto C,Categoria 2,33.59,CD Belo Horizonte,Manaus,682,Transportadora B,Expresso,21.76,35.25,5,Entregue,0,3.0
+PED-20475,2024-04-20,Produto H,Categoria 1,66.04,CD Belo Horizonte,Manaus,980,Transportadora A,Econômico,46.09,70.8,3,Extraviado,15,1.0
+PED-20476,2024-04-21,Produto C,Categoria 4,73.79,CD Belo Horizonte,São Paulo,592,Transportadora B,Padrão,52.45,77.55,5,Entregue,0,3.0
+PED-20477,2024-04-22,Produto D,Categoria 4,50.75,CD Rio de Janeiro,Brasília,572,Transportadora D,Padrão,39.14,57.23,5,Entregue,0,5.0
+PED-20478,2024-04-23,Produto G,Categoria 2,53.32,CD Belo Horizonte,São Paulo,551,Transportadora A,Padrão,33.5,52.25,5,Entregue,0,5.0
+PED-20479,2024-04-24,Produto C,Categoria 3,89.01,CD Recife,Brasília,1366,Transportadora D,Padrão,56.85,90.38,7,Entregue,0,5.0
+PED-20480,2024-04-25,Produto G,Categoria 1,99.37,CD Curitiba,Recife,1336,Transportadora B,Padrão,53.64,90.13,4,Entregue,0,4.0
+PED-20481,2024-04-26,Produto G,Categoria 2,61.44,CD São Paulo,Recife,1268,Transportadora B,Padrão,49.49,74.26,5,Entregue,0,4.0
+PED-20482,2024-04-27,Produto J,Categoria 2,61.42,CD São Paulo,São Paulo,1639,Transportadora C,Expresso,52.78,79.4,7,Extraviado,15,1.0
+PED-20483,2024-04-28,Produto D,Categoria 2,43.78,CD Curitiba,Salvador,646,Transportadora C,Padrão,26.47,42.83,3,Entregue,0,5.0
+PED-20484,2024-04-29,Produto D,Categoria 3,95.01,CD Belo Horizonte,Brasília,2000,Transportadora D,Padrão,72.77,111.27,6,Entregue,0,3.0
+PED-20485,2024-04-30,Produto F,Categoria 4,80.13,CD Curitiba,Fortaleza,1231,Transportadora B,Padrão,53.27,83.46,6,Entregue,0,4.0
+PED-20486,2024-05-01,Produto B,Categoria 1,45.77,CD Rio de Janeiro,Porto Alegre,824,Transportadora B,Premium,24.06,41.91,3,Entregue,0,5.0
+PED-20487,2024-05-02,Produto D,Categoria 4,72.05,CD Rio de Janeiro,Rio de Janeiro,1821,Transportadora D,Padrão,57.45,88.17,5,Atrasado,4,2.0
+PED-20488,2024-05-03,Produto E,Categoria 1,54.94,CD Belo Horizonte,Fortaleza,584,Transportadora D,Padrão,25.18,44.58,5,Entregue,0,5.0
+PED-20489,2024-05-04,Produto C,Categoria 2,54.11,CD Rio de Janeiro,Manaus,410,Transportadora B,Expresso,32.17,50.45,4,Em Trânsito,0,
+PED-20490,2024-05-05,Produto G,Categoria 3,75.7,CD Belo Horizonte,Manaus,147,Transportadora D,Expresso,40.78,64.23,3,Entregue,0,5.0
+PED-20491,2024-05-06,Produto B,Categoria 2,4.93,CD Curitiba,Recife,1233,Transportadora C,Padrão,11.69,19.33,6,Entregue,0,5.0
+PED-20492,2024-05-07,Produto J,Categoria 2,33.59,CD Belo Horizonte,Brasília,1296,Transportadora C,Padrão,32.36,48.92,7,Entregue,0,5.0
+PED-20493,2024-05-08,Produto C,Categoria 3,41.03,CD Recife,São Paulo,748,Transportadora C,Padrão,36.46,52.51,3,Entregue,0,4.0
+PED-20494,2024-05-09,Produto D,Categoria 1,62.89,CD Belo Horizonte,Fortaleza,1661,Transportadora B,Premium,42.39,69.56,5,Entregue,0,3.0
+PED-20495,2024-05-10,Produto H,Categoria 1,79.29,CD Recife,São Paulo,550,Transportadora A,Padrão,46.38,72.92,4,Entregue,0,5.0
+PED-20496,2024-05-11,Produto C,Categoria 1,47.71,CD Belo Horizonte,Brasília,451,Transportadora B,Padrão,34.54,51.11,4,Entregue,0,5.0
+PED-20497,2024-05-12,Produto E,Categoria 4,87.88,CD Rio de Janeiro,Rio de Janeiro,1750,Transportadora D,Padrão,53.41,88.52,7,Em Trânsito,0,
+PED-20498,2024-05-13,Produto F,Categoria 1,92.94,CD Rio de Janeiro,Brasília,1789,Transportadora C,Padrão,70.97,107.8,7,Entregue,0,5.0
+PED-20499,2024-05-14,Produto A,Categoria 2,91.45,CD Belo Horizonte,Salvador,884,Transportadora D,Expresso,62.21,94.06,3,Entregue,0,5.0

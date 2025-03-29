@@ -1,0 +1,501 @@
+ID_Funcionario,Nome,Idade,Genero,Departamento,Cargo,Nivel,Tempo_Empresa_Meses,Salario,Performance,Satisfacao,Ausencias_Anuais,Treinamentos_Completados,Local_Trabalho,Turnover
+EMP-1000,Funcionário 1,22,Masculino,Financeiro,Assistente Financeiro,Junior,88,4996.29,4,4,6,6,Remoto,True
+EMP-1001,Funcionário 2,26,Masculino,Vendas,Vendedor Pleno,Pleno,114,8417.72,4,8,1,8,Remoto,True
+EMP-1002,Funcionário 3,43,Feminino,Operações,COO,Diretoria,44,25776.11,2,2,12,1,Presencial,True
+EMP-1003,Funcionário 4,44,Masculino,P&D,Gerente de P&D,Gerência,41,13368.14,5,8,9,8,Presencial,False
+EMP-1004,Funcionário 5,46,Feminino,Administrativo,Gerente Administrativo,Gerência,105,17685.49,5,7,8,7,Remoto,True
+EMP-1005,Funcionário 6,30,Masculino,Marketing,Analista de Marketing Jr,Junior,31,4034.56,3,4,11,5,Presencial,False
+EMP-1006,Funcionário 7,40,Feminino,P&D,Gerente de P&D,Gerência,47,13506.68,4,8,8,3,Híbrido,False
+EMP-1007,Funcionário 8,31,Feminino,Vendas,Vendedor Pleno,Pleno,86,7384.45,3,6,10,2,Presencial,False
+EMP-1008,Funcionário 9,35,Masculino,Administrativo,Analista Administrativo,Pleno,52,6456.47,5,9,5,5,Remoto,False
+EMP-1009,Funcionário 10,25,Masculino,RH,Analista de RH,Pleno,49,6230.73,4,6,13,5,Híbrido,False
+EMP-1010,Funcionário 11,37,Masculino,Vendas,Vendedor Sr,Sênior,79,11591.21,4,5,6,3,Presencial,False
+EMP-1011,Funcionário 12,49,Feminino,Financeiro,Controller,Diretoria,8,22147.31,3,4,8,3,Remoto,False
+EMP-1012,Funcionário 13,36,Feminino,Marketing,Gerente de Marketing,Gerência,46,14001.03,5,9,9,7,Presencial,False
+EMP-1013,Funcionário 14,33,Feminino,RH,Analista de RH,Pleno,112,7979.64,4,7,7,8,Remoto,False
+EMP-1014,Funcionário 15,44,Masculino,TI,Gerente de TI,Gerência,43,14800.37,4,5,11,8,Remoto,True
+EMP-1015,Funcionário 16,49,Masculino,Financeiro,Gerente Financeiro,Gerência,104,16972.63,3,6,11,2,Remoto,False
+EMP-1016,Funcionário 17,34,Masculino,Administrativo,Coordenador Administrativo,Sênior,13,8330.2,4,5,12,6,Remoto,False
+EMP-1017,Funcionário 18,58,Masculino,P&D,Diretor de P&D,Diretoria,1,19999.01,3,4,10,2,Híbrido,True
+EMP-1018,Funcionário 19,32,Feminino,Marketing,Analista de Marketing Pleno,Pleno,59,6846.55,5,6,9,5,Presencial,False
+EMP-1019,Funcionário 20,50,Feminino,RH,Diretor de RH,Diretoria,112,29095.09,5,7,9,8,Presencial,False
+EMP-1020,Funcionário 21,56,Feminino,TI,CTO,Diretoria,90,29235.79,4,5,10,8,Híbrido,False
+EMP-1021,Funcionário 22,46,Masculino,Operações,Gerente de Operações,Gerência,52,13654.24,1,3,18,2,Remoto,False
+EMP-1022,Funcionário 23,36,Feminino,TI,Desenvolvedor Sr,Sênior,93,11958.06,5,7,2,6,Híbrido,False
+EMP-1023,Funcionário 24,26,Feminino,RH,Analista de RH,Pleno,107,8657.2,1,1,19,3,Remoto,True
+EMP-1024,Funcionário 25,22,Feminino,Administrativo,Assistente Administrativo,Junior,114,4832.52,1,3,13,0,Híbrido,False
+EMP-1025,Funcionário 26,28,Feminino,P&D,Pesquisador Pleno,Pleno,119,7868.46,4,7,3,4,Remoto,False
+EMP-1026,Funcionário 27,36,Masculino,Vendas,Gerente de Vendas,Gerência,18,12410.21,4,4,15,8,Híbrido,False
+EMP-1027,Funcionário 28,25,Masculino,Vendas,Vendedor Jr,Junior,4,3832.51,4,6,9,5,Híbrido,False
+EMP-1028,Funcionário 29,39,Feminino,P&D,Gerente de P&D,Gerência,78,16909.65,4,7,3,8,Remoto,True
+EMP-1029,Funcionário 30,44,Masculino,Financeiro,Gerente Financeiro,Gerência,16,13279.66,3,5,11,2,Presencial,False
+EMP-1030,Funcionário 31,28,Masculino,TI,Desenvolvedor Pleno,Pleno,112,7563.06,3,5,13,5,Presencial,False
+EMP-1031,Funcionário 32,44,Feminino,Vendas,Diretor de Vendas,Diretoria,68,23836.75,4,5,12,3,Presencial,False
+EMP-1032,Funcionário 33,36,Feminino,Vendas,Vendedor Sr,Sênior,36,9631.1,3,4,12,3,Presencial,False
+EMP-1033,Funcionário 34,58,Feminino,P&D,Diretor de P&D,Diretoria,90,27252.63,4,6,9,7,Remoto,False
+EMP-1034,Funcionário 35,51,Masculino,Financeiro,Controller,Diretoria,97,28898.42,3,6,15,4,Remoto,False
+EMP-1035,Funcionário 36,48,Masculino,Financeiro,Controller,Diretoria,105,28189.4,4,6,6,5,Remoto,True
+EMP-1036,Funcionário 37,39,Feminino,Administrativo,Gerente Administrativo,Gerência,32,14210.11,3,6,13,3,Remoto,False
+EMP-1037,Funcionário 38,59,Feminino,Operações,COO,Diretoria,48,22259.0,2,1,16,0,Remoto,False
+EMP-1038,Funcionário 39,28,Feminino,RH,Assistente de RH,Junior,58,4563.51,5,9,6,5,Presencial,False
+EMP-1039,Funcionário 40,42,Feminino,Financeiro,CFO,Diretoria,80,24062.87,3,3,12,5,Presencial,False
+EMP-1040,Funcionário 41,30,Feminino,Vendas,Vendedor Jr,Junior,88,4400.41,5,6,5,4,Presencial,False
+EMP-1041,Funcionário 42,38,Feminino,TI,Desenvolvedor Sr,Sênior,85,11243.35,3,6,10,5,Remoto,False
+EMP-1042,Funcionário 43,43,Masculino,Marketing,Gerente de Marketing,Gerência,112,16227.33,4,7,8,5,Presencial,False
+EMP-1043,Funcionário 44,52,Feminino,Financeiro,Contador,Diretoria,61,22642.99,3,5,15,3,Presencial,False
+EMP-1044,Funcionário 45,35,Feminino,Marketing,Analista de Marketing Sr,Pleno,66,7476.05,3,4,10,4,Remoto,False
+EMP-1045,Funcionário 46,40,Feminino,Administrativo,Gerente Administrativo,Gerência,53,15923.61,3,5,11,2,Híbrido,False
+EMP-1046,Funcionário 47,52,Masculino,Marketing,Diretor de Marketing,Diretoria,85,25090.97,3,6,8,5,Presencial,False
+EMP-1047,Funcionário 48,32,Feminino,TI,Desenvolvedor Pleno,Pleno,25,6401.0,4,8,10,4,Remoto,False
+EMP-1048,Funcionário 49,42,Masculino,Financeiro,Controller,Diretoria,1,19150.09,2,1,18,2,Remoto,True
+EMP-1049,Funcionário 50,29,Masculino,Administrativo,Analista Administrativo,Pleno,82,8026.46,2,4,8,2,Híbrido,False
+EMP-1050,Funcionário 51,35,Masculino,RH,Analista de RH,Pleno,105,8063.8,4,5,11,3,Híbrido,True
+EMP-1051,Funcionário 52,53,Feminino,Operações,COO,Diretoria,42,24874.28,3,5,10,5,Presencial,True
+EMP-1052,Funcionário 53,39,Masculino,Operações,Gerente de Operações,Gerência,3,10957.83,4,6,7,4,Presencial,False
+EMP-1053,Funcionário 54,57,Masculino,Financeiro,Controller,Diretoria,82,28398.58,5,9,1,3,Híbrido,False
+EMP-1054,Funcionário 55,41,Masculino,P&D,Gerente de P&D,Gerência,47,14471.6,4,6,8,6,Remoto,False
+EMP-1055,Funcionário 56,42,Feminino,Financeiro,CFO,Diretoria,112,31200.43,3,6,12,3,Remoto,False
+EMP-1056,Funcionário 57,35,Masculino,RH,Analista de RH,Pleno,6,6035.19,3,3,15,4,Remoto,False
+EMP-1057,Funcionário 58,48,Masculino,Operações,COO,Diretoria,104,26287.13,2,2,18,2,Remoto,False
+EMP-1058,Funcionário 59,25,Feminino,Operações,Assistente Operacional,Junior,95,4532.91,1,3,13,3,Híbrido,False
+EMP-1059,Funcionário 60,46,Masculino,RH,Gerente de RH,Gerência,42,14832.27,1,1,10,2,Híbrido,True
+EMP-1060,Funcionário 61,30,Feminino,P&D,Pesquisador Jr,Junior,87,5142.99,4,6,14,3,Híbrido,False
+EMP-1061,Funcionário 62,34,Feminino,Operações,Analista de Operações,Pleno,57,7235.68,3,6,9,3,Presencial,False
+EMP-1062,Funcionário 63,27,Masculino,Vendas,Vendedor Pleno,Pleno,30,5949.14,4,6,10,4,Híbrido,False
+EMP-1063,Funcionário 64,43,Masculino,TI,Desenvolvedor Sr,Sênior,78,11214.99,4,7,2,3,Presencial,False
+EMP-1064,Funcionário 65,44,Feminino,Vendas,Diretor de Vendas,Diretoria,63,23956.23,5,9,6,8,Presencial,False
+EMP-1065,Funcionário 66,40,Masculino,P&D,Pesquisador Sr,Sênior,52,10431.69,4,4,9,5,Híbrido,True
+EMP-1066,Funcionário 67,28,Masculino,Vendas,Vendedor Jr,Junior,95,4658.2,1,2,18,1,Presencial,True
+EMP-1067,Funcionário 68,31,Masculino,Vendas,Vendedor Pleno,Pleno,79,7374.18,4,6,5,3,Presencial,False
+EMP-1068,Funcionário 69,40,Feminino,TI,Arquiteto de Software,Diretoria,102,25770.89,5,8,10,7,Presencial,False
+EMP-1069,Funcionário 70,42,Masculino,Administrativo,Gerente Administrativo,Gerência,11,11406.76,4,7,5,5,Híbrido,True
+EMP-1070,Funcionário 71,42,Feminino,P&D,Diretor de P&D,Diretoria,45,23962.05,4,6,5,8,Remoto,False
+EMP-1071,Funcionário 72,26,Feminino,Administrativo,Assistente Administrativo,Junior,55,3960.12,3,5,15,5,Remoto,False
+EMP-1072,Funcionário 73,26,Masculino,Marketing,Analista de Marketing Sr,Pleno,120,8887.65,4,8,5,7,Presencial,False
+EMP-1073,Funcionário 74,30,Masculino,Marketing,Analista de Marketing Jr,Junior,120,5161.05,3,3,20,5,Híbrido,True
+EMP-1074,Funcionário 75,23,Feminino,Vendas,Vendedor Jr,Junior,61,3951.69,3,6,12,4,Híbrido,False
+EMP-1075,Funcionário 76,57,Masculino,P&D,Diretor de P&D,Diretoria,85,25590.03,4,7,7,7,Remoto,True
+EMP-1076,Funcionário 77,31,Feminino,Marketing,Analista de Marketing Sr,Pleno,110,7582.37,4,5,5,6,Remoto,False
+EMP-1077,Funcionário 78,37,Masculino,Operações,Gerente de Operações,Gerência,90,16121.76,4,7,5,6,Presencial,False
+EMP-1078,Funcionário 79,45,Masculino,Administrativo,Gerente Administrativo,Gerência,116,17277.78,3,5,9,2,Híbrido,False
+EMP-1079,Funcionário 80,35,Masculino,Operações,Analista de Operações,Pleno,13,5550.75,3,6,15,4,Remoto,False
+EMP-1080,Funcionário 81,32,Masculino,Administrativo,Coordenador Administrativo,Sênior,94,12826.82,2,4,5,2,Híbrido,True
+EMP-1081,Funcionário 82,30,Masculino,TI,Desenvolvedor Pleno,Pleno,50,6890.95,2,3,19,2,Remoto,False
+EMP-1082,Funcionário 83,50,Feminino,Vendas,Diretor de Vendas,Diretoria,38,24032.02,2,2,10,2,Híbrido,False
+EMP-1083,Funcionário 84,26,Masculino,Marketing,Analista de Marketing Jr,Junior,78,4836.77,1,1,17,3,Híbrido,True
+EMP-1084,Funcionário 85,39,Masculino,P&D,Gerente de P&D,Gerência,25,14314.28,5,6,14,4,Remoto,True
+EMP-1085,Funcionário 86,25,Masculino,Operações,Assistente Operacional,Junior,92,4833.75,5,9,8,6,Híbrido,False
+EMP-1086,Funcionário 87,26,Feminino,RH,Assistente de RH,Junior,19,4147.82,2,3,17,3,Remoto,True
+EMP-1087,Funcionário 88,35,Masculino,P&D,Gerente de P&D,Gerência,112,16630.32,5,6,7,4,Presencial,False
+EMP-1088,Funcionário 89,38,Feminino,Vendas,Gerente de Vendas,Gerência,67,16751.35,2,1,17,1,Remoto,True
+EMP-1089,Funcionário 90,42,Masculino,RH,Especialista de RH,Sênior,113,11956.53,2,1,20,3,Híbrido,True
+EMP-1090,Funcionário 91,42,Masculino,Vendas,Gerente de Vendas,Gerência,74,14369.55,3,5,13,4,Remoto,True
+EMP-1091,Funcionário 92,31,Masculino,Financeiro,Analista Financeiro,Pleno,101,7554.71,3,4,6,5,Presencial,False
+EMP-1092,Funcionário 93,38,Feminino,Operações,Gerente de Operações,Gerência,110,17011.73,2,5,5,0,Remoto,True
+EMP-1093,Funcionário 94,23,Masculino,RH,Assistente de RH,Junior,92,5252.92,4,5,10,8,Remoto,True
+EMP-1094,Funcionário 95,24,Masculino,Marketing,Analista de Marketing Jr,Junior,65,4078.57,5,7,1,7,Remoto,False
+EMP-1095,Funcionário 96,56,Masculino,Financeiro,Contador,Diretoria,5,18552.0,3,3,19,2,Remoto,False
+EMP-1096,Funcionário 97,26,Feminino,RH,Assistente de RH,Junior,17,3486.39,2,2,12,3,Híbrido,True
+EMP-1097,Funcionário 98,34,Masculino,RH,Analista de RH,Pleno,64,6867.22,4,7,3,7,Presencial,False
+EMP-1098,Funcionário 99,45,Masculino,P&D,Pesquisador Sr,Sênior,102,11712.41,3,4,7,4,Remoto,True
+EMP-1099,Funcionário 100,38,Masculino,Operações,Gerente de Operações,Gerência,12,11797.04,3,5,6,2,Presencial,False
+EMP-1100,Funcionário 101,46,Masculino,Vendas,Gerente de Vendas,Gerência,39,13741.43,4,6,11,4,Presencial,True
+EMP-1101,Funcionário 102,58,Feminino,Financeiro,Controller,Diretoria,107,31190.2,3,5,6,4,Híbrido,False
+EMP-1102,Funcionário 103,26,Feminino,P&D,Pesquisador Jr,Junior,87,4947.25,3,3,10,4,Híbrido,False
+EMP-1103,Funcionário 104,30,Masculino,RH,Assistente de RH,Junior,71,4648.58,5,6,12,5,Remoto,False
+EMP-1104,Funcionário 105,48,Masculino,Vendas,Diretor de Vendas,Diretoria,112,28083.77,4,4,15,5,Híbrido,False
+EMP-1105,Funcionário 106,34,Masculino,RH,Analista de RH,Pleno,60,7391.18,3,3,10,5,Híbrido,False
+EMP-1106,Funcionário 107,38,Masculino,Administrativo,Gerente Administrativo,Gerência,22,12500.26,3,5,10,5,Híbrido,False
+EMP-1107,Funcionário 108,25,Masculino,Marketing,Analista de Marketing Pleno,Pleno,115,8134.2,3,3,11,2,Presencial,False
+EMP-1108,Funcionário 109,45,Feminino,Financeiro,Controller,Diretoria,58,24183.26,5,8,9,4,Híbrido,False
+EMP-1109,Funcionário 110,40,Feminino,P&D,Pesquisador Sr,Sênior,15,8607.51,4,7,5,7,Remoto,False
+EMP-1110,Funcionário 111,31,Feminino,TI,Desenvolvedor Pleno,Pleno,62,7484.17,4,5,8,7,Remoto,False
+EMP-1111,Funcionário 112,27,Feminino,RH,Analista de RH,Pleno,85,7892.83,5,7,10,4,Presencial,False
+EMP-1112,Funcionário 113,27,Feminino,TI,Desenvolvedor Jr,Junior,70,4782.01,2,2,10,2,Remoto,False
+EMP-1113,Funcionário 114,57,Feminino,Marketing,Diretor de Marketing,Diretoria,31,24217.07,3,3,15,5,Presencial,True
+EMP-1114,Funcionário 115,30,Masculino,TI,Desenvolvedor Jr,Junior,32,4345.92,3,5,15,5,Presencial,True
+EMP-1115,Funcionário 116,34,Feminino,Marketing,Analista de Marketing Pleno,Pleno,28,6482.88,5,7,6,3,Remoto,True
+EMP-1116,Funcionário 117,42,Masculino,TI,Desenvolvedor Sr,Sênior,22,8623.29,4,5,7,5,Híbrido,False
+EMP-1117,Funcionário 118,29,Masculino,Financeiro,Assistente Financeiro,Junior,97,4568.38,1,1,19,3,Híbrido,True
+EMP-1118,Funcionário 119,58,Feminino,RH,Diretor de RH,Diretoria,85,26794.6,4,7,6,4,Remoto,False
+EMP-1119,Funcionário 120,44,Masculino,Financeiro,CFO,Diretoria,90,29132.68,3,4,13,5,Híbrido,True
+EMP-1120,Funcionário 121,43,Masculino,RH,Gerente de RH,Gerência,12,13800.37,2,4,5,1,Híbrido,True
+EMP-1121,Funcionário 122,25,Feminino,Vendas,Vendedor Pleno,Pleno,14,6187.14,4,5,15,6,Híbrido,False
+EMP-1122,Funcionário 123,30,Masculino,Financeiro,Assistente Financeiro,Junior,56,3982.7,4,5,11,7,Presencial,True
+EMP-1123,Funcionário 124,24,Masculino,P&D,Pesquisador Jr,Junior,92,4771.42,4,4,11,3,Remoto,False
+EMP-1124,Funcionário 125,34,Feminino,Vendas,Vendedor Sr,Sênior,4,9033.49,4,6,15,3,Híbrido,False
+EMP-1125,Funcionário 126,27,Feminino,Administrativo,Analista Administrativo,Pleno,21,5556.18,3,5,15,5,Remoto,False
+EMP-1126,Funcionário 127,47,Feminino,Vendas,Gerente de Vendas,Gerência,119,17314.76,3,3,10,3,Remoto,True
+EMP-1127,Funcionário 128,38,Masculino,Operações,Coordenador de Operações,Sênior,119,11767.44,5,8,2,4,Remoto,False
+EMP-1128,Funcionário 129,25,Masculino,Administrativo,Analista Administrativo,Pleno,42,6808.29,1,2,13,0,Remoto,True
+EMP-1129,Funcionário 130,35,Feminino,Administrativo,Analista Administrativo,Pleno,116,7917.84,2,3,18,2,Remoto,True
+EMP-1130,Funcionário 131,51,Feminino,Financeiro,CFO,Diretoria,50,24138.66,2,5,7,1,Presencial,False
+EMP-1131,Funcionário 132,25,Masculino,Marketing,Analista de Marketing Jr,Junior,99,4925.25,4,5,9,4,Remoto,True
+EMP-1132,Funcionário 133,59,Masculino,P&D,Diretor de P&D,Diretoria,36,25175.1,2,2,11,3,Híbrido,True
+EMP-1133,Funcionário 134,31,Masculino,P&D,Pesquisador Pleno,Pleno,29,6290.02,3,6,7,5,Híbrido,False
+EMP-1134,Funcionário 135,49,Feminino,Operações,Gerente de Operações,Gerência,93,17104.89,3,4,12,4,Presencial,False
+EMP-1135,Funcionário 136,24,Masculino,Vendas,Vendedor Jr,Junior,33,3693.18,2,1,10,1,Híbrido,True
+EMP-1136,Funcionário 137,54,Feminino,RH,Diretor de RH,Diretoria,86,29579.23,4,5,9,6,Remoto,False
+EMP-1137,Funcionário 138,27,Masculino,Vendas,Vendedor Jr,Junior,61,4759.72,4,6,14,7,Remoto,False
+EMP-1138,Funcionário 139,54,Feminino,Financeiro,Controller,Diretoria,115,28892.18,3,6,8,4,Híbrido,False
+EMP-1139,Funcionário 140,39,Feminino,Administrativo,Coordenador Administrativo,Sênior,86,11659.77,4,5,13,5,Híbrido,False
+EMP-1140,Funcionário 141,43,Feminino,P&D,Gerente de P&D,Gerência,16,12899.19,3,6,11,4,Híbrido,False
+EMP-1141,Funcionário 142,28,Masculino,Operações,Assistente Operacional,Junior,86,4747.13,5,8,3,8,Remoto,False
+EMP-1142,Funcionário 143,56,Feminino,Vendas,Diretor de Vendas,Diretoria,18,21655.71,5,8,1,3,Híbrido,False
+EMP-1143,Funcionário 144,25,Feminino,Administrativo,Assistente Administrativo,Junior,119,4952.82,3,3,14,4,Presencial,True
+EMP-1144,Funcionário 145,26,Masculino,RH,Assistente de RH,Junior,69,4130.99,3,3,14,5,Híbrido,True
+EMP-1145,Funcionário 146,37,Feminino,Operações,Gerente de Operações,Gerência,82,16792.05,4,7,9,4,Híbrido,False
+EMP-1146,Funcionário 147,29,Feminino,Marketing,Analista de Marketing Pleno,Pleno,93,7672.38,4,6,10,6,Remoto,False
+EMP-1147,Funcionário 148,31,Feminino,Vendas,Vendedor Pleno,Pleno,63,7327.87,5,7,2,6,Presencial,False
+EMP-1148,Funcionário 149,40,Feminino,RH,Especialista de RH,Sênior,12,9480.66,2,4,10,3,Híbrido,True
+EMP-1149,Funcionário 150,26,Masculino,Administrativo,Analista Administrativo,Pleno,102,7397.56,4,5,12,5,Presencial,False
+EMP-1150,Funcionário 151,35,Masculino,Marketing,Analista de Marketing Pleno,Pleno,89,6917.19,4,7,10,6,Presencial,False
+EMP-1151,Funcionário 152,23,Masculino,RH,Assistente de RH,Junior,43,4012.94,3,5,6,3,Híbrido,False
+EMP-1152,Funcionário 153,23,Feminino,RH,Assistente de RH,Junior,112,4828.7,3,6,14,3,Remoto,True
+EMP-1153,Funcionário 154,47,Feminino,TI,Arquiteto de Software,Diretoria,29,23988.5,4,4,12,6,Híbrido,True
+EMP-1154,Funcionário 155,23,Feminino,Operações,Assistente Operacional,Junior,120,5105.52,3,6,6,4,Remoto,False
+EMP-1155,Funcionário 156,24,Masculino,Financeiro,Assistente Financeiro,Junior,74,4555.29,3,4,6,2,Presencial,True
+EMP-1156,Funcionário 157,34,Masculino,Marketing,Analista de Marketing Sr,Pleno,99,7199.44,4,8,2,7,Híbrido,False
+EMP-1157,Funcionário 158,25,Feminino,Marketing,Analista de Marketing Pleno,Pleno,119,7585.63,3,5,7,4,Remoto,False
+EMP-1158,Funcionário 159,23,Masculino,Vendas,Vendedor Jr,Junior,77,5003.26,3,3,11,5,Presencial,True
+EMP-1159,Funcionário 160,29,Masculino,P&D,Pesquisador Pleno,Pleno,9,5547.45,2,4,7,1,Híbrido,False
+EMP-1160,Funcionário 161,30,Feminino,Administrativo,Assistente Administrativo,Junior,83,5039.51,3,5,10,2,Remoto,True
+EMP-1161,Funcionário 162,32,Masculino,Vendas,Vendedor Pleno,Pleno,44,6871.04,3,5,14,5,Remoto,False
+EMP-1162,Funcionário 163,25,Masculino,Operações,Analista de Operações,Pleno,49,6145.2,3,4,15,5,Remoto,False
+EMP-1163,Funcionário 164,28,Masculino,Financeiro,Assistente Financeiro,Junior,117,5165.0,5,8,1,6,Híbrido,False
+EMP-1164,Funcionário 165,39,Masculino,RH,Gerente de RH,Gerência,92,17713.04,4,6,7,6,Híbrido,False
+EMP-1165,Funcionário 166,55,Feminino,Marketing,Diretor de Marketing,Diretoria,96,28288.4,3,5,5,3,Híbrido,False
+EMP-1166,Funcionário 167,29,Masculino,P&D,Pesquisador Jr,Junior,95,5306.87,5,8,4,8,Presencial,False
+EMP-1167,Funcionário 168,33,Masculino,RH,Especialista de RH,Sênior,93,11607.59,5,9,6,3,Híbrido,False
+EMP-1168,Funcionário 169,42,Masculino,Operações,Coordenador de Operações,Sênior,49,9643.27,3,3,17,3,Remoto,False
+EMP-1169,Funcionário 170,40,Feminino,Vendas,Diretor de Vendas,Diretoria,84,25512.77,3,3,11,3,Remoto,True
+EMP-1170,Funcionário 171,34,Masculino,Operações,Analista de Operações,Pleno,83,7767.74,4,7,4,7,Remoto,False
+EMP-1171,Funcionário 172,46,Feminino,RH,Diretor de RH,Diretoria,101,26241.29,5,6,9,7,Híbrido,True
+EMP-1172,Funcionário 173,25,Masculino,Marketing,Analista de Marketing Pleno,Pleno,72,7429.97,5,8,4,7,Híbrido,False
+EMP-1173,Funcionário 174,53,Masculino,P&D,Diretor de P&D,Diretoria,110,27084.61,4,6,7,3,Presencial,False
+EMP-1174,Funcionário 175,46,Masculino,Marketing,Gerente de Marketing,Gerência,56,15489.92,3,5,9,5,Remoto,False
+EMP-1175,Funcionário 176,42,Feminino,P&D,Gerente de P&D,Gerência,104,17874.66,2,2,10,0,Híbrido,False
+EMP-1176,Funcionário 177,30,Feminino,Marketing,Analista de Marketing Jr,Junior,30,3878.21,4,5,11,5,Presencial,True
+EMP-1177,Funcionário 178,35,Masculino,Marketing,Analista de Marketing Pleno,Pleno,29,5614.81,3,6,9,3,Híbrido,False
+EMP-1178,Funcionário 179,34,Feminino,Vendas,Vendedor Pleno,Pleno,34,5784.38,3,6,7,3,Remoto,False
+EMP-1179,Funcionário 180,22,Feminino,Vendas,Vendedor Jr,Junior,15,3779.45,3,6,9,5,Remoto,True
+EMP-1180,Funcionário 181,44,Masculino,Administrativo,Coordenador Administrativo,Sênior,38,9800.2,3,3,12,2,Presencial,True
+EMP-1181,Funcionário 182,35,Feminino,Operações,Coordenador de Operações,Sênior,12,9092.66,3,6,14,4,Presencial,False
+EMP-1182,Funcionário 183,35,Masculino,Marketing,Analista de Marketing Pleno,Pleno,15,5444.24,2,4,10,0,Híbrido,False
+EMP-1183,Funcionário 184,30,Feminino,TI,Desenvolvedor Jr,Junior,12,3415.46,3,4,11,5,Presencial,False
+EMP-1184,Funcionário 185,42,Feminino,Vendas,Gerente de Vendas,Gerência,44,13181.23,1,3,13,1,Híbrido,False
+EMP-1185,Funcionário 186,35,Feminino,P&D,Pesquisador Sr,Sênior,95,11259.6,4,8,4,4,Remoto,False
+EMP-1186,Funcionário 187,23,Feminino,Vendas,Vendedor Jr,Junior,76,4159.0,4,4,9,6,Presencial,True
+EMP-1187,Funcionário 188,51,Masculino,Financeiro,Controller,Diretoria,120,31986.41,3,4,8,4,Presencial,True
+EMP-1188,Funcionário 189,27,Feminino,Administrativo,Analista Administrativo,Pleno,25,5971.49,4,4,7,8,Remoto,True
+EMP-1189,Funcionário 190,46,Masculino,Marketing,Gerente de Marketing,Gerência,96,17691.8,3,5,9,3,Híbrido,True
+EMP-1190,Funcionário 191,25,Masculino,Marketing,Analista de Marketing Pleno,Pleno,15,5808.41,3,4,9,3,Remoto,False
+EMP-1191,Funcionário 192,28,Feminino,Vendas,Vendedor Jr,Junior,74,4249.57,2,2,17,3,Remoto,False
+EMP-1192,Funcionário 193,45,Feminino,Vendas,Vendedor Sr,Sênior,48,10256.0,3,5,9,3,Remoto,False
+EMP-1193,Funcionário 194,52,Feminino,Financeiro,CFO,Diretoria,17,23338.88,3,3,11,4,Remoto,True
+EMP-1194,Funcionário 195,35,Masculino,Administrativo,Coordenador Administrativo,Sênior,110,12321.92,3,3,17,3,Remoto,True
+EMP-1195,Funcionário 196,27,Feminino,Administrativo,Assistente Administrativo,Junior,41,4280.32,4,4,10,5,Híbrido,False
+EMP-1196,Funcionário 197,23,Feminino,Marketing,Analista de Marketing Jr,Junior,49,4167.36,4,6,14,3,Remoto,True
+EMP-1197,Funcionário 198,30,Masculino,Administrativo,Analista Administrativo,Pleno,74,7404.29,5,6,10,3,Remoto,True
+EMP-1198,Funcionário 199,42,Masculino,RH,Gerente de RH,Gerência,95,15119.25,4,7,6,4,Presencial,False
+EMP-1199,Funcionário 200,33,Masculino,Vendas,Vendedor Sr,Sênior,1,7871.82,4,6,15,7,Híbrido,False
+EMP-1200,Funcionário 201,49,Masculino,P&D,Diretor de P&D,Diretoria,40,21280.0,4,5,13,6,Presencial,True
+EMP-1201,Funcionário 202,44,Feminino,Administrativo,Gerente Administrativo,Gerência,8,12753.29,4,6,12,6,Presencial,False
+EMP-1202,Funcionário 203,29,Feminino,P&D,Pesquisador Jr,Junior,76,4704.35,4,7,3,4,Remoto,False
+EMP-1203,Funcionário 204,29,Feminino,Administrativo,Analista Administrativo,Pleno,69,6618.96,3,3,10,5,Remoto,True
+EMP-1204,Funcionário 205,29,Feminino,Marketing,Analista de Marketing Sr,Pleno,25,5660.38,4,7,10,4,Remoto,False
+EMP-1205,Funcionário 206,25,Masculino,Operações,Assistente Operacional,Junior,109,4984.12,3,4,11,3,Remoto,False
+EMP-1206,Funcionário 207,40,Feminino,Vendas,Diretor de Vendas,Diretoria,50,23797.5,1,2,12,3,Híbrido,True
+EMP-1207,Funcionário 208,42,Masculino,P&D,Pesquisador Sr,Sênior,55,11384.56,3,6,13,2,Presencial,False
+EMP-1208,Funcionário 209,41,Feminino,Operações,Gerente de Operações,Gerência,41,13921.57,1,1,19,2,Híbrido,False
+EMP-1209,Funcionário 210,29,Masculino,RH,Analista de RH,Pleno,99,8097.22,3,3,13,3,Remoto,True
+EMP-1210,Funcionário 211,35,Feminino,Marketing,Analista de Marketing Sr,Pleno,47,6258.82,2,5,11,1,Remoto,True
+EMP-1211,Funcionário 212,33,Masculino,Marketing,Analista de Marketing Pleno,Pleno,103,7973.71,3,3,15,5,Remoto,True
+EMP-1212,Funcionário 213,31,Masculino,Vendas,Vendedor Sr,Sênior,87,11131.98,4,4,15,8,Presencial,False
+EMP-1213,Funcionário 214,49,Feminino,Marketing,Gerente de Marketing,Gerência,120,17018.33,4,5,15,3,Híbrido,True
+EMP-1214,Funcionário 215,29,Masculino,RH,Assistente de RH,Junior,102,5417.87,3,3,14,2,Remoto,True
+EMP-1215,Funcionário 216,31,Feminino,TI,Desenvolvedor Sr,Sênior,17,8686.71,1,3,13,0,Remoto,True
+EMP-1216,Funcionário 217,27,Masculino,Financeiro,Assistente Financeiro,Junior,67,4111.7,1,2,15,3,Remoto,True
+EMP-1217,Funcionário 218,40,Feminino,Operações,COO,Diretoria,85,26420.12,4,7,9,7,Híbrido,True
+EMP-1218,Funcionário 219,49,Masculino,Administrativo,Gerente Administrativo,Gerência,78,17334.41,4,5,13,6,Remoto,False
+EMP-1219,Funcionário 220,45,Masculino,P&D,Gerente de P&D,Gerência,76,16568.31,1,2,14,3,Híbrido,False
+EMP-1220,Funcionário 221,49,Masculino,P&D,Diretor de P&D,Diretoria,29,21970.14,3,6,6,2,Remoto,False
+EMP-1221,Funcionário 222,51,Masculino,TI,CTO,Diretoria,14,19287.05,2,4,13,3,Presencial,False
+EMP-1222,Funcionário 223,26,Masculino,RH,Analista de RH,Pleno,51,6525.09,5,8,4,5,Presencial,False
+EMP-1223,Funcionário 224,35,Masculino,TI,Gerente de TI,Gerência,2,12880.46,1,1,14,0,Remoto,True
+EMP-1224,Funcionário 225,51,Masculino,Vendas,Diretor de Vendas,Diretoria,69,28201.34,4,5,8,8,Presencial,False
+EMP-1225,Funcionário 226,24,Masculino,Vendas,Vendedor Jr,Junior,110,5211.44,4,7,8,7,Presencial,True
+EMP-1226,Funcionário 227,31,Feminino,TI,Desenvolvedor Pleno,Pleno,59,6272.68,3,5,9,2,Híbrido,False
+EMP-1227,Funcionário 228,27,Feminino,Financeiro,Assistente Financeiro,Junior,41,4255.63,1,1,10,3,Híbrido,True
+EMP-1228,Funcionário 229,22,Masculino,Administrativo,Assistente Administrativo,Junior,19,3760.02,3,6,6,5,Híbrido,False
+EMP-1229,Funcionário 230,33,Feminino,Operações,Coordenador de Operações,Sênior,105,12591.91,4,7,9,8,Presencial,False
+EMP-1230,Funcionário 231,31,Feminino,Financeiro,Analista Financeiro,Pleno,38,6249.91,3,6,15,2,Presencial,False
+EMP-1231,Funcionário 232,55,Masculino,TI,CTO,Diretoria,108,28306.73,3,4,15,4,Presencial,False
+EMP-1232,Funcionário 233,46,Feminino,TI,Arquiteto de Software,Diretoria,29,20420.11,3,5,7,5,Híbrido,False
+EMP-1233,Funcionário 234,26,Masculino,P&D,Pesquisador Pleno,Pleno,64,6787.59,3,6,12,2,Híbrido,False
+EMP-1234,Funcionário 235,39,Masculino,Financeiro,Gerente Financeiro,Gerência,88,16151.45,2,3,12,2,Remoto,False
+EMP-1235,Funcionário 236,28,Masculino,Operações,Assistente Operacional,Junior,59,4159.77,4,5,12,6,Presencial,False
+EMP-1236,Funcionário 237,23,Feminino,Financeiro,Assistente Financeiro,Junior,19,3478.24,3,5,14,5,Remoto,False
+EMP-1237,Funcionário 238,32,Feminino,Operações,Analista de Operações,Pleno,77,7065.1,1,1,15,3,Remoto,True
+EMP-1238,Funcionário 239,30,Masculino,Vendas,Vendedor Sr,Sênior,37,10357.44,3,4,10,2,Remoto,False
+EMP-1239,Funcionário 240,44,Masculino,TI,Arquiteto de Software,Diretoria,19,20873.12,5,6,14,3,Remoto,False
+EMP-1240,Funcionário 241,38,Feminino,Vendas,Vendedor Sr,Sênior,96,11280.08,3,5,11,3,Híbrido,False
+EMP-1241,Funcionário 242,28,Masculino,RH,Analista de RH,Pleno,86,6966.94,4,4,15,5,Presencial,True
+EMP-1242,Funcionário 243,32,Masculino,Vendas,Vendedor Pleno,Pleno,109,7368.42,5,9,10,7,Presencial,False
+EMP-1243,Funcionário 244,47,Feminino,Administrativo,Gerente Administrativo,Gerência,103,16161.85,4,5,5,3,Híbrido,False
+EMP-1244,Funcionário 245,30,Feminino,Operações,Analista de Operações,Pleno,106,7153.66,5,9,6,8,Presencial,False
+EMP-1245,Funcionário 246,26,Feminino,RH,Assistente de RH,Junior,90,5206.82,2,3,11,1,Presencial,False
+EMP-1246,Funcionário 247,30,Feminino,RH,Analista de RH,Pleno,5,5263.95,3,4,15,4,Presencial,False
+EMP-1247,Funcionário 248,53,Feminino,RH,Diretor de RH,Diretoria,77,24840.79,4,7,6,6,Presencial,False
+EMP-1248,Funcionário 249,40,Masculino,Marketing,Gerente de Marketing,Gerência,41,15256.06,2,2,10,2,Remoto,True
+EMP-1249,Funcionário 250,38,Masculino,Operações,Coordenador de Operações,Sênior,40,9401.66,5,7,3,4,Híbrido,False
+EMP-1250,Funcionário 251,26,Masculino,RH,Analista de RH,Pleno,65,6409.5,5,8,7,4,Remoto,False
+EMP-1251,Funcionário 252,44,Feminino,P&D,Pesquisador Sr,Sênior,89,11815.5,4,5,12,6,Remoto,False
+EMP-1252,Funcionário 253,44,Feminino,P&D,Pesquisador Sr,Sênior,16,8241.37,3,5,10,3,Remoto,False
+EMP-1253,Funcionário 254,24,Masculino,Operações,Assistente Operacional,Junior,36,4416.63,2,3,15,2,Remoto,True
+EMP-1254,Funcionário 255,44,Feminino,Operações,COO,Diretoria,109,28989.14,4,5,15,3,Híbrido,True
+EMP-1255,Funcionário 256,51,Masculino,Financeiro,Controller,Diretoria,91,25090.07,4,6,6,5,Híbrido,True
+EMP-1256,Funcionário 257,43,Masculino,Administrativo,Coordenador Administrativo,Sênior,74,10216.07,4,6,7,8,Presencial,False
+EMP-1257,Funcionário 258,22,Feminino,Operações,Assistente Operacional,Junior,62,4235.58,4,8,6,8,Híbrido,False
+EMP-1258,Funcionário 259,30,Masculino,TI,Desenvolvedor Pleno,Pleno,81,8063.25,1,2,14,0,Remoto,False
+EMP-1259,Funcionário 260,28,Feminino,Marketing,Analista de Marketing Sr,Pleno,107,8352.36,4,8,3,6,Híbrido,False
+EMP-1260,Funcionário 261,33,Masculino,P&D,Pesquisador Sr,Sênior,28,10362.51,2,5,12,3,Remoto,False
+EMP-1261,Funcionário 262,28,Feminino,Vendas,Vendedor Pleno,Pleno,64,6966.97,5,8,9,4,Híbrido,True
+EMP-1262,Funcionário 263,29,Feminino,P&D,Pesquisador Pleno,Pleno,38,6134.44,1,1,12,2,Híbrido,True
+EMP-1263,Funcionário 264,41,Masculino,RH,Diretor de RH,Diretoria,91,26980.04,1,1,10,2,Presencial,True
+EMP-1264,Funcionário 265,24,Feminino,Vendas,Vendedor Jr,Junior,49,4093.07,3,3,17,4,Remoto,False
+EMP-1265,Funcionário 266,31,Masculino,RH,Analista de RH,Pleno,8,5262.22,3,6,14,5,Híbrido,False
+EMP-1266,Funcionário 267,31,Masculino,RH,Analista de RH,Pleno,104,8158.76,4,4,12,5,Híbrido,False
+EMP-1267,Funcionário 268,50,Masculino,P&D,Diretor de P&D,Diretoria,43,22787.72,4,5,14,6,Presencial,True
+EMP-1268,Funcionário 269,36,Feminino,RH,Gerente de RH,Gerência,20,14030.93,3,6,14,4,Híbrido,False
+EMP-1269,Funcionário 270,45,Masculino,RH,Diretor de RH,Diretoria,106,28853.97,4,5,11,7,Remoto,False
+EMP-1270,Funcionário 271,36,Masculino,P&D,Pesquisador Sr,Sênior,92,11763.45,5,9,7,5,Presencial,False
+EMP-1271,Funcionário 272,32,Masculino,Operações,Analista de Operações,Pleno,27,6455.35,4,8,8,7,Remoto,False
+EMP-1272,Funcionário 273,43,Masculino,Administrativo,Gerente Administrativo,Gerência,109,15787.66,2,1,13,0,Presencial,True
+EMP-1273,Funcionário 274,23,Feminino,RH,Assistente de RH,Junior,94,5159.25,3,4,9,3,Híbrido,True
+EMP-1274,Funcionário 275,28,Masculino,Administrativo,Assistente Administrativo,Junior,120,5225.8,2,4,10,1,Remoto,False
+EMP-1275,Funcionário 276,55,Masculino,TI,Arquiteto de Software,Diretoria,104,30781.19,4,6,14,7,Híbrido,False
+EMP-1276,Funcionário 277,30,Masculino,Vendas,Vendedor Jr,Junior,29,3559.97,5,8,6,5,Presencial,False
+EMP-1277,Funcionário 278,32,Masculino,Operações,Analista de Operações,Pleno,90,7050.1,5,9,8,3,Remoto,True
+EMP-1278,Funcionário 279,24,Feminino,Vendas,Vendedor Jr,Junior,95,5063.61,4,7,7,4,Presencial,False
+EMP-1279,Funcionário 280,30,Masculino,Marketing,Analista de Marketing Pleno,Pleno,7,5183.53,4,5,9,5,Presencial,True
+EMP-1280,Funcionário 281,31,Feminino,Operações,Analista de Operações,Pleno,119,8434.33,4,4,5,7,Presencial,False
+EMP-1281,Funcionário 282,33,Masculino,Vendas,Vendedor Pleno,Pleno,111,8772.22,3,4,8,4,Presencial,False
+EMP-1282,Funcionário 283,28,Masculino,Marketing,Analista de Marketing Jr,Junior,100,4692.14,3,5,13,4,Remoto,False
+EMP-1283,Funcionário 284,27,Feminino,TI,Desenvolvedor Pleno,Pleno,23,5684.32,3,6,6,4,Presencial,True
+EMP-1284,Funcionário 285,38,Masculino,Financeiro,Gerente Financeiro,Gerência,110,18135.11,3,6,11,3,Remoto,False
+EMP-1285,Funcionário 286,43,Feminino,P&D,Diretor de P&D,Diretoria,63,23436.36,4,6,11,7,Remoto,False
+EMP-1286,Funcionário 287,25,Feminino,RH,Analista de RH,Pleno,94,7988.74,3,3,14,4,Híbrido,True
+EMP-1287,Funcionário 288,27,Masculino,Operações,Analista de Operações,Pleno,51,7326.84,2,4,14,3,Híbrido,False
+EMP-1288,Funcionário 289,44,Masculino,Vendas,Diretor de Vendas,Diretoria,39,23257.53,4,4,11,8,Remoto,False
+EMP-1289,Funcionário 290,27,Feminino,Vendas,Vendedor Jr,Junior,105,5526.61,4,6,14,6,Remoto,True
+EMP-1290,Funcionário 291,35,Masculino,RH,Gerente de RH,Gerência,85,16603.4,3,3,10,4,Presencial,True
+EMP-1291,Funcionário 292,42,Masculino,RH,Gerente de RH,Gerência,117,17933.13,4,5,7,4,Híbrido,False
+EMP-1292,Funcionário 293,41,Masculino,Financeiro,Contador,Diretoria,109,30645.9,3,4,13,3,Presencial,True
+EMP-1293,Funcionário 294,35,Masculino,TI,Desenvolvedor Pleno,Pleno,21,5918.42,4,7,3,4,Presencial,False
+EMP-1294,Funcionário 295,30,Feminino,RH,Analista de RH,Pleno,3,5158.0,5,9,5,7,Presencial,False
+EMP-1295,Funcionário 296,31,Masculino,Financeiro,Analista Financeiro,Pleno,71,6828.95,4,5,14,5,Remoto,True
+EMP-1296,Funcionário 297,59,Masculino,TI,Arquiteto de Software,Diretoria,51,24848.83,2,5,13,3,Presencial,True
+EMP-1297,Funcionário 298,25,Feminino,Operações,Analista de Operações,Pleno,44,7081.25,3,3,13,4,Híbrido,True
+EMP-1298,Funcionário 299,53,Masculino,RH,Diretor de RH,Diretoria,55,22321.73,3,6,14,3,Presencial,False
+EMP-1299,Funcionário 300,32,Masculino,TI,Desenvolvedor Pleno,Pleno,87,7812.63,4,5,7,3,Remoto,False
+EMP-1300,Funcionário 301,39,Feminino,RH,Especialista de RH,Sênior,61,11050.32,3,5,7,3,Presencial,False
+EMP-1301,Funcionário 302,39,Masculino,Vendas,Vendedor Sr,Sênior,45,9567.08,3,4,15,4,Presencial,True
+EMP-1302,Funcionário 303,50,Feminino,TI,Gerente de TI,Gerência,97,18524.92,3,5,10,3,Híbrido,False
+EMP-1303,Funcionário 304,42,Feminino,Financeiro,Controller,Diretoria,51,24768.35,3,3,10,2,Presencial,True
+EMP-1304,Funcionário 305,31,Masculino,Marketing,Analista de Marketing Pleno,Pleno,51,7279.63,4,6,6,5,Híbrido,True
+EMP-1305,Funcionário 306,37,Feminino,Vendas,Vendedor Sr,Sênior,10,8972.64,4,6,9,5,Remoto,False
+EMP-1306,Funcionário 307,59,Masculino,TI,Arquiteto de Software,Diretoria,68,28204.61,4,6,7,8,Presencial,False
+EMP-1307,Funcionário 308,24,Masculino,Administrativo,Assistente Administrativo,Junior,94,4478.64,3,3,15,5,Híbrido,True
+EMP-1308,Funcionário 309,33,Feminino,Marketing,Analista de Marketing Sr,Pleno,37,5732.09,5,8,8,6,Presencial,False
+EMP-1309,Funcionário 310,40,Feminino,Operações,Gerente de Operações,Gerência,37,14587.7,4,6,11,7,Híbrido,True
+EMP-1310,Funcionário 311,42,Masculino,RH,Gerente de RH,Gerência,90,15871.49,4,4,7,4,Presencial,False
+EMP-1311,Funcionário 312,29,Feminino,Financeiro,Analista Financeiro,Pleno,119,8831.83,4,4,12,5,Híbrido,False
+EMP-1312,Funcionário 313,38,Feminino,P&D,Gerente de P&D,Gerência,25,14038.07,2,3,10,1,Presencial,True
+EMP-1313,Funcionário 314,43,Feminino,RH,Gerente de RH,Gerência,90,17803.94,2,5,15,2,Remoto,False
+EMP-1314,Funcionário 315,42,Masculino,Operações,Gerente de Operações,Gerência,110,17496.19,5,7,3,7,Híbrido,False
+EMP-1315,Funcionário 316,53,Masculino,Operações,COO,Diretoria,71,25682.42,3,4,8,4,Híbrido,True
+EMP-1316,Funcionário 317,41,Masculino,TI,Gerente de TI,Gerência,51,13588.88,3,6,7,5,Híbrido,False
+EMP-1317,Funcionário 318,50,Feminino,Administrativo,Gerente Administrativo,Gerência,13,12132.89,4,5,9,6,Híbrido,True
+EMP-1318,Funcionário 319,26,Masculino,Marketing,Analista de Marketing Pleno,Pleno,17,5380.91,3,3,14,3,Híbrido,True
+EMP-1319,Funcionário 320,40,Feminino,Marketing,Gerente de Marketing,Gerência,42,14315.76,3,3,11,5,Presencial,True
+EMP-1320,Funcionário 321,25,Masculino,TI,Desenvolvedor Jr,Junior,97,4770.46,2,3,12,1,Presencial,True
+EMP-1321,Funcionário 322,58,Masculino,TI,Arquiteto de Software,Diretoria,102,26055.46,3,6,8,5,Presencial,False
+EMP-1322,Funcionário 323,39,Masculino,RH,Gerente de RH,Gerência,75,16413.56,4,7,4,6,Remoto,False
+EMP-1323,Funcionário 324,25,Feminino,RH,Assistente de RH,Junior,111,5078.56,5,8,7,3,Remoto,False
+EMP-1324,Funcionário 325,33,Masculino,Administrativo,Coordenador Administrativo,Sênior,104,13367.9,4,4,6,8,Remoto,False
+EMP-1325,Funcionário 326,44,Feminino,Operações,COO,Diretoria,7,22553.09,2,4,8,0,Presencial,False
+EMP-1326,Funcionário 327,52,Masculino,Operações,COO,Diretoria,109,30613.97,3,6,7,4,Remoto,False
+EMP-1327,Funcionário 328,25,Masculino,Administrativo,Analista Administrativo,Pleno,120,8154.37,2,2,20,1,Presencial,False
+EMP-1328,Funcionário 329,48,Masculino,RH,Diretor de RH,Diretoria,91,29923.29,2,1,18,2,Remoto,True
+EMP-1329,Funcionário 330,28,Masculino,Vendas,Vendedor Pleno,Pleno,39,6956.18,1,1,15,1,Remoto,True
+EMP-1330,Funcionário 331,34,Masculino,RH,Especialista de RH,Sênior,59,11588.56,3,4,5,3,Híbrido,False
+EMP-1331,Funcionário 332,53,Masculino,Financeiro,Controller,Diretoria,84,26936.6,3,4,12,3,Híbrido,False
+EMP-1332,Funcionário 333,40,Masculino,TI,Arquiteto de Software,Diretoria,21,21156.1,3,4,7,4,Remoto,True
+EMP-1333,Funcionário 334,36,Masculino,Operações,Coordenador de Operações,Sênior,74,10646.25,4,6,10,7,Presencial,False
+EMP-1334,Funcionário 335,37,Feminino,RH,Gerente de RH,Gerência,18,12665.31,3,6,6,2,Remoto,False
+EMP-1335,Funcionário 336,31,Feminino,Vendas,Vendedor Sr,Sênior,57,10770.53,2,5,12,1,Presencial,False
+EMP-1336,Funcionário 337,52,Masculino,Financeiro,Controller,Diretoria,90,28493.22,4,5,13,5,Remoto,True
+EMP-1337,Funcionário 338,48,Feminino,TI,Gerente de TI,Gerência,62,14921.3,3,4,15,5,Remoto,False
+EMP-1338,Funcionário 339,56,Feminino,P&D,Diretor de P&D,Diretoria,38,23224.49,3,5,11,5,Presencial,True
+EMP-1339,Funcionário 340,44,Masculino,RH,Gerente de RH,Gerência,115,18192.44,3,5,8,2,Presencial,False
+EMP-1340,Funcionário 341,25,Feminino,Marketing,Analista de Marketing Jr,Junior,19,3636.31,3,3,17,3,Híbrido,False
+EMP-1341,Funcionário 342,37,Feminino,P&D,Pesquisador Sr,Sênior,27,8668.53,3,6,15,3,Híbrido,False
+EMP-1342,Funcionário 343,30,Masculino,Marketing,Analista de Marketing Pleno,Pleno,28,6035.04,3,3,16,4,Remoto,True
+EMP-1343,Funcionário 344,53,Masculino,TI,CTO,Diretoria,103,28298.03,3,5,12,2,Presencial,False
+EMP-1344,Funcionário 345,50,Feminino,Administrativo,Gerente Administrativo,Gerência,96,18068.09,1,3,13,3,Presencial,True
+EMP-1345,Funcionário 346,25,Feminino,Operações,Analista de Operações,Pleno,26,6694.75,3,6,6,2,Remoto,False
+EMP-1346,Funcionário 347,33,Masculino,P&D,Pesquisador Pleno,Pleno,95,6974.9,5,9,7,5,Híbrido,False
+EMP-1347,Funcionário 348,31,Masculino,P&D,Pesquisador Pleno,Pleno,84,8133.99,3,4,7,2,Presencial,False
+EMP-1348,Funcionário 349,22,Masculino,TI,Desenvolvedor Jr,Junior,2,3216.52,3,4,10,4,Híbrido,False
+EMP-1349,Funcionário 350,26,Feminino,Operações,Assistente Operacional,Junior,47,4428.67,3,4,7,2,Presencial,True
+EMP-1350,Funcionário 351,43,Feminino,Operações,COO,Diretoria,93,28858.59,3,5,11,2,Híbrido,False
+EMP-1351,Funcionário 352,38,Feminino,P&D,Pesquisador Sr,Sênior,110,12546.57,4,7,6,6,Remoto,False
+EMP-1352,Funcionário 353,46,Masculino,P&D,Gerente de P&D,Gerência,74,14615.33,4,5,9,7,Híbrido,False
+EMP-1353,Funcionário 354,43,Feminino,P&D,Gerente de P&D,Gerência,14,11697.46,2,5,15,1,Remoto,True
+EMP-1354,Funcionário 355,51,Feminino,Financeiro,Controller,Diretoria,87,26573.23,1,1,16,1,Remoto,True
+EMP-1355,Funcionário 356,48,Masculino,Administrativo,Gerente Administrativo,Gerência,101,17289.16,3,5,14,4,Presencial,False
+EMP-1356,Funcionário 357,37,Masculino,Vendas,Vendedor Sr,Sênior,110,13273.03,2,1,16,1,Presencial,True
+EMP-1357,Funcionário 358,45,Feminino,RH,Gerente de RH,Gerência,19,12232.7,2,2,18,1,Híbrido,True
+EMP-1358,Funcionário 359,36,Feminino,RH,Gerente de RH,Gerência,49,15531.32,5,7,2,4,Híbrido,False
+EMP-1359,Funcionário 360,35,Masculino,RH,Especialista de RH,Sênior,55,10801.37,4,8,6,8,Híbrido,False
+EMP-1360,Funcionário 361,41,Feminino,P&D,Diretor de P&D,Diretoria,87,26426.71,3,4,12,5,Remoto,False
+EMP-1361,Funcionário 362,22,Masculino,RH,Assistente de RH,Junior,108,5043.02,4,4,15,4,Híbrido,False
+EMP-1362,Funcionário 363,36,Feminino,Administrativo,Gerente Administrativo,Gerência,22,13192.0,3,6,14,2,Presencial,False
+EMP-1363,Funcionário 364,27,Feminino,RH,Assistente de RH,Junior,119,5568.69,5,9,1,7,Remoto,False
+EMP-1364,Funcionário 365,25,Masculino,Financeiro,Assistente Financeiro,Junior,8,3333.93,4,6,8,5,Remoto,False
+EMP-1365,Funcionário 366,44,Feminino,Administrativo,Gerente Administrativo,Gerência,13,11841.09,3,4,14,4,Remoto,True
+EMP-1366,Funcionário 367,32,Feminino,Administrativo,Analista Administrativo,Pleno,46,6040.78,3,5,7,2,Remoto,False
+EMP-1367,Funcionário 368,29,Masculino,TI,Desenvolvedor Pleno,Pleno,61,7531.9,3,3,13,3,Presencial,True
+EMP-1368,Funcionário 369,38,Feminino,Operações,Gerente de Operações,Gerência,23,12878.97,4,7,6,8,Remoto,False
+EMP-1369,Funcionário 370,53,Masculino,Financeiro,Contador,Diretoria,7,20307.99,4,7,6,3,Híbrido,True
+EMP-1370,Funcionário 371,27,Masculino,Marketing,Analista de Marketing Sr,Pleno,16,5751.12,3,3,15,3,Remoto,True
+EMP-1371,Funcionário 372,43,Masculino,TI,Gerente de TI,Gerência,66,13967.28,3,3,18,4,Presencial,True
+EMP-1372,Funcionário 373,50,Masculino,Marketing,Gerente de Marketing,Gerência,84,15689.45,3,4,5,2,Presencial,False
+EMP-1373,Funcionário 374,51,Feminino,Financeiro,CFO,Diretoria,44,24160.68,4,7,10,4,Presencial,True
+EMP-1374,Funcionário 375,40,Masculino,P&D,Pesquisador Sr,Sênior,76,10548.45,4,8,10,4,Presencial,False
+EMP-1375,Funcionário 376,26,Feminino,Operações,Assistente Operacional,Junior,56,4524.98,3,3,16,3,Remoto,True
+EMP-1376,Funcionário 377,38,Feminino,RH,Gerente de RH,Gerência,20,11997.25,1,3,11,3,Remoto,False
+EMP-1377,Funcionário 378,38,Masculino,Vendas,Gerente de Vendas,Gerência,81,15904.2,3,4,15,5,Remoto,False
+EMP-1378,Funcionário 379,35,Feminino,P&D,Pesquisador Pleno,Pleno,93,7700.06,5,8,4,3,Remoto,False
+EMP-1379,Funcionário 380,25,Masculino,Operações,Analista de Operações,Pleno,52,7291.95,4,5,7,7,Híbrido,False
+EMP-1380,Funcionário 381,39,Masculino,Administrativo,Gerente Administrativo,Gerência,32,12635.8,4,8,8,3,Presencial,False
+EMP-1381,Funcionário 382,27,Masculino,P&D,Pesquisador Jr,Junior,5,3368.17,5,6,8,5,Remoto,False
+EMP-1382,Funcionário 383,41,Masculino,P&D,Pesquisador Sr,Sênior,16,9190.35,4,7,1,8,Híbrido,False
+EMP-1383,Funcionário 384,27,Masculino,Administrativo,Assistente Administrativo,Junior,31,4337.66,3,4,8,2,Presencial,False
+EMP-1384,Funcionário 385,34,Feminino,Administrativo,Analista Administrativo,Pleno,51,7034.47,4,4,9,4,Presencial,True
+EMP-1385,Funcionário 386,41,Masculino,Operações,Coordenador de Operações,Sênior,63,9792.05,3,4,11,5,Híbrido,False
+EMP-1386,Funcionário 387,47,Masculino,P&D,Diretor de P&D,Diretoria,39,24684.68,3,4,6,2,Remoto,False
+EMP-1387,Funcionário 388,43,Feminino,Operações,Gerente de Operações,Gerência,89,17402.65,3,3,15,5,Remoto,False
+EMP-1388,Funcionário 389,46,Feminino,Financeiro,CFO,Diretoria,77,28945.06,5,7,7,3,Presencial,False
+EMP-1389,Funcionário 390,34,Feminino,Administrativo,Analista Administrativo,Pleno,23,5681.64,4,7,3,6,Remoto,True
+EMP-1390,Funcionário 391,42,Masculino,Vendas,Vendedor Sr,Sênior,84,10812.88,3,5,11,3,Remoto,False
+EMP-1391,Funcionário 392,26,Feminino,TI,Desenvolvedor Pleno,Pleno,96,6965.33,1,2,12,0,Presencial,True
+EMP-1392,Funcionário 393,43,Feminino,P&D,Diretor de P&D,Diretoria,49,25329.0,5,6,9,7,Remoto,False
+EMP-1393,Funcionário 394,44,Feminino,RH,Diretor de RH,Diretoria,100,27896.55,5,9,5,7,Presencial,False
+EMP-1394,Funcionário 395,60,Feminino,Financeiro,CFO,Diretoria,89,26057.19,3,6,11,3,Remoto,False
+EMP-1395,Funcionário 396,34,Masculino,Marketing,Analista de Marketing Pleno,Pleno,102,7329.8,4,8,8,7,Presencial,False
+EMP-1396,Funcionário 397,23,Masculino,Operações,Assistente Operacional,Junior,86,4413.52,1,3,10,3,Presencial,True
+EMP-1397,Funcionário 398,22,Masculino,Marketing,Analista de Marketing Jr,Junior,85,4525.26,3,4,9,4,Presencial,False
+EMP-1398,Funcionário 399,25,Masculino,Financeiro,Assistente Financeiro,Junior,12,3367.56,3,6,11,2,Presencial,False
+EMP-1399,Funcionário 400,41,Feminino,Marketing,Gerente de Marketing,Gerência,100,18270.84,1,1,12,3,Híbrido,True
+EMP-1400,Funcionário 401,54,Masculino,Financeiro,Controller,Diretoria,60,24757.1,5,9,3,3,Presencial,False
+EMP-1401,Funcionário 402,43,Feminino,RH,Diretor de RH,Diretoria,111,28780.37,3,3,16,5,Remoto,True
+EMP-1402,Funcionário 403,23,Feminino,Marketing,Analista de Marketing Jr,Junior,105,4743.57,1,1,20,1,Presencial,True
+EMP-1403,Funcionário 404,57,Masculino,Marketing,Diretor de Marketing,Diretoria,84,29122.6,1,2,18,3,Remoto,False
+EMP-1404,Funcionário 405,34,Masculino,Marketing,Analista de Marketing Pleno,Pleno,49,6204.45,4,6,6,3,Híbrido,False
+EMP-1405,Funcionário 406,45,Feminino,Operações,Gerente de Operações,Gerência,36,12568.33,3,6,12,4,Presencial,False
+EMP-1406,Funcionário 407,29,Feminino,Vendas,Vendedor Pleno,Pleno,81,7937.33,3,6,6,5,Híbrido,False
+EMP-1407,Funcionário 408,50,Masculino,RH,Gerente de RH,Gerência,84,15968.45,4,8,6,7,Presencial,False
+EMP-1408,Funcionário 409,36,Masculino,Operações,Coordenador de Operações,Sênior,57,11493.56,4,7,2,5,Híbrido,True
+EMP-1409,Funcionário 410,34,Feminino,RH,Especialista de RH,Sênior,48,9785.69,4,7,7,6,Remoto,True
+EMP-1410,Funcionário 411,41,Feminino,Operações,COO,Diretoria,2,18951.04,2,3,10,1,Híbrido,True
+EMP-1411,Funcionário 412,39,Masculino,Financeiro,Gerente Financeiro,Gerência,16,13931.37,4,8,3,5,Remoto,False
+EMP-1412,Funcionário 413,46,Feminino,Financeiro,CFO,Diretoria,15,21171.91,3,6,10,5,Remoto,True
+EMP-1413,Funcionário 414,53,Masculino,Financeiro,Controller,Diretoria,11,21065.2,3,4,7,4,Presencial,False
+EMP-1414,Funcionário 415,57,Masculino,RH,Diretor de RH,Diretoria,16,22544.46,3,6,14,4,Presencial,True
+EMP-1415,Funcionário 416,38,Masculino,TI,Desenvolvedor Sr,Sênior,63,11730.52,4,6,13,5,Híbrido,False
+EMP-1416,Funcionário 417,57,Masculino,Financeiro,CFO,Diretoria,83,26576.35,4,6,11,7,Remoto,False
+EMP-1417,Funcionário 418,46,Masculino,Vendas,Gerente de Vendas,Gerência,86,17645.07,3,5,15,3,Remoto,False
+EMP-1418,Funcionário 419,51,Masculino,Financeiro,CFO,Diretoria,117,30168.39,3,6,12,4,Híbrido,False
+EMP-1419,Funcionário 420,29,Masculino,Financeiro,Assistente Financeiro,Junior,66,4750.79,4,5,5,5,Remoto,True
+EMP-1420,Funcionário 421,23,Masculino,Operações,Assistente Operacional,Junior,29,3970.7,3,6,12,4,Híbrido,False
+EMP-1421,Funcionário 422,43,Masculino,Administrativo,Coordenador Administrativo,Sênior,3,9284.04,3,4,15,5,Híbrido,False
+EMP-1422,Funcionário 423,26,Feminino,Administrativo,Analista Administrativo,Pleno,76,6805.08,4,8,7,3,Remoto,True
+EMP-1423,Funcionário 424,45,Masculino,Vendas,Vendedor Sr,Sênior,74,11616.21,4,5,11,4,Híbrido,True
+EMP-1424,Funcionário 425,31,Masculino,P&D,Pesquisador Pleno,Pleno,74,7308.79,5,9,1,6,Presencial,False
+EMP-1425,Funcionário 426,56,Feminino,TI,CTO,Diretoria,62,23377.91,4,5,9,3,Presencial,False
+EMP-1426,Funcionário 427,35,Feminino,Administrativo,Gerente Administrativo,Gerência,36,14252.81,3,5,11,4,Remoto,False
+EMP-1427,Funcionário 428,35,Masculino,RH,Especialista de RH,Sênior,89,12405.98,3,4,9,5,Presencial,True
+EMP-1428,Funcionário 429,26,Feminino,RH,Assistente de RH,Junior,96,5129.67,4,8,2,6,Híbrido,False
+EMP-1429,Funcionário 430,27,Feminino,RH,Analista de RH,Pleno,13,6175.05,4,7,10,4,Híbrido,False
+EMP-1430,Funcionário 431,44,Feminino,P&D,Gerente de P&D,Gerência,102,17897.29,2,2,17,1,Remoto,True
+EMP-1431,Funcionário 432,22,Masculino,RH,Assistente de RH,Junior,76,4160.58,3,5,13,2,Remoto,True
+EMP-1432,Funcionário 433,22,Feminino,P&D,Pesquisador Jr,Junior,24,4155.31,3,3,15,5,Híbrido,True
+EMP-1433,Funcionário 434,25,Masculino,P&D,Pesquisador Jr,Junior,50,4596.11,5,7,8,8,Remoto,False
+EMP-1434,Funcionário 435,47,Feminino,Operações,Gerente de Operações,Gerência,62,15098.33,3,4,10,4,Remoto,False
+EMP-1435,Funcionário 436,55,Feminino,Marketing,Diretor de Marketing,Diretoria,83,25928.33,1,1,18,0,Remoto,False
+EMP-1436,Funcionário 437,37,Masculino,Operações,Gerente de Operações,Gerência,90,17463.66,4,7,6,6,Híbrido,False
+EMP-1437,Funcionário 438,35,Feminino,RH,Especialista de RH,Sênior,56,10848.04,4,7,2,5,Remoto,False
+EMP-1438,Funcionário 439,49,Masculino,Administrativo,Gerente Administrativo,Gerência,39,13288.22,3,3,12,3,Híbrido,True
+EMP-1439,Funcionário 440,33,Feminino,Administrativo,Analista Administrativo,Pleno,74,7515.74,3,4,11,3,Híbrido,True
+EMP-1440,Funcionário 441,31,Masculino,RH,Analista de RH,Pleno,17,6464.69,2,4,13,0,Remoto,True
+EMP-1441,Funcionário 442,42,Masculino,P&D,Pesquisador Sr,Sênior,13,9754.89,5,9,7,4,Remoto,False
+EMP-1442,Funcionário 443,31,Masculino,P&D,Pesquisador Pleno,Pleno,42,6924.27,3,6,15,3,Híbrido,False
+EMP-1443,Funcionário 444,34,Feminino,Vendas,Vendedor Pleno,Pleno,9,5859.51,2,3,11,2,Remoto,False
+EMP-1444,Funcionário 445,29,Masculino,Operações,Analista de Operações,Pleno,92,7819.72,3,3,12,4,Híbrido,True
+EMP-1445,Funcionário 446,46,Masculino,TI,Arquiteto de Software,Diretoria,117,30216.34,4,4,5,5,Híbrido,False
+EMP-1446,Funcionário 447,27,Masculino,TI,Desenvolvedor Pleno,Pleno,111,7298.07,4,4,10,7,Remoto,False
+EMP-1447,Funcionário 448,35,Feminino,Financeiro,Gerente Financeiro,Gerência,102,17940.32,5,7,10,6,Híbrido,False
+EMP-1448,Funcionário 449,24,Feminino,Vendas,Vendedor Jr,Junior,69,4224.75,5,8,5,3,Híbrido,False
+EMP-1449,Funcionário 450,41,Masculino,P&D,Gerente de P&D,Gerência,24,13718.62,5,8,4,8,Híbrido,False
+EMP-1450,Funcionário 451,58,Masculino,Operações,COO,Diretoria,52,25668.67,3,4,13,4,Remoto,False
+EMP-1451,Funcionário 452,25,Masculino,Operações,Analista de Operações,Pleno,105,8065.87,5,8,10,7,Presencial,True
+EMP-1452,Funcionário 453,33,Masculino,RH,Analista de RH,Pleno,90,7133.16,3,3,17,3,Remoto,False
+EMP-1453,Funcionário 454,32,Masculino,Administrativo,Analista Administrativo,Pleno,3,5245.5,3,6,11,3,Remoto,True
+EMP-1454,Funcionário 455,30,Feminino,Administrativo,Assistente Administrativo,Junior,51,3981.62,4,6,5,5,Remoto,True
+EMP-1455,Funcionário 456,33,Masculino,Administrativo,Analista Administrativo,Pleno,72,7406.87,5,9,8,4,Híbrido,False
+EMP-1456,Funcionário 457,29,Masculino,Financeiro,Analista Financeiro,Pleno,105,8625.88,3,4,9,3,Remoto,True
+EMP-1457,Funcionário 458,39,Masculino,Operações,Coordenador de Operações,Sênior,69,10659.77,3,4,5,5,Remoto,False
+EMP-1458,Funcionário 459,42,Feminino,Vendas,Gerente de Vendas,Gerência,101,16585.54,4,7,2,4,Presencial,False
+EMP-1459,Funcionário 460,44,Feminino,Vendas,Gerente de Vendas,Gerência,104,16518.69,4,5,12,4,Híbrido,True
+EMP-1460,Funcionário 461,48,Feminino,TI,CTO,Diretoria,68,24675.76,4,6,12,7,Remoto,False
+EMP-1461,Funcionário 462,38,Masculino,TI,Gerente de TI,Gerência,63,16116.73,2,2,15,1,Presencial,False
+EMP-1462,Funcionário 463,24,Masculino,Operações,Assistente Operacional,Junior,9,3358.72,4,5,5,5,Presencial,True
+EMP-1463,Funcionário 464,28,Masculino,Administrativo,Analista Administrativo,Pleno,67,7034.19,4,7,10,7,Híbrido,True
+EMP-1464,Funcionário 465,22,Masculino,Administrativo,Assistente Administrativo,Junior,108,5581.53,4,7,6,6,Remoto,True
+EMP-1465,Funcionário 466,37,Masculino,RH,Especialista de RH,Sênior,75,10964.48,3,3,14,5,Presencial,True
+EMP-1466,Funcionário 467,26,Feminino,Administrativo,Assistente Administrativo,Junior,69,4372.62,2,4,11,2,Híbrido,False
+EMP-1467,Funcionário 468,36,Feminino,Marketing,Gerente de Marketing,Gerência,92,17689.58,1,1,15,1,Híbrido,True
+EMP-1468,Funcionário 469,24,Feminino,Administrativo,Assistente Administrativo,Junior,105,4956.64,5,8,5,5,Híbrido,False
+EMP-1469,Funcionário 470,38,Masculino,RH,Especialista de RH,Sênior,102,13260.93,2,3,10,3,Remoto,True
+EMP-1470,Funcionário 471,24,Feminino,P&D,Pesquisador Jr,Junior,84,4569.86,4,5,13,5,Remoto,False
+EMP-1471,Funcionário 472,29,Masculino,Marketing,Analista de Marketing Sr,Pleno,16,6366.92,4,6,9,5,Híbrido,False
+EMP-1472,Funcionário 473,22,Masculino,Operações,Assistente Operacional,Junior,97,4874.11,3,3,12,3,Remoto,True
+EMP-1473,Funcionário 474,60,Feminino,P&D,Diretor de P&D,Diretoria,97,27370.7,4,8,5,5,Híbrido,False
+EMP-1474,Funcionário 475,28,Masculino,Financeiro,Analista Financeiro,Pleno,27,6183.31,3,6,10,4,Presencial,False
+EMP-1475,Funcionário 476,41,Masculino,Marketing,Gerente de Marketing,Gerência,85,15153.64,3,6,11,4,Remoto,False
+EMP-1476,Funcionário 477,57,Masculino,TI,Arquiteto de Software,Diretoria,115,29203.93,2,1,10,2,Presencial,True
+EMP-1477,Funcionário 478,23,Feminino,Marketing,Analista de Marketing Jr,Junior,16,3572.82,3,6,12,5,Presencial,False
+EMP-1478,Funcionário 479,22,Feminino,TI,Desenvolvedor Jr,Junior,24,3972.9,3,6,10,4,Presencial,True
+EMP-1479,Funcionário 480,27,Masculino,Vendas,Vendedor Jr,Junior,111,5303.31,3,5,9,5,Presencial,False
+EMP-1480,Funcionário 481,41,Feminino,P&D,Pesquisador Sr,Sênior,77,11528.21,4,4,15,7,Híbrido,True
+EMP-1481,Funcionário 482,27,Masculino,Vendas,Vendedor Jr,Junior,89,4991.84,2,2,10,3,Presencial,True
+EMP-1482,Funcionário 483,42,Masculino,TI,CTO,Diretoria,24,23926.77,3,3,19,5,Remoto,True
+EMP-1483,Funcionário 484,57,Feminino,RH,Diretor de RH,Diretoria,1,21713.63,1,2,11,0,Híbrido,True
+EMP-1484,Funcionário 485,26,Feminino,Marketing,Analista de Marketing Jr,Junior,72,4185.29,3,3,15,5,Remoto,True
+EMP-1485,Funcionário 486,24,Feminino,Administrativo,Assistente Administrativo,Junior,58,3987.41,4,4,5,3,Presencial,False
+EMP-1486,Funcionário 487,31,Masculino,Financeiro,Analista Financeiro,Pleno,103,8390.58,1,1,18,3,Híbrido,True
+EMP-1487,Funcionário 488,59,Feminino,RH,Diretor de RH,Diretoria,41,21494.8,2,3,16,2,Remoto,False
+EMP-1488,Funcionário 489,26,Feminino,RH,Assistente de RH,Junior,16,3372.27,5,9,4,8,Híbrido,False
+EMP-1489,Funcionário 490,50,Feminino,Financeiro,Controller,Diretoria,6,22273.24,4,7,3,4,Híbrido,False
+EMP-1490,Funcionário 491,41,Masculino,Marketing,Diretor de Marketing,Diretoria,17,19719.08,4,4,6,6,Híbrido,False
+EMP-1491,Funcionário 492,60,Feminino,P&D,Diretor de P&D,Diretoria,74,27474.71,5,7,9,5,Remoto,False
+EMP-1492,Funcionário 493,30,Feminino,Vendas,Vendedor Sr,Sênior,27,9690.44,4,5,6,3,Remoto,True
+EMP-1493,Funcionário 494,46,Masculino,Operações,Gerente de Operações,Gerência,84,16344.94,5,6,7,8,Remoto,False
+EMP-1494,Funcionário 495,42,Masculino,Vendas,Gerente de Vendas,Gerência,21,13398.5,4,6,7,4,Presencial,False
+EMP-1495,Funcionário 496,38,Masculino,TI,Desenvolvedor Sr,Sênior,12,8931.0,2,2,20,1,Híbrido,False
+EMP-1496,Funcionário 497,45,Feminino,Operações,COO,Diretoria,72,27590.53,4,8,8,8,Presencial,False
+EMP-1497,Funcionário 498,43,Feminino,Administrativo,Gerente Administrativo,Gerência,33,14107.85,3,6,11,4,Remoto,True
+EMP-1498,Funcionário 499,30,Feminino,Administrativo,Coordenador Administrativo,Sênior,109,13229.86,5,7,5,5,Híbrido,False
+EMP-1499,Funcionário 500,33,Feminino,TI,Desenvolvedor Sr,Sênior,97,11247.63,3,6,10,4,Remoto,True
